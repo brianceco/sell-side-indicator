@@ -1,0 +1,645 @@
+Author,Date,Firm,Strategist,Stock Allocation %,2004 Close
+No one,2004-01-05,Bank of America,Thomas McManus,70.0,1160.0
+No one,2004-01-05,Bear Stearns,Francois Trahan,60.0,1100.0
+No one,2004-01-05,CIBC,Subodh Kumar,70.0,1250.0
+No one,2004-01-05,CSFB,Patrick Jilek,,
+No one,2004-01-05,Citigroup,Committee,55.0,1025.0
+No one,2004-01-05,Deutsche Bank,Pascal Costantini,,1100.0
+No one,2004-01-05,Goldman Sachs,Abby Joseph Cohen,75.0,1250.0
+No one,2004-01-05,JPMorgan,,,1120.0
+No one,2004-01-05,Lehman,Henry Dickson,70.0,1150.0
+No one,2004-01-05,Merrill Lynch,Richard Bernstein,45.0,890.0
+No one,2004-01-05,Morgan Stanley,Steve Galbraith,65.0,1125.0
+No one,2004-01-05,Prudential,Ed Yardeni,80.0,1300.0
+No one,2004-01-05,UBS,Gary Gordon,70.0,1150.0
+No one,2004-01-05,Wachovia,Rod Smyth,78.0,1200.0
+No one,2004-01-12,Bank of America,Thomas McManus,70.0,1160.0
+No one,2004-01-12,Bear Stearns,Francois Trahan,60.0,1160.0
+No one,2004-01-12,CIBC,Subodh Kumar,70.0,1250.0
+No one,2004-01-12,CSFB,Patrick Jilek,,
+No one,2004-01-12,Citigroup,Committee,55.0,1025.0
+No one,2004-01-12,Deutsche Bank,Pascal Costantini,,1100.0
+No one,2004-01-12,Goldman Sachs,Abby Joseph Cohen,75.0,1250.0
+No one,2004-01-12,JPMorgan,,,1120.0
+No one,2004-01-12,Lehman,Henry Dickson,70.0,1150.0
+No one,2004-01-12,Merrill Lynch,Richard Bernstein,45.0,1010.0
+No one,2004-01-12,Morgan Stanley,Steve Galbraith,65.0,1125.0
+No one,2004-01-12,Prudential,Ed Yardeni,80.0,1300.0
+No one,2004-01-12,UBS,Gary Gordon,70.0,1200.0
+No one,2004-01-12,Wachovia,Rod Smyth,78.0,1200.0
+No one,2004-01-20,Bank of America,Thomas McManus,65.0,1160.0
+No one,2004-01-20,Bank of America,Thomas McManus,70.0,1160.0
+No one,2004-01-20,Bear Stearns,Francois Trahan,60.0,1160.0
+No one,2004-01-20,CIBC,Subodh Kumar,70.0,1250.0
+No one,2004-01-20,CSFB,Patrick Jilek,,
+No one,2004-01-20,Citigroup,Committee,55.0,1025.0
+No one,2004-01-20,Deutsche Bank,Pascal Costantini,,1100.0
+No one,2004-01-20,Goldman Sachs,Abby Joseph Cohen,75.0,1250.0
+No one,2004-01-20,JPMorgan,,,1120.0
+No one,2004-01-20,Lehman,Henry Dickson,70.0,1225.0
+No one,2004-01-20,Merrill Lynch,Richard Bernstein,45.0,1010.0
+No one,2004-01-20,Morgan Stanley,Steve Galbraith,65.0,1125.0
+No one,2004-01-20,Prudential,Ed Yardeni,80.0,1300.0
+No one,2004-01-20,UBS,Gary Gordon,70.0,1200.0
+No one,2004-01-20,Wachovia,Rod Smyth,78.0,1200.0
+No one,2004-01-26,Bank of America,Thomas McManus,65.0,1160.0
+No one,2004-01-26,Bear Stearns,Francois Trahan,60.0,1160.0
+No one,2004-01-26,CIBC,Subodh Kumar,70.0,1250.0
+No one,2004-01-26,CSFB,Patrick Jilek,,
+No one,2004-01-26,Citigroup,Committee,55.0,1025.0
+No one,2004-01-26,Deutsche Bank,Pascal Costantini,,1100.0
+No one,2004-01-26,Goldman Sachs,Abby Joseph Cohen,75.0,1250.0
+No one,2004-01-26,JPMorgan,,,1120.0
+No one,2004-01-26,Lehman,Henry Dickson,70.0,1225.0
+No one,2004-01-26,Merrill Lynch,Richard Bernstein,45.0,1010.0
+No one,2004-01-26,Morgan Stanley,Steve Galbraith,65.0,1125.0
+No one,2004-01-26,Prudential,Ed Yardeni,80.0,1300.0
+No one,2004-01-26,UBS,Gary Gordon,70.0,1200.0
+No one,2004-01-26,Wachovia,Rod Smyth,78.0,1200.0
+Edgar Ortega,2004-02-02,Bank of America,Thomas McManus,65.0,1160.0
+Edgar Ortega,2004-02-02,Bear Stearns,Francois Trahan,60.0,1160.0
+Edgar Ortega,2004-02-02,CIBC,Subodh Kumar,70.0,1250.0
+Edgar Ortega,2004-02-02,CSFB,Patrick Jilek,,
+Edgar Ortega,2004-02-02,Citigroup,Committee,55.0,1025.0
+Edgar Ortega,2004-02-02,Deutsche Bank,Pascal Costantini,,1100.0
+Edgar Ortega,2004-02-02,Goldman Sachs,Abby Joseph Cohen,75.0,1250.0
+Edgar Ortega,2004-02-02,JPMorgan,,,1120.0
+Edgar Ortega,2004-02-02,Lehman,Henry Dickson,70.0,1225.0
+Edgar Ortega,2004-02-02,Merrill Lynch,Richard Bernstein,45.0,1010.0
+Edgar Ortega,2004-02-02,Morgan Stanley,,65.0,1125.0
+Edgar Ortega,2004-02-02,Prudential,Ed Yardeni,80.0,1300.0
+Edgar Ortega,2004-02-02,UBS,Gary Gordon,70.0,1200.0
+Edgar Ortega,2004-02-02,Wachovia,Rod Smyth,78.0,1200.0
+Chris Graja,2004-02-09,Bank of America,Thomas McManus,65.0,1160.0
+Chris Graja,2004-02-09,Bear Stearns,Francois Trahan,60.0,1160.0
+Chris Graja,2004-02-09,CIBC,Subodh Kumar,70.0,
+Chris Graja,2004-02-09,CSFB,Patrick Jilek,,
+Chris Graja,2004-02-09,Citigroup,Committee,55.0,1025.0
+Chris Graja,2004-02-09,Deutsche Bank,Pascal Costantini,,1100.0
+Chris Graja,2004-02-09,Goldman Sachs,Abby Joseph Cohen,75.0,
+Chris Graja,2004-02-09,JPMorgan,,,1150.0
+Chris Graja,2004-02-09,Lehman,Henry Dickson,70.0,
+Chris Graja,2004-02-09,Merrill Lynch,Richard Bernstein,45.0,
+Chris Graja,2004-02-09,Morgan Stanley,,65.0,1125.0
+Chris Graja,2004-02-09,Prudential,Ed Yardeni,80.0,1300.0
+Chris Graja,2004-02-09,UBS,Gary Gordon,70.0,
+Chris Graja,2004-02-09,Wachovia,Rod Smyth,78.0,
+No one,2004-02-17,Bank of America,Thomas McManus,65.0,1160.0
+No one,2004-02-17,Bear Stearns,Francois Trahan,60.0,1160.0
+No one,2004-02-17,CIBC,Subodh Kumar,70.0,
+No one,2004-02-17,CSFB,Patrick Jilek,,
+No one,2004-02-17,Citigroup,Committee,55.0,1025.0
+No one,2004-02-17,Deutsche Bank,Pascal Costantini,,1100.0
+No one,2004-02-17,Goldman Sachs,Abby Joseph Cohen,75.0,
+No one,2004-02-17,JPMorgan,,,1150.0
+No one,2004-02-17,Lehman,Henry Dickson,70.0,
+No one,2004-02-17,Merrill Lynch,Richard Bernstein,45.0,
+No one,2004-02-17,Morgan Stanley,,65.0,1125.0
+No one,2004-02-17,Prudential,Ed Yardeni,80.0,1300.0
+No one,2004-02-17,UBS,Gary Gordon,70.0,
+No one,2004-02-17,Wachovia,Rod Smyth,78.0,
+Dune Lawrence,2004-02-23,Bank of America,Thomas McManus,65.0,1160.0
+Dune Lawrence,2004-02-23,Bear Stearns,Francois Trahan,60.0,1160.0
+Dune Lawrence,2004-02-23,CIBC,Subodh Kumar,70.0,
+Dune Lawrence,2004-02-23,CSFB,Patrick Jilek,,
+Dune Lawrence,2004-02-23,Citigroup,Committee,55.0,1025.0
+Dune Lawrence,2004-02-23,Deutsche Bank,Pascal Costantini,,1100.0
+Dune Lawrence,2004-02-23,Goldman Sachs,Abby Joseph Cohen,75.0,
+Dune Lawrence,2004-02-23,JPMorgan,,70.0,1150.0
+Dune Lawrence,2004-02-23,Lehman,Henry Dickson,70.0,
+Dune Lawrence,2004-02-23,Merrill Lynch,Richard Bernstein,45.0,
+Dune Lawrence,2004-02-23,Morgan Stanley,,65.0,1125.0
+Dune Lawrence,2004-02-23,Prudential,Ed Yardeni,80.0,1300.0
+Dune Lawrence,2004-02-23,UBS,Gary Gordon,70.0,
+Dune Lawrence,2004-02-23,Wachovia,Rod Smyth,78.0,
+Lu Wang,2004-03-08,Bank of America,Thomas McManus,65.0,1160.0
+Lu Wang,2004-03-08,Bear Stearns,Francois Trahan,60.0,1160.0
+Lu Wang,2004-03-08,CIBC,Subodh Kumar,70.0,
+Lu Wang,2004-03-08,CSFB,Patrick Jilek,,
+Lu Wang,2004-03-08,Citigroup,Committee,55.0,1025.0
+Lu Wang,2004-03-08,Deutsche Bank,Pascal Costantini,,1100.0
+Lu Wang,2004-03-08,Goldman Sachs,Abby Joseph Cohen,75.0,
+Lu Wang,2004-03-08,JPMorgan,,70.0,1150.0
+Lu Wang,2004-03-08,Lehman,Henry Dickson,70.0,
+Lu Wang,2004-03-08,Merrill Lynch,Richard Bernstein,45.0,
+Lu Wang,2004-03-08,Morgan Stanley,,65.0,
+Lu Wang,2004-03-08,Prudential,Ed Yardeni,80.0,1300.0
+Lu Wang,2004-03-08,UBS,Gary Gordon,70.0,
+Lu Wang,2004-03-08,Wachovia,Rod Smyth,78.0,
+John Melloy,2004-03-15,Bank of America,Thomas McManus,65.0,1160.0
+John Melloy,2004-03-15,Bear Stearns,Francois Trahan,60.0,1160.0
+John Melloy,2004-03-15,CIBC,Subodh Kumar,70.0,
+John Melloy,2004-03-15,CSFB,Patrick Jilek,,
+John Melloy,2004-03-15,Citigroup,Committee,55.0,1025.0
+John Melloy,2004-03-15,Deutsche Bank,Pascal Costantini,,1100.0
+John Melloy,2004-03-15,Goldman Sachs,Abby Joseph Cohen,75.0,
+John Melloy,2004-03-15,JPMorgan,,70.0,1150.0
+John Melloy,2004-03-15,Lehman,Henry Dickson,70.0,
+John Melloy,2004-03-15,Merrill Lynch,Richard Bernstein,45.0,
+John Melloy,2004-03-15,Morgan Stanley,,65.0,
+John Melloy,2004-03-15,Prudential,Ed Yardeni,80.0,1300.0
+John Melloy,2004-03-15,UBS,Gary Gordon,70.0,
+John Melloy,2004-03-15,Wachovia,Rod Smyth,78.0,
+Lu Wang,2004-03-22,Bank of America,Thomas McManus,65.0,1160.0
+Lu Wang,2004-03-22,Bear Stearns,Francois Trahan,60.0,1160.0
+Lu Wang,2004-03-22,CIBC,Subodh Kumar,70.0,
+Lu Wang,2004-03-22,CSFB,Patrick Jilek,,
+Lu Wang,2004-03-22,Citigroup,Committee,55.0,1025.0
+Lu Wang,2004-03-22,Deutsche Bank,Pascal Costantini,,1100.0
+Lu Wang,2004-03-22,Goldman Sachs,Abby Joseph Cohen,75.0,
+Lu Wang,2004-03-22,JPMorgan,,70.0,1150.0
+Lu Wang,2004-03-22,Lehman,Henry Dickson,70.0,
+Lu Wang,2004-03-22,Merrill Lynch,Richard Bernstein,45.0,
+Lu Wang,2004-03-22,Morgan Stanley,,65.0,1300.0
+Lu Wang,2004-03-22,Prudential,Ed Yardeni,80.0,1300.0
+Lu Wang,2004-03-22,UBS,Gary Gordon,70.0,
+Lu Wang,2004-03-22,Wachovia,Rod Smyth,78.0,
+Dune Lawrence,2004-03-29,Bank of America,Thomas McManus,65.0,1160.0
+Dune Lawrence,2004-03-29,Bear Stearns,Francois Trahan,60.0,1160.0
+Dune Lawrence,2004-03-29,CIBC,Subodh Kumar,70.0,
+Dune Lawrence,2004-03-29,CSFB,Patrick Jilek,,
+Dune Lawrence,2004-03-29,Citigroup,Committee,55.0,1025.0
+Dune Lawrence,2004-03-29,Deutsche Bank,Pascal Costantini,,1100.0
+Dune Lawrence,2004-03-29,Goldman Sachs,Abby Joseph Cohen,75.0,
+Dune Lawrence,2004-03-29,JPMorgan,,70.0,1150.0
+Dune Lawrence,2004-03-29,Lehman,Henry Dickson,70.0,
+Dune Lawrence,2004-03-29,Merrill Lynch,Richard Bernstein,45.0,
+Dune Lawrence,2004-03-29,Morgan Stanley,,65.0,1300.0
+Dune Lawrence,2004-03-29,Prudential,Ed Yardeni,80.0,1300.0
+Dune Lawrence,2004-03-29,UBS,Gary Gordon,70.0,
+Dune Lawrence,2004-03-29,Wachovia,Rod Smyth,78.0,
+Dune Lawrence,2004-04-05,Bank of America,Thomas McManus,65.0,1160.0
+Dune Lawrence,2004-04-05,Bear Stearns,Francois Trahan,60.0,1160.0
+Dune Lawrence,2004-04-05,CIBC,Subodh Kumar,70.0,
+Dune Lawrence,2004-04-05,CSFB,Patrick Jilek,,
+Dune Lawrence,2004-04-05,Citigroup,Committee,55.0,1025.0
+Dune Lawrence,2004-04-05,Deutsche Bank,Pascal Costantini,,1100.0
+Dune Lawrence,2004-04-05,Goldman Sachs,Abby Joseph Cohen,75.0,
+Dune Lawrence,2004-04-05,JPMorgan,,70.0,1150.0
+Dune Lawrence,2004-04-05,Lehman,Henry Dickson,70.0,
+Dune Lawrence,2004-04-05,Merrill Lynch,Richard Bernstein,45.0,
+Dune Lawrence,2004-04-05,Morgan Stanley,,65.0,1300.0
+Dune Lawrence,2004-04-05,Prudential,Ed Yardeni,80.0,1300.0
+Dune Lawrence,2004-04-05,UBS,Gary Gordon,60.0,
+Dune Lawrence,2004-04-05,Wachovia,Rod Smyth,78.0,
+Dune Lawrence,2004-04-12,Bank of America,Thomas McManus,65.0,1160.0
+Dune Lawrence,2004-04-12,Bear Stearns,Francois Trahan,60.0,1160.0
+Dune Lawrence,2004-04-12,CIBC,Subodh Kumar,70.0,
+Dune Lawrence,2004-04-12,CSFB,Patrick Jilek,,
+Dune Lawrence,2004-04-12,Citigroup,Committee,55.0,1025.0
+Dune Lawrence,2004-04-12,Deutsche Bank,Pascal Costantini,,1100.0
+Dune Lawrence,2004-04-12,Goldman Sachs,Abby Joseph Cohen,75.0,
+Dune Lawrence,2004-04-12,JPMorgan,,70.0,1150.0
+Dune Lawrence,2004-04-12,Lehman,Henry Dickson,70.0,
+Dune Lawrence,2004-04-12,Merrill Lynch,Richard Bernstein,45.0,
+Dune Lawrence,2004-04-12,Morgan Stanley,,65.0,1300.0
+Dune Lawrence,2004-04-12,Prudential,Ed Yardeni,80.0,1340.0
+Dune Lawrence,2004-04-12,UBS,Gary Gordon,60.0,
+Dune Lawrence,2004-04-12,Wachovia,Rod Smyth,78.0,
+Ari Levy,2004-04-19,Bank of America,Thomas McManus,65.0,1160.0
+Ari Levy,2004-04-19,Bear Stearns,Francois Trahan,60.0,1160.0
+Ari Levy,2004-04-19,CIBC,Subodh Kumar,70.0,
+Ari Levy,2004-04-19,CSFB,Patrick Jilek,,
+Ari Levy,2004-04-19,Citigroup,Committee,55.0,1025.0
+Ari Levy,2004-04-19,Deutsche Bank,Pascal Costantini,,1100.0
+Ari Levy,2004-04-19,Goldman Sachs,Abby Joseph Cohen,75.0,
+Ari Levy,2004-04-19,JPMorgan,,70.0,1150.0
+Ari Levy,2004-04-19,Lehman,Henry Dickson,65.0,
+Ari Levy,2004-04-19,Merrill Lynch,Richard Bernstein,45.0,
+Ari Levy,2004-04-19,Morgan Stanley,,65.0,1300.0
+Ari Levy,2004-04-19,Prudential,Ed Yardeni,80.0,1340.0
+Ari Levy,2004-04-19,UBS,Gary Gordon,60.0,
+Ari Levy,2004-04-19,Wachovia,Rod Smyth,78.0,
+Chris Graja,2004-04-26,Bank of America,Thomas McManus,65.0,1160.0
+Chris Graja,2004-04-26,Bear Stearns,Francois Trahan,60.0,1160.0
+Chris Graja,2004-04-26,CIBC,Subodh Kumar,70.0,
+Chris Graja,2004-04-26,CSFB,Patrick Jilek,,
+Chris Graja,2004-04-26,Citigroup,Committee,55.0,1025.0
+Chris Graja,2004-04-26,Deutsche Bank,Pascal Costantini,,1100.0
+Chris Graja,2004-04-26,Goldman Sachs,Abby Joseph Cohen,75.0,
+Chris Graja,2004-04-26,JPMorgan,,70.0,1150.0
+Chris Graja,2004-04-26,Lehman,Henry Dickson,65.0,
+Chris Graja,2004-04-26,Merrill Lynch,Richard Bernstein,45.0,
+Chris Graja,2004-04-26,Morgan Stanley,,65.0,1300.0
+Chris Graja,2004-04-26,Prudential,Ed Yardeni,80.0,1340.0
+Chris Graja,2004-04-26,UBS,Gary Gordon,60.0,
+Chris Graja,2004-04-26,Wachovia,Rod Smyth,73.0,
+Ari Levy,2004-05-03,Bank of America,Thomas McManus,65.0,1160.0
+Ari Levy,2004-05-03,Bear Stearns,Francois Trahan,60.0,1160.0
+Ari Levy,2004-05-03,CIBC,Subodh Kumar,70.0,
+Ari Levy,2004-05-03,CSFB,Patrick Jilek,,
+Ari Levy,2004-05-03,Citigroup,Committee,55.0,1025.0
+Ari Levy,2004-05-03,Deutsche Bank,,,
+Ari Levy,2004-05-03,Goldman Sachs,Abby Joseph Cohen,75.0,
+Ari Levy,2004-05-03,JPMorgan,,70.0,1150.0
+Ari Levy,2004-05-03,Lehman,Henry Dickson,65.0,
+Ari Levy,2004-05-03,Merrill Lynch,Richard Bernstein,45.0,
+Ari Levy,2004-05-03,Morgan Stanley,,65.0,1300.0
+Ari Levy,2004-05-03,Prudential,Ed Yardeni,80.0,1340.0
+Ari Levy,2004-05-03,UBS,Gary Gordon,60.0,
+Ari Levy,2004-05-03,Wachovia,Rod Smyth,73.0,
+Ari Levy,2004-05-10,Bank of America,Thomas McManus,65.0,1160.0
+Ari Levy,2004-05-10,Bear Stearns,Francois Trahan,60.0,1160.0
+Ari Levy,2004-05-10,CIBC,Subodh Kumar,70.0,
+Ari Levy,2004-05-10,CSFB,Patrick Jilek,,
+Ari Levy,2004-05-10,Citigroup,Committee,55.0,1025.0
+Ari Levy,2004-05-10,Deutsche Bank,,,
+Ari Levy,2004-05-10,Goldman Sachs,Abby Joseph Cohen,75.0,
+Ari Levy,2004-05-10,JPMorgan,,70.0,1150.0
+Ari Levy,2004-05-10,Lehman,Henry Dickson,65.0,
+Ari Levy,2004-05-10,Merrill Lynch,Richard Bernstein,45.0,
+Ari Levy,2004-05-10,Morgan Stanley,,65.0,1300.0
+Ari Levy,2004-05-10,Prudential,Ed Yardeni,80.0,1340.0
+Ari Levy,2004-05-10,UBS,,62.0,
+Ari Levy,2004-05-10,Wachovia,Rod Smyth,73.0,
+Chris Graja,2004-05-24,Bear Stearns,Francois Trahan,60.0,1160.0
+Chris Graja,2004-05-24,CIBC,Subodh Kumar,72.0,
+Chris Graja,2004-05-24,CSFB,Patrick Jilek,,
+Chris Graja,2004-05-24,Citigroup,Committee,55.0,1025.0
+Chris Graja,2004-05-24,Deutsche Bank,,,
+Chris Graja,2004-05-24,Goldman Sachs,Abby Joseph Cohen,75.0,
+Chris Graja,2004-05-24,JPMorgan,,70.0,1150.0
+Chris Graja,2004-05-24,Lehman,Henry Dickson,65.0,
+Chris Graja,2004-05-24,Merrill Lynch,Richard Bernstein,45.0,
+Chris Graja,2004-05-24,Morgan Stanley,,65.0,1300.0
+Chris Graja,2004-05-24,Prudential,Ed Yardeni,80.0,1340.0
+Chris Graja,2004-05-24,UBS,,55.0,
+Chris Graja,2004-05-24,Wachovia,Rod Smyth,73.0,
+Ari Levy,2004-06-01,Bank of America,Thomas McManus,65.0,1160.0
+Ari Levy,2004-06-01,Bear Stearns,Francois Trahan,60.0,1160.0
+Ari Levy,2004-06-01,CIBC,Subodh Kumar,72.0,
+Ari Levy,2004-06-01,CSFB,Patrick Jilek,,
+Ari Levy,2004-06-01,Citigroup,Committee,55.0,1025.0
+Ari Levy,2004-06-01,Deutsche Bank,,,
+Ari Levy,2004-06-01,Goldman Sachs,Abby Joseph Cohen,75.0,
+Ari Levy,2004-06-01,JPMorgan,,70.0,1150.0
+Ari Levy,2004-06-01,Lehman,Henry Dickson,65.0,
+Ari Levy,2004-06-01,Merrill Lynch,Richard Bernstein,45.0,
+Ari Levy,2004-06-01,Morgan Stanley,,65.0,1300.0
+Ari Levy,2004-06-01,Prudential,Ed Yardeni,80.0,1340.0
+Ari Levy,2004-06-01,UBS,,55.0,
+Ari Levy,2004-06-01,Wachovia,Rod Smyth,73.0,
+Dune Lawrence,2004-06-07,Bank of America,Thomas McManus,65.0,1160.0
+Dune Lawrence,2004-06-07,Bear Stearns,Francois Trahan,60.0,1160.0
+Dune Lawrence,2004-06-07,CIBC,Subodh Kumar,72.0,
+Dune Lawrence,2004-06-07,CSFB,Patrick Jilek,,
+Dune Lawrence,2004-06-07,Citigroup,Committee,55.0,1025.0
+Dune Lawrence,2004-06-07,Deutsche Bank,,,
+Dune Lawrence,2004-06-07,Goldman Sachs,Abby Joseph Cohen,75.0,
+Dune Lawrence,2004-06-07,JPMorgan,,70.0,1150.0
+Dune Lawrence,2004-06-07,Lehman,Henry Dickson,65.0,
+Dune Lawrence,2004-06-07,Merrill Lynch,Richard Bernstein,45.0,
+Dune Lawrence,2004-06-07,Morgan Stanley,,65.0,1200.0
+Dune Lawrence,2004-06-07,Prudential,Ed Yardeni,80.0,1340.0
+Dune Lawrence,2004-06-07,UBS,,55.0,
+Dune Lawrence,2004-06-07,Wachovia,Rod Smyth,73.0,
+Dune Lawrence,2004-06-21,Bank of America,Thomas McManus,60.0,1160.0
+Dune Lawrence,2004-06-21,Bear Stearns,Francois Trahan,60.0,1160.0
+Dune Lawrence,2004-06-21,CIBC,Subodh Kumar,72.0,
+Dune Lawrence,2004-06-21,CSFB,Patrick Jilek,,
+Dune Lawrence,2004-06-21,Citigroup,Committee,55.0,1025.0
+Dune Lawrence,2004-06-21,Deutsche Bank,,,
+Dune Lawrence,2004-06-21,Goldman Sachs,Abby Joseph Cohen,75.0,
+Dune Lawrence,2004-06-21,JPMorgan,,70.0,1150.0
+Dune Lawrence,2004-06-21,Lehman,Henry Dickson,65.0,
+Dune Lawrence,2004-06-21,Merrill Lynch,Richard Bernstein,45.0,
+Dune Lawrence,2004-06-21,Morgan Stanley,,65.0,1200.0
+Dune Lawrence,2004-06-21,Prudential,Ed Yardeni,80.0,1340.0
+Dune Lawrence,2004-06-21,UBS,,55.0,
+Dune Lawrence,2004-06-21,Wachovia,Rod Smyth,73.0,
+Dune Lawrence,2004-06-28,Bank of America,Thomas McManus,60.0,1160.0
+Dune Lawrence,2004-06-28,Bear Stearns,Francois Trahan,60.0,1160.0
+Dune Lawrence,2004-06-28,CIBC,Subodh Kumar,72.0,
+Dune Lawrence,2004-06-28,CSFB,Patrick Jilek,,
+Dune Lawrence,2004-06-28,Citigroup,Committee,55.0,1025.0
+Dune Lawrence,2004-06-28,Deutsche Bank,,,
+Dune Lawrence,2004-06-28,Goldman Sachs,Abby Joseph Cohen,75.0,
+Dune Lawrence,2004-06-28,JPMorgan,,70.0,1150.0
+Dune Lawrence,2004-06-28,Lehman,Henry Dickson,65.0,
+Dune Lawrence,2004-06-28,Merrill Lynch,Richard Bernstein,45.0,
+Dune Lawrence,2004-06-28,Morgan Stanley,Henry McVey,65.0,1200.0
+Dune Lawrence,2004-06-28,Prudential,Ed Yardeni,80.0,1340.0
+Dune Lawrence,2004-06-28,UBS,,55.0,
+Dune Lawrence,2004-06-28,Wachovia,Rod Smyth,73.0,
+Elinor Arbel,2004-07-06,Bank of America,Thomas McManus,60.0,1160.0
+Elinor Arbel,2004-07-06,Bear Stearns,Francois Trahan,60.0,1160.0
+Elinor Arbel,2004-07-06,CIBC,Subodh Kumar,72.0,
+Elinor Arbel,2004-07-06,CSFB,Patrick Jilek,,
+Elinor Arbel,2004-07-06,Citigroup,Committee,55.0,1025.0
+Elinor Arbel,2004-07-06,Deutsche Bank,,,1180.0
+Elinor Arbel,2004-07-06,Goldman Sachs,Abby Joseph Cohen,75.0,
+Elinor Arbel,2004-07-06,JPMorgan,,70.0,1150.0
+Elinor Arbel,2004-07-06,Lehman,Henry Dickson,65.0,
+Elinor Arbel,2004-07-06,Merrill Lynch,Richard Bernstein,45.0,
+Elinor Arbel,2004-07-06,Morgan Stanley,Henry McVey,65.0,1200.0
+Elinor Arbel,2004-07-06,Prudential,Ed Yardeni,80.0,1340.0
+Elinor Arbel,2004-07-06,UBS,,55.0,
+Elinor Arbel,2004-07-06,Wachovia,Rod Smyth,73.0,
+Elinor Arbel,2004-07-12,Bear Stearns,Francois Trahan,60.0,1100.0
+Elinor Arbel,2004-07-12,CIBC,Subodh Kumar,72.0,
+Elinor Arbel,2004-07-12,CSFB,Patrick Jilek,,
+Elinor Arbel,2004-07-12,Citigroup,Committee,55.0,1025.0
+Elinor Arbel,2004-07-12,Deutsche Bank,,65.0,1180.0
+Elinor Arbel,2004-07-12,Goldman Sachs,Abby Joseph Cohen,75.0,
+Elinor Arbel,2004-07-12,JPMorgan,,70.0,1150.0
+Elinor Arbel,2004-07-12,Lehman,Henry Dickson,65.0,
+Elinor Arbel,2004-07-12,Merrill Lynch,Richard Bernstein,45.0,
+Elinor Arbel,2004-07-12,Morgan Stanley,Henry McVey,65.0,1200.0
+Elinor Arbel,2004-07-12,Prudential,Ed Yardeni,80.0,1340.0
+Elinor Arbel,2004-07-12,UBS,,55.0,
+Elinor Arbel,2004-07-12,Wachovia,Rod Smyth,73.0,
+Elinor Arbel,2004-07-19,Bank of America,Thomas McManus,60.0,1160.0
+Elinor Arbel,2004-07-19,Bear Stearns,Francois Trahan,60.0,1100.0
+Elinor Arbel,2004-07-19,CIBC,Subodh Kumar,72.0,
+Elinor Arbel,2004-07-19,CSFB,Patrick Jilek,,
+Elinor Arbel,2004-07-19,Citigroup,Committee,55.0,1025.0
+Elinor Arbel,2004-07-19,Deutsche Bank,,65.0,1180.0
+Elinor Arbel,2004-07-19,Goldman Sachs,Abby Joseph Cohen,75.0,
+Elinor Arbel,2004-07-19,JPMorgan,,70.0,1150.0
+Elinor Arbel,2004-07-19,Lehman,Henry Dickson,65.0,
+Elinor Arbel,2004-07-19,Merrill Lynch,Richard Bernstein,45.0,
+Elinor Arbel,2004-07-19,Morgan Stanley,Henry McVey,65.0,1200.0
+Elinor Arbel,2004-07-19,Prudential,Ed Yardeni,80.0,1340.0
+Elinor Arbel,2004-07-19,UBS,,55.0,
+Elinor Arbel,2004-07-19,Wachovia,Rod Smyth,73.0,
+Elinor Arbel,2004-07-26,Bank of America,Thomas McManus,60.0,1160.0
+Elinor Arbel,2004-07-26,Bear Stearns,Francois Trahan,60.0,1100.0
+Elinor Arbel,2004-07-26,CIBC,Subodh Kumar,72.0,
+Elinor Arbel,2004-07-26,CSFB,Patrick Jilek,,
+Elinor Arbel,2004-07-26,Citigroup,Committee,55.0,1025.0
+Elinor Arbel,2004-07-26,Deutsche Bank,,65.0,1180.0
+Elinor Arbel,2004-07-26,Goldman Sachs,Abby Joseph Cohen,75.0,
+Elinor Arbel,2004-07-26,JPMorgan,,70.0,1150.0
+Elinor Arbel,2004-07-26,Lehman,Henry Dickson,65.0,
+Elinor Arbel,2004-07-26,Merrill Lynch,Richard Bernstein,45.0,
+Elinor Arbel,2004-07-26,Morgan Stanley,Henry McVey,65.0,1200.0
+Elinor Arbel,2004-07-26,Prudential,Ed Yardeni,80.0,1340.0
+Elinor Arbel,2004-07-26,UBS,,55.0,
+Elinor Arbel,2004-07-26,Wachovia,Rod Smyth,73.0,
+Elinor Arbel,2004-08-02,Bank of America,Thomas McManus,60.0,1160.0
+Elinor Arbel,2004-08-02,Bear Stearns,Francois Trahan,60.0,1100.0
+Elinor Arbel,2004-08-02,CIBC,Subodh Kumar,72.0,
+Elinor Arbel,2004-08-02,CSFB,Patrick Jilek,,
+Elinor Arbel,2004-08-02,Citigroup,Committee,55.0,1025.0
+Elinor Arbel,2004-08-02,Deutsche Bank,,65.0,1180.0
+Elinor Arbel,2004-08-02,Goldman Sachs,Abby Joseph Cohen,75.0,
+Elinor Arbel,2004-08-02,JPMorgan,,70.0,1150.0
+Elinor Arbel,2004-08-02,Lehman,Henry Dickson,65.0,
+Elinor Arbel,2004-08-02,Merrill Lynch,Richard Bernstein,45.0,
+Elinor Arbel,2004-08-02,Morgan Stanley,Henry McVey,65.0,1200.0
+Elinor Arbel,2004-08-02,Prudential,Ed Yardeni,70.0,1190.0
+Elinor Arbel,2004-08-02,UBS,,55.0,
+Elinor Arbel,2004-08-02,Wachovia,Rod Smyth,73.0,
+Elinor Arbel,2004-08-09,Bank of America,Thomas McManus,60.0,1160.0
+Elinor Arbel,2004-08-09,Bear Stearns,Francois Trahan,60.0,1100.0
+Elinor Arbel,2004-08-09,CIBC,Subodh Kumar,72.0,
+Elinor Arbel,2004-08-09,CSFB,Patrick Jilek,,
+Elinor Arbel,2004-08-09,Citigroup,Committee,55.0,1025.0
+Elinor Arbel,2004-08-09,Deutsche Bank,,65.0,1180.0
+Elinor Arbel,2004-08-09,Goldman Sachs,Abby Joseph Cohen,75.0,
+Elinor Arbel,2004-08-09,JPMorgan,,70.0,1150.0
+Elinor Arbel,2004-08-09,Lehman,Henry Dickson,65.0,
+Elinor Arbel,2004-08-09,Merrill Lynch,Richard Bernstein,45.0,
+Elinor Arbel,2004-08-09,Morgan Stanley,Henry McVey,65.0,1200.0
+Elinor Arbel,2004-08-09,Prudential,Ed Yardeni,70.0,1190.0
+Elinor Arbel,2004-08-09,UBS,,55.0,
+Elinor Arbel,2004-08-09,Wachovia,Rod Smyth,73.0,
+Elinor Arbel,2004-08-16,Bank of America,Thomas McManus,60.0,1160.0
+Elinor Arbel,2004-08-16,Bear Stearns,Francois Trahan,60.0,1100.0
+Elinor Arbel,2004-08-16,CIBC,Subodh Kumar,72.0,
+Elinor Arbel,2004-08-16,CSFB,Patrick Jilek,,
+Elinor Arbel,2004-08-16,Deutsche Bank,,65.0,1180.0
+Elinor Arbel,2004-08-16,Goldman Sachs,Abby Joseph Cohen,75.0,
+Elinor Arbel,2004-08-16,JPMorgan,,70.0,1150.0
+Elinor Arbel,2004-08-16,Lehman,Henry Dickson,65.0,
+Elinor Arbel,2004-08-16,Merrill Lynch,Richard Bernstein,45.0,
+Elinor Arbel,2004-08-16,Morgan Stanley,Henry McVey,65.0,1200.0
+Elinor Arbel,2004-08-16,Prudential,Ed Yardeni,70.0,1190.0
+Elinor Arbel,2004-08-16,Smith Barney,Committee,55.0,1025.0
+Elinor Arbel,2004-08-16,UBS,,55.0,
+Elinor Arbel,2004-08-16,Wachovia,Rod Smyth,73.0,
+Edgar Ortega,2004-08-23,Bank of America,Thomas McManus,60.0,
+Edgar Ortega,2004-08-23,Bear Stearns,Francois Trahan,60.0,1100.0
+Edgar Ortega,2004-08-23,CIBC,Subodh Kumar,72.0,
+Edgar Ortega,2004-08-23,CSFB,Patrick Jilek,,
+Edgar Ortega,2004-08-23,Deutsche Bank,,65.0,1180.0
+Edgar Ortega,2004-08-23,Goldman Sachs,Abby Joseph Cohen,75.0,
+Edgar Ortega,2004-08-23,JPMorgan,,70.0,1150.0
+Edgar Ortega,2004-08-23,Lehman,Henry Dickson,65.0,
+Edgar Ortega,2004-08-23,Merrill Lynch,Richard Bernstein,45.0,
+Edgar Ortega,2004-08-23,Morgan Stanley,Henry McVey,65.0,1200.0
+Edgar Ortega,2004-08-23,Prudential,Ed Yardeni,70.0,1190.0
+Edgar Ortega,2004-08-23,Smith Barney,Committee,55.0,1025.0
+Edgar Ortega,2004-08-23,UBS,,55.0,
+Edgar Ortega,2004-08-23,Wachovia,Rod Smyth,73.0,
+Edgar Ortega,2004-08-30,Bank of America,Thomas McManus,60.0,
+Edgar Ortega,2004-08-30,Bear Stearns,Francois Trahan,60.0,1100.0
+Edgar Ortega,2004-08-30,CIBC,Subodh Kumar,72.0,
+Edgar Ortega,2004-08-30,CSFB,Patrick Jilek,,
+Edgar Ortega,2004-08-30,Deutsche Bank,,65.0,1180.0
+Edgar Ortega,2004-08-30,Goldman Sachs,Abby Joseph Cohen,75.0,
+Edgar Ortega,2004-08-30,JPMorgan,,70.0,1150.0
+Edgar Ortega,2004-08-30,Lehman,Henry Dickson,65.0,
+Edgar Ortega,2004-08-30,Merrill Lynch,Richard Bernstein,45.0,
+Edgar Ortega,2004-08-30,Morgan Stanley,Henry McVey,65.0,1200.0
+Edgar Ortega,2004-08-30,Prudential,Ed Yardeni,70.0,1190.0
+Edgar Ortega,2004-08-30,Smith Barney,Committee,55.0,1025.0
+Edgar Ortega,2004-08-30,UBS,,55.0,
+Edgar Ortega,2004-08-30,Wachovia,Rod Smyth,73.0,1150.0
+Ari Levy,2004-09-07,Bank of America,Thomas McManus,60.0,
+Ari Levy,2004-09-07,Bear Stearns,Francois Trahan,60.0,1100.0
+Ari Levy,2004-09-07,CIBC,Subodh Kumar,72.0,
+Ari Levy,2004-09-07,CSFB,Patrick Jilek,,
+Ari Levy,2004-09-07,Deutsche Bank,,65.0,1180.0
+Ari Levy,2004-09-07,Goldman Sachs,Abby Joseph Cohen,75.0,
+Ari Levy,2004-09-07,JPMorgan,,70.0,1150.0
+Ari Levy,2004-09-07,Lehman,Henry Dickson,65.0,
+Ari Levy,2004-09-07,Merrill Lynch,Richard Bernstein,45.0,
+Ari Levy,2004-09-07,Morgan Stanley,Henry McVey,65.0,1200.0
+Ari Levy,2004-09-07,Prudential,Ed Yardeni,70.0,1190.0
+Ari Levy,2004-09-07,Smith Barney,Committee,55.0,1025.0
+Ari Levy,2004-09-07,UBS,,55.0,
+Ari Levy,2004-09-07,Wachovia,Rod Smyth,73.0,1150.0
+Edgar Ortega,2004-09-13,Bank of America,Thomas McManus,60.0,
+Edgar Ortega,2004-09-13,Bear Stearns,Francois Trahan,55.0,1100.0
+Edgar Ortega,2004-09-13,CIBC,Subodh Kumar,72.0,
+Edgar Ortega,2004-09-13,CSFB,Patrick Jilek,,
+Edgar Ortega,2004-09-13,Citigroup,Committee,60.0,1025.0
+Edgar Ortega,2004-09-13,Deutsche Bank,,65.0,1180.0
+Edgar Ortega,2004-09-13,Goldman Sachs,Abby Joseph Cohen,75.0,
+Edgar Ortega,2004-09-13,JPMorgan,,70.0,1150.0
+Edgar Ortega,2004-09-13,Lehman,Henry Dickson,65.0,
+Edgar Ortega,2004-09-13,Merrill Lynch,Richard Bernstein,45.0,
+Edgar Ortega,2004-09-13,Morgan Stanley,Henry McVey,65.0,1200.0
+Edgar Ortega,2004-09-13,Prudential,Edward Keon,55.0,
+Edgar Ortega,2004-09-13,UBS,,55.0,
+Edgar Ortega,2004-09-13,Wachovia,Rod Smyth,73.0,1150.0
+Edgar Ortega,2004-09-20,Bank of America,Thomas McManus,60.0,
+Edgar Ortega,2004-09-20,Bear Stearns,Francois Trahan,55.0,1100.0
+Edgar Ortega,2004-09-20,CIBC,Subodh Kumar,72.0,
+Edgar Ortega,2004-09-20,CSFB,Patrick Jilek,,
+Edgar Ortega,2004-09-20,Citigroup,Committee,60.0,1025.0
+Edgar Ortega,2004-09-20,Goldman Sachs,Abby Joseph Cohen,75.0,
+Edgar Ortega,2004-09-20,JPMorgan,,70.0,1200.0
+Edgar Ortega,2004-09-20,Lehman,Henry Dickson,65.0,
+Edgar Ortega,2004-09-20,Merrill Lynch,Richard Bernstein,45.0,
+Edgar Ortega,2004-09-20,Morgan Stanley,Henry McVey,65.0,1200.0
+Edgar Ortega,2004-09-20,Prudential,Edward Keon,55.0,
+Edgar Ortega,2004-09-20,UBS,,55.0,
+Edgar Ortega,2004-09-20,Wachovia,Rod Smyth,75.0,1150.0
+Ari Levy,2004-09-27,Bank of America,Thomas McManus,55.0,
+Ari Levy,2004-09-27,Bear Stearns,Francois Trahan,55.0,1050.0
+Ari Levy,2004-09-27,CIBC,Subodh Kumar,72.0,
+Ari Levy,2004-09-27,CSFB,Patrick Jilek,,
+Ari Levy,2004-09-27,Citigroup,Committee,60.0,1025.0
+Ari Levy,2004-09-27,Goldman Sachs,Abby Joseph Cohen,75.0,
+Ari Levy,2004-09-27,JPMorgan,,70.0,1200.0
+Ari Levy,2004-09-27,Lehman,Henry Dickson,65.0,
+Ari Levy,2004-09-27,Merrill Lynch,Richard Bernstein,45.0,
+Ari Levy,2004-09-27,Morgan Stanley,Henry McVey,65.0,1200.0
+Ari Levy,2004-09-27,Prudential,Edward Keon,55.0,
+Ari Levy,2004-09-27,UBS,,55.0,
+Ari Levy,2004-09-27,Wachovia,Rod Smyth,75.0,1150.0
+Phil Serafino,2004-10-08,Bank of America,Thomas McManus,55.0,
+Phil Serafino,2004-10-08,Bear Stearns,Francois Trahan,55.0,1050.0
+Phil Serafino,2004-10-08,CIBC,Subodh Kumar,72.0,
+Phil Serafino,2004-10-08,Citigroup,Committee,60.0,1025.0
+Phil Serafino,2004-10-08,Goldman Sachs,Abby Joseph Cohen,75.0,
+Phil Serafino,2004-10-08,JPMorgan,,70.0,1200.0
+Phil Serafino,2004-10-08,Lehman,Henry Dickson,65.0,
+Phil Serafino,2004-10-08,Merrill Lynch,Richard Bernstein,45.0,
+Phil Serafino,2004-10-08,Morgan Stanley,Henry McVey,65.0,1200.0
+Phil Serafino,2004-10-08,Prudential,Edward Keon,55.0,
+Phil Serafino,2004-10-08,UBS,,55.0,1100.0
+Phil Serafino,2004-10-08,Wachovia,Rod Smyth,75.0,1150.0
+Lu Wang,2004-10-11,Bank of America,Thomas McManus,55.0,
+Lu Wang,2004-10-11,Bear Stearns,Francois Trahan,55.0,1050.0
+Lu Wang,2004-10-11,CIBC,Subodh Kumar,72.0,
+Lu Wang,2004-10-11,Citigroup,Committee,60.0,1025.0
+Lu Wang,2004-10-11,Deutsche Bank,,67.0,
+Lu Wang,2004-10-11,Goldman Sachs,Abby Joseph Cohen,75.0,
+Lu Wang,2004-10-11,JPMorgan,,70.0,1200.0
+Lu Wang,2004-10-11,Lehman,Henry Dickson,65.0,
+Lu Wang,2004-10-11,Merrill Lynch,Richard Bernstein,45.0,
+Lu Wang,2004-10-11,Morgan Stanley,Henry McVey,65.0,1200.0
+Lu Wang,2004-10-11,Prudential,Edward Keon,55.0,
+Lu Wang,2004-10-11,UBS,,55.0,1100.0
+Lu Wang,2004-10-11,Wachovia,Rod Smyth,75.0,
+Lu Wang,2004-10-18,Bank of America,Thomas McManus,55.0,
+Lu Wang,2004-10-18,Bear Stearns,Francois Trahan,55.0,1050.0
+Lu Wang,2004-10-18,CIBC,Subodh Kumar,72.0,
+Lu Wang,2004-10-18,Citigroup,Committee,60.0,1025.0
+Lu Wang,2004-10-18,Deutsche Bank,,67.0,
+Lu Wang,2004-10-18,Goldman Sachs,Abby Joseph Cohen,75.0,
+Lu Wang,2004-10-18,JPMorgan,,70.0,1200.0
+Lu Wang,2004-10-18,Lehman,Henry Dickson,65.0,
+Lu Wang,2004-10-18,Merrill Lynch,Richard Bernstein,45.0,
+Lu Wang,2004-10-18,Morgan Stanley,Henry McVey,65.0,1200.0
+Lu Wang,2004-10-18,Prudential,Edward Keon,55.0,
+Lu Wang,2004-10-18,UBS,,55.0,1100.0
+Lu Wang,2004-10-18,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2004-10-25,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2004-10-25,Bear Stearns,Francois Trahan,55.0,1050.0
+Bing Xiao,2004-10-25,CIBC,Subodh Kumar,72.0,
+Bing Xiao,2004-10-25,Citigroup,Committee,60.0,1025.0
+Bing Xiao,2004-10-25,Deutsche Bank,,67.0,
+Bing Xiao,2004-10-25,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2004-10-25,JPMorgan,,70.0,1200.0
+Bing Xiao,2004-10-25,Lehman,Henry Dickson,65.0,
+Bing Xiao,2004-10-25,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2004-10-25,Morgan Stanley,Henry McVey,65.0,1200.0
+Bing Xiao,2004-10-25,Prudential,Edward Keon,55.0,
+Bing Xiao,2004-10-25,UBS,,55.0,1100.0
+Bing Xiao,2004-10-25,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2004-11-01,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2004-11-01,Bear Stearns,Francois Trahan,55.0,1050.0
+Bing Xiao,2004-11-01,CIBC,Subodh Kumar,72.0,
+Bing Xiao,2004-11-01,Citigroup,Committee,60.0,1025.0
+Bing Xiao,2004-11-01,Deutsche Bank,,67.0,
+Bing Xiao,2004-11-01,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2004-11-01,JPMorgan,,70.0,1200.0
+Bing Xiao,2004-11-01,Lehman,Henry Dickson,65.0,
+Bing Xiao,2004-11-01,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2004-11-01,Morgan Stanley,Henry McVey,65.0,1200.0
+Bing Xiao,2004-11-01,Prudential,Edward Keon,55.0,
+Bing Xiao,2004-11-01,UBS,,55.0,1100.0
+Bing Xiao,2004-11-01,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2004-11-08,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2004-11-08,Bear Stearns,Francois Trahan,55.0,1050.0
+Bing Xiao,2004-11-08,CIBC,Subodh Kumar,72.0,
+Bing Xiao,2004-11-08,Citigroup,Committee,60.0,1025.0
+Bing Xiao,2004-11-08,Deutsche Bank,,68.0,
+Bing Xiao,2004-11-08,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2004-11-08,JPMorgan,,70.0,1200.0
+Bing Xiao,2004-11-08,Lehman,Henry Dickson,65.0,
+Bing Xiao,2004-11-08,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2004-11-08,Morgan Stanley,Henry McVey,65.0,1200.0
+Bing Xiao,2004-11-08,Prudential,Edward Keon,55.0,
+Bing Xiao,2004-11-08,Prudential,Edward Keon,60.0,
+Bing Xiao,2004-11-08,UBS,,58.0,1100.0
+Bing Xiao,2004-11-08,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2004-11-15,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2004-11-15,Bear Stearns,Francois Trahan,55.0,1050.0
+Bing Xiao,2004-11-15,CIBC,Subodh Kumar,72.0,
+Bing Xiao,2004-11-15,Citigroup,Committee,60.0,1075.0
+Bing Xiao,2004-11-15,Deutsche Bank,,68.0,
+Bing Xiao,2004-11-15,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2004-11-15,JPMorgan,,70.0,1200.0
+Bing Xiao,2004-11-15,Lehman,Henry Dickson,65.0,
+Bing Xiao,2004-11-15,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2004-11-15,Morgan Stanley,Henry McVey,65.0,1200.0
+Bing Xiao,2004-11-15,Prudential,Edward Keon,60.0,
+Bing Xiao,2004-11-15,UBS,,58.0,1100.0
+Bing Xiao,2004-11-15,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2004-11-22,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2004-11-22,Bear Stearns,Francois Trahan,55.0,1050.0
+Bing Xiao,2004-11-22,CIBC,Subodh Kumar,72.0,
+Bing Xiao,2004-11-22,Citigroup,Committee,60.0,1075.0
+Bing Xiao,2004-11-22,Deutsche Bank,,68.0,
+Bing Xiao,2004-11-22,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2004-11-22,JPMorgan,,70.0,1200.0
+Bing Xiao,2004-11-22,Lehman,Henry Dickson,65.0,
+Bing Xiao,2004-11-22,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2004-11-22,Morgan Stanley,Henry McVey,65.0,1200.0
+Bing Xiao,2004-11-22,Prudential,Edward Keon,60.0,
+Bing Xiao,2004-11-22,UBS,,58.0,1100.0
+Bing Xiao,2004-11-22,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2004-11-29,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2004-11-29,Bear Stearns,Francois Trahan,55.0,1050.0
+Bing Xiao,2004-11-29,CIBC,Subodh Kumar,72.0,
+Bing Xiao,2004-11-29,Citigroup,Committee,60.0,1075.0
+Bing Xiao,2004-11-29,Deutsche Bank,,68.0,
+Bing Xiao,2004-11-29,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2004-11-29,JPMorgan,,70.0,1200.0
+Bing Xiao,2004-11-29,Lehman,Henry Dickson,65.0,
+Bing Xiao,2004-11-29,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2004-11-29,Morgan Stanley,Henry McVey,65.0,1200.0
+Bing Xiao,2004-11-29,Prudential,Edward Keon,60.0,
+Bing Xiao,2004-11-29,UBS,,58.0,1100.0
+Bing Xiao,2004-11-29,Wachovia,Rod Smyth,75.0,
+Dune Lawrence,2004-12-13,Bank of America,Thomas McManus,55.0,
+Dune Lawrence,2004-12-13,Bear Stearns,Francois Trahan,55.0,1050.0
+Dune Lawrence,2004-12-13,CIBC,Subodh Kumar,72.0,
+Dune Lawrence,2004-12-13,Citigroup,Committee,60.0,1075.0
+Dune Lawrence,2004-12-13,Deutsche Bank,,68.0,
+Dune Lawrence,2004-12-13,Goldman Sachs,Abby Joseph Cohen,75.0,
+Dune Lawrence,2004-12-13,JPMorgan,,70.0,1200.0
+Dune Lawrence,2004-12-13,Lehman,Henry Dickson,65.0,
+Dune Lawrence,2004-12-13,Merrill Lynch,Richard Bernstein,45.0,
+Dune Lawrence,2004-12-13,Morgan Stanley,Henry McVey,65.0,1200.0
+Dune Lawrence,2004-12-13,Prudential,Edward Keon,60.0,
+Dune Lawrence,2004-12-13,UBS,,58.0,1100.0
+Dune Lawrence,2004-12-13,Wachovia,Rod Smyth,75.0,1150.0
+Dune Lawrence,2004-12-20,Bank of America,Thomas McManus,55.0,
+Dune Lawrence,2004-12-20,Bear Stearns,Francois Trahan,55.0,
+Dune Lawrence,2004-12-20,CIBC,Subodh Kumar,72.0,
+Dune Lawrence,2004-12-20,Citigroup,Committee,60.0,1300.0
+Dune Lawrence,2004-12-20,Deutsche Bank,,69.0,
+Dune Lawrence,2004-12-20,Goldman Sachs,Abby Joseph Cohen,75.0,
+Dune Lawrence,2004-12-20,JPMorgan,,70.0,1275.0
+Dune Lawrence,2004-12-20,Lehman,Henry Dickson,65.0,
+Dune Lawrence,2004-12-20,Merrill Lynch,Richard Bernstein,45.0,
+Dune Lawrence,2004-12-20,Morgan Stanley,Henry McVey,65.0,1250.0
+Dune Lawrence,2004-12-20,Prudential,Edward Keon,60.0,1250.0
+Dune Lawrence,2004-12-20,UBS,,58.0,
+Dune Lawrence,2004-12-20,Wachovia,Rod Smyth,75.0,1195.0

@@ -1,0 +1,627 @@
+Author,Date,Firm,Strategist,Stock Allocation %,2005 Close
+Dune Lawrence,2004-12-20,Bank of America,Thomas McManus,55.0,
+Dune Lawrence,2004-12-20,Bear Stearns,Francois Trahan,55.0,1200.0
+Dune Lawrence,2004-12-20,CIBC,Subodh Kumar,72.0,
+Dune Lawrence,2004-12-20,Citigroup,Committee,60.0,1300.0
+Dune Lawrence,2004-12-20,Deutsche Bank,Barty/Love,69.0,
+Dune Lawrence,2004-12-20,Goldman Sachs,Abby Joseph Cohen,75.0,
+Dune Lawrence,2004-12-20,JPMorgan,,70.0,1275.0
+Dune Lawrence,2004-12-20,Lehman,Henry Dickson,65.0,
+Dune Lawrence,2004-12-20,Merrill Lynch,Richard Bernstein,45.0,
+Dune Lawrence,2004-12-20,Morgan Stanley,Henry McVey,65.0,1250.0
+Dune Lawrence,2004-12-20,Prudential,Edward Keon,60.0,1250.0
+Dune Lawrence,2004-12-20,UBS,,58.0,
+Dune Lawrence,2004-12-20,Wachovia,Rod Smyth,75.0,1195.0
+Bing Xiao,2004-12-27,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2004-12-27,Bear Stearns,Francois Trahan,55.0,1200.0
+Bing Xiao,2004-12-27,CIBC,Subodh Kumar,72.0,
+Bing Xiao,2004-12-27,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2004-12-27,Deutsche Bank,Barty/Love,69.0,
+Bing Xiao,2004-12-27,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2004-12-27,JPMorgan,,70.0,1275.0
+Bing Xiao,2004-12-27,Lehman,Henry Dickson,65.0,
+Bing Xiao,2004-12-27,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2004-12-27,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2004-12-27,Prudential,Edward Keon,60.0,1250.0
+Bing Xiao,2004-12-27,UBS,,58.0,1150.0
+Bing Xiao,2004-12-27,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2005-01-03,Bank of America,Thomas McManus,55.0,1200.0
+Bing Xiao,2005-01-03,Bear Stearns,Francois Trahan,55.0,1200.0
+Bing Xiao,2005-01-03,CIBC,Subodh Kumar,72.0,1250.0
+Bing Xiao,2005-01-03,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-01-03,Deutsche Bank,Barty/Love,69.0,1250.0
+Bing Xiao,2005-01-03,Goldman Sachs,Abby Joseph Cohen,75.0,1325.0
+Bing Xiao,2005-01-03,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-01-03,Lehman,Henry Dickson,65.0,1300.0
+Bing Xiao,2005-01-03,Merrill Lynch,Richard Bernstein,45.0,1205.0
+Bing Xiao,2005-01-03,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-01-03,Prudential,Edward Keon,60.0,1250.0
+Bing Xiao,2005-01-03,UBS,,58.0,1150.0
+Bing Xiao,2005-01-03,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2005-01-10,Bank of America,Thomas McManus,55.0,1200.0
+Bing Xiao,2005-01-10,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-01-10,CIBC,Subodh Kumar,72.0,1250.0
+Bing Xiao,2005-01-10,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-01-10,Deutsche Bank,Barty/Love,69.0,1270.0
+Bing Xiao,2005-01-10,Goldman Sachs,Abby Joseph Cohen,75.0,1325.0
+Bing Xiao,2005-01-10,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-01-10,Lehman,Henry Dickson,65.0,1300.0
+Bing Xiao,2005-01-10,Merrill Lynch,Richard Bernstein,45.0,1254.0
+Bing Xiao,2005-01-10,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-01-10,Prudential,Edward Keon,60.0,1250.0
+Bing Xiao,2005-01-10,UBS,,58.0,1150.0
+Bing Xiao,2005-01-10,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2005-01-18,Bank of America,Thomas McManus,55.0,1200.0
+Bing Xiao,2005-01-18,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-01-18,CIBC,Subodh Kumar,72.0,1250.0
+Bing Xiao,2005-01-18,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-01-18,Deutsche Bank,Barty/Love,69.0,1275.0
+Bing Xiao,2005-01-18,Goldman Sachs,Abby Joseph Cohen,75.0,1325.0
+Bing Xiao,2005-01-18,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-01-18,Lehman,Henry Dickson,65.0,1300.0
+Bing Xiao,2005-01-18,Merrill Lynch,Richard Bernstein,45.0,1254.0
+Bing Xiao,2005-01-18,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-01-18,Prudential,Edward Keon,60.0,1250.0
+Bing Xiao,2005-01-18,UBS,,58.0,1150.0
+Bing Xiao,2005-01-18,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2005-01-24,Bank of America,Thomas McManus,55.0,1200.0
+Bing Xiao,2005-01-24,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-01-24,CIBC,Subodh Kumar,72.0,1250.0
+Bing Xiao,2005-01-24,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-01-24,Deutsche Bank,Barty/Love,69.0,1275.0
+Bing Xiao,2005-01-24,Goldman Sachs,Abby Joseph Cohen,75.0,1325.0
+Bing Xiao,2005-01-24,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-01-24,Lehman,Henry Dickson,65.0,1300.0
+Bing Xiao,2005-01-24,Merrill Lynch,Richard Bernstein,45.0,1254.0
+Bing Xiao,2005-01-24,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-01-24,Prudential,Edward Keon,60.0,1250.0
+Bing Xiao,2005-01-24,UBS,,58.0,1150.0
+Bing Xiao,2005-01-24,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2005-01-31,Bank of America,Thomas McManus,55.0,1200.0
+Bing Xiao,2005-01-31,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-01-31,CIBC,Subodh Kumar,72.0,1250.0
+Bing Xiao,2005-01-31,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-01-31,Deutsche Bank,Barty/Love,69.0,1275.0
+Bing Xiao,2005-01-31,Goldman Sachs,Abby Joseph Cohen,75.0,1325.0
+Bing Xiao,2005-01-31,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-01-31,Lehman,Henry Dickson,65.0,1300.0
+Bing Xiao,2005-01-31,Merrill Lynch,Richard Bernstein,45.0,1254.0
+Bing Xiao,2005-01-31,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-01-31,Prudential,Edward Keon,60.0,1250.0
+Bing Xiao,2005-01-31,Prudential,Edward Keon,65.0,1250.0
+Bing Xiao,2005-01-31,UBS,,58.0,1150.0
+Bing Xiao,2005-01-31,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2005-02-22,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-02-22,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-02-22,CIBC,Subodh Kumar,72.0,
+Bing Xiao,2005-02-22,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-02-22,Deutsche Bank,Barty/Love,70.0,
+Bing Xiao,2005-02-22,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-02-22,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-02-22,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-02-22,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-02-22,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-02-22,Prudential,Edward Keon,65.0,1250.0
+Bing Xiao,2005-02-22,UBS,,58.0,1150.0
+Bing Xiao,2005-02-22,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2005-02-28,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-02-28,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-02-28,CIBC,Subodh Kumar,72.0,
+Bing Xiao,2005-02-28,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-02-28,Deutsche Bank,Barty/Love,68.0,
+Bing Xiao,2005-02-28,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-02-28,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-02-28,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-02-28,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-02-28,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-02-28,Prudential,Edward Keon,65.0,1250.0
+Bing Xiao,2005-02-28,UBS,,58.0,1150.0
+Bing Xiao,2005-02-28,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2005-03-07,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-03-07,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-03-07,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-03-07,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-03-07,Deutsche Bank,Barty/Love,68.0,
+Bing Xiao,2005-03-07,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-03-07,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-03-07,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-03-07,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-03-07,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-03-07,Prudential,Edward Keon,65.0,1250.0
+Bing Xiao,2005-03-07,UBS,,52.5,1150.0
+Bing Xiao,2005-03-07,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2005-03-14,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-03-14,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-03-14,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-03-14,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-03-14,Deutsche Bank,Barty/Love,68.0,
+Bing Xiao,2005-03-14,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-03-14,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-03-14,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-03-14,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-03-14,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-03-14,Prudential,Edward Keon,65.0,1250.0
+Bing Xiao,2005-03-14,UBS,,52.5,1150.0
+Bing Xiao,2005-03-14,Wachovia,Rod Smyth,75.0,
+Bing Xiao,2005-03-28,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-03-28,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-03-28,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-03-28,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-03-28,Deutsche Bank,Barty/Love,65.0,
+Bing Xiao,2005-03-28,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-03-28,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-03-28,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-03-28,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-03-28,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-03-28,Prudential,Edward Keon,65.0,1250.0
+Bing Xiao,2005-03-28,UBS,,52.5,1150.0
+Bing Xiao,2005-03-28,Wachovia,Rod Smyth,72.0,
+Bing Xiao,2005-04-04,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-04-04,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-04-04,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-04-04,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-04-04,Deutsche Bank,Barty/Love,65.0,
+Bing Xiao,2005-04-04,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-04-04,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-04-04,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-04-04,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-04-04,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-04-04,Prudential,Edward Keon,75.0,1250.0
+Bing Xiao,2005-04-04,UBS,,52.5,1150.0
+Bing Xiao,2005-04-04,Wachovia,Rod Smyth,72.0,
+Bing Xiao,2005-04-11,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-04-11,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-04-11,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-04-11,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-04-11,Deutsche Bank,Barty/Love,67.0,
+Bing Xiao,2005-04-11,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-04-11,JPMorgan,,70.0,1275.0
+Bing Xiao,2005-04-11,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-04-11,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-04-11,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-04-11,Prudential,Edward Keon,75.0,1250.0
+Bing Xiao,2005-04-11,UBS,,52.5,1150.0
+Bing Xiao,2005-04-11,Wachovia,Rod Smyth,72.0,
+Bing Xiao,2005-04-18,Bank of America,Thomas McManus,60.0,
+Bing Xiao,2005-04-18,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-04-18,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-04-18,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-04-18,Deutsche Bank,Barty/Love,66.0,
+Bing Xiao,2005-04-18,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-04-18,JPMorgan,Abhijit Chakrabortti,70.0,1275.0
+Bing Xiao,2005-04-18,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-04-18,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-04-18,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-04-18,Prudential,Edward Keon,75.0,1250.0
+Bing Xiao,2005-04-18,UBS,,52.5,1150.0
+Bing Xiao,2005-04-18,Wachovia,Rod Smyth,72.0,1220.0
+Bing Xiao,2005-04-25,Bank of America,Thomas McManus,60.0,
+Bing Xiao,2005-04-25,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-04-25,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-04-25,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-04-25,Deutsche Bank,Barty/Love,66.0,
+Bing Xiao,2005-04-25,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-04-25,JPMorgan,Abhijit Chakrabortti,70.0,1275.0
+Bing Xiao,2005-04-25,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-04-25,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-04-25,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-04-25,Prudential,Edward Keon,75.0,1250.0
+Bing Xiao,2005-04-25,UBS,,52.5,1150.0
+Bing Xiao,2005-04-25,Wachovia,Rod Smyth,72.0,1220.0
+Bing Xiao,2005-04-25,Wachovia,Rod Smyth,74.0,1220.0
+Bing Xiao,2005-05-02,Bank of America,Thomas McManus,60.0,
+Bing Xiao,2005-05-02,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-05-02,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-05-02,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-05-02,Deutsche Bank,Barty/Love,66.0,
+Bing Xiao,2005-05-02,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-05-02,JPMorgan,Abhijit Chakrabortti,55.0,1275.0
+Bing Xiao,2005-05-02,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-05-02,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-05-02,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-05-02,Prudential,Edward Keon,80.0,1250.0
+Bing Xiao,2005-05-02,UBS,,52.5,1150.0
+Bing Xiao,2005-05-02,Wachovia,Rod Smyth,74.0,1220.0
+Bing Xiao,2005-05-09,Bank of America,Thomas McManus,60.0,
+Bing Xiao,2005-05-09,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-05-09,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-05-09,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-05-09,Deutsche Bank,Barty/Love,66.0,
+Bing Xiao,2005-05-09,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-05-09,JPMorgan,Abhijit Chakrabortti,55.0,1125.0
+Bing Xiao,2005-05-09,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-05-09,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-05-09,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-05-09,Prudential,Edward Keon,80.0,1250.0
+Bing Xiao,2005-05-09,UBS,,52.5,1150.0
+Bing Xiao,2005-05-09,Wachovia,Rod Smyth,74.0,1220.0
+Bing Xiao,2005-05-16,Bank of America,Thomas McManus,60.0,
+Bing Xiao,2005-05-16,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-05-16,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-05-16,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-05-16,Deutsche Bank,Barty/Love,66.0,
+Bing Xiao,2005-05-16,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-05-16,JPMorgan,Abhijit Chakrabortti,55.0,1125.0
+Bing Xiao,2005-05-16,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-05-16,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-05-16,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-05-16,Prudential,Edward Keon,80.0,1250.0
+Bing Xiao,2005-05-16,UBS,,52.5,1150.0
+Bing Xiao,2005-05-16,Wachovia,Rod Smyth,74.0,1220.0
+Bing Xiao,2005-05-23,Bank of America,Thomas McManus,60.0,
+Bing Xiao,2005-05-23,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-05-23,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-05-23,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-05-23,Deutsche Bank,Barty/Love,66.0,
+Bing Xiao,2005-05-23,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-05-23,JPMorgan,Abhijit Chakrabortti,55.0,1125.0
+Bing Xiao,2005-05-23,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-05-23,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-05-23,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-05-23,Prudential,Edward Keon,80.0,1250.0
+Bing Xiao,2005-05-23,UBS,,52.5,1150.0
+Bing Xiao,2005-05-23,Wachovia,Rod Smyth,74.0,1220.0
+Bing Xiao,2005-05-31,Bank of America,Thomas McManus,60.0,
+Bing Xiao,2005-05-31,Bear Stearns,Francois Trahan,55.0,1250.0
+Bing Xiao,2005-05-31,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-05-31,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-05-31,Deutsche Bank,Barty/Love,66.0,
+Bing Xiao,2005-05-31,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-05-31,ISI Group,Jason Trennert,70.0,1325.0
+Bing Xiao,2005-05-31,JPMorgan,Abhijit Chakrabortti,55.0,1125.0
+Bing Xiao,2005-05-31,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-05-31,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-05-31,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-05-31,Prudential,Edward Keon,80.0,1300.0
+Bing Xiao,2005-05-31,UBS,,52.5,1150.0
+Bing Xiao,2005-05-31,Wachovia,Rod Smyth,74.0,1220.0
+Bing Xiao,2005-06-06,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-06-06,Bear Stearns,Francois Trahan,55.0,1150.0
+Bing Xiao,2005-06-06,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-06-06,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-06-06,Deutsche Bank,Barty/Love,66.0,
+Bing Xiao,2005-06-06,Goldman Sachs,Abby Joseph Cohen,75.0,
+Bing Xiao,2005-06-06,ISI Group,Jason Trennert,70.0,1325.0
+Bing Xiao,2005-06-06,JPMorgan,Abhijit Chakrabortti,55.0,1125.0
+Bing Xiao,2005-06-06,Lehman,Henry Dickson,70.0,
+Bing Xiao,2005-06-06,Merrill Lynch,Richard Bernstein,45.0,
+Bing Xiao,2005-06-06,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-06-06,Prudential,Edward Keon,80.0,1300.0
+Bing Xiao,2005-06-06,UBS,,52.5,1150.0
+Bing Xiao,2005-06-06,Wachovia,Rod Smyth,74.0,1220.0
+Ludwig Marek,2005-06-13,Bank of America,Thomas McManus,55.0,
+Ludwig Marek,2005-06-13,Bear Stearns,Francois Trahan,55.0,1150.0
+Ludwig Marek,2005-06-13,CIBC,Subodh Kumar,65.0,
+Ludwig Marek,2005-06-13,Citigroup,Committee,60.0,1300.0
+Ludwig Marek,2005-06-13,Deutsche Bank,Barty/Love,66.0,
+Ludwig Marek,2005-06-13,Goldman Sachs,Abby Cohen,75.0,
+Ludwig Marek,2005-06-13,ISI Group,Jason Trennert,75.0,1325.0
+Ludwig Marek,2005-06-13,JPMorgan,A. Chakrabortti,55.0,1125.0
+Ludwig Marek,2005-06-13,Lehman,Henry Dickson,70.0,
+Ludwig Marek,2005-06-13,Merrill Lynch,R. Bernstein,45.0,
+Ludwig Marek,2005-06-13,Morgan Stanley,Henry McVey,65.0,1250.0
+Ludwig Marek,2005-06-13,Prudential,Edward Keon,80.0,1300.0
+Ludwig Marek,2005-06-13,UBS,,50.0,
+Ludwig Marek,2005-06-13,Wachovia,Rod Smyth,74.0,1220.0
+Dune Lawrence,2005-06-20,Bank of America,Thomas McManus,55.0,
+Dune Lawrence,2005-06-20,Bear Stearns,Francois Trahan,55.0,1150.0
+Dune Lawrence,2005-06-20,CIBC,Subodh Kumar,65.0,
+Dune Lawrence,2005-06-20,Citigroup,Committee,60.0,1300.0
+Dune Lawrence,2005-06-20,Deutsche Bank,Barty/Love,62.0,
+Dune Lawrence,2005-06-20,Goldman Sachs,Abby Cohen,75.0,
+Dune Lawrence,2005-06-20,ISI Group,Jason Trennert,75.0,1325.0
+Dune Lawrence,2005-06-20,JPMorgan,A. Chakrabortti,55.0,1125.0
+Dune Lawrence,2005-06-20,Lehman,Henry Dickson,70.0,
+Dune Lawrence,2005-06-20,Merrill Lynch,R. Bernstein,45.0,
+Dune Lawrence,2005-06-20,Morgan Stanley,Henry McVey,65.0,1250.0
+Dune Lawrence,2005-06-20,Prudential,Edward Keon,80.0,1300.0
+Dune Lawrence,2005-06-20,UBS,,50.0,
+Dune Lawrence,2005-06-20,Wachovia,Rod Smyth,74.0,1220.0
+Hilary Johnson,2005-06-27,Bank of America,Thomas McManus,55.0,
+Hilary Johnson,2005-06-27,Bear Stearns,Francois Trahan,55.0,1150.0
+Hilary Johnson,2005-06-27,CIBC,Subodh Kumar,65.0,
+Hilary Johnson,2005-06-27,Citigroup,Committee,60.0,1300.0
+Hilary Johnson,2005-06-27,Deutsche Bank,,62.0,
+Hilary Johnson,2005-06-27,Goldman Sachs,Abby Cohen,75.0,
+Hilary Johnson,2005-06-27,ISI Group,Jason Trennert,75.0,1325.0
+Hilary Johnson,2005-06-27,JPMorgan,A. Chakrabortti,55.0,1125.0
+Hilary Johnson,2005-06-27,Lehman,Henry Dickson,70.0,1275.0
+Hilary Johnson,2005-06-27,Merrill Lynch,R. Bernstein,45.0,
+Hilary Johnson,2005-06-27,Morgan Stanley,Henry McVey,65.0,1250.0
+Hilary Johnson,2005-06-27,Prudential,Edward Keon,80.0,1300.0
+Hilary Johnson,2005-06-27,UBS,,50.0,
+Hilary Johnson,2005-06-27,Wachovia,Rod Smyth,70.0,1220.0
+Bing Xiao,2005-07-11,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-07-11,Bear Stearns,Francois Trahan,55.0,1150.0
+Bing Xiao,2005-07-11,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-07-11,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-07-11,Deutsche Bank,Barty/Love,63.0,
+Bing Xiao,2005-07-11,Goldman Sachs,Abby Cohen,75.0,
+Bing Xiao,2005-07-11,ISI Group,Jason Trennert,75.0,1325.0
+Bing Xiao,2005-07-11,JPMorgan,A. Chakrabortti,55.0,1125.0
+Bing Xiao,2005-07-11,Lehman,Henry Dickson,70.0,1275.0
+Bing Xiao,2005-07-11,Merrill Lynch,R. Bernstein,45.0,
+Bing Xiao,2005-07-11,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-07-11,Prudential,Edward Keon,100.0,1300.0
+Bing Xiao,2005-07-11,UBS,,50.0,
+Bing Xiao,2005-07-11,Wachovia,Rod Smyth,70.0,1220.0
+Bing Xiao,2005-07-18,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-07-18,Bear Stearns,Francois Trahan,55.0,1150.0
+Bing Xiao,2005-07-18,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-07-18,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-07-18,Deutsche Bank,Barty/Love,63.0,
+Bing Xiao,2005-07-18,Goldman Sachs,Abby Cohen,75.0,
+Bing Xiao,2005-07-18,ISI Group,Jason Trennert,75.0,1325.0
+Bing Xiao,2005-07-18,JPMorgan,A. Chakrabortti,55.0,1125.0
+Bing Xiao,2005-07-18,Lehman,Henry Dickson,70.0,1275.0
+Bing Xiao,2005-07-18,Merrill Lynch,R. Bernstein,45.0,
+Bing Xiao,2005-07-18,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-07-18,Prudential,Edward Keon,100.0,1340.0
+Bing Xiao,2005-07-18,UBS,,50.0,
+Bing Xiao,2005-07-18,Wachovia,Rod Smyth,70.0,1220.0
+Bing Xiao,2005-08-01,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-08-01,Bear Stearns,Francois Trahan,55.0,1150.0
+Bing Xiao,2005-08-01,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-08-01,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-08-01,Deutsche Bank,Barty/Love,63.0,
+Bing Xiao,2005-08-01,Goldman Sachs,Abby Cohen,75.0,
+Bing Xiao,2005-08-01,ISI Group,Jason Trennert,75.0,1325.0
+Bing Xiao,2005-08-01,JPMorgan,A. Chakrabortti,55.0,1125.0
+Bing Xiao,2005-08-01,Lehman,Henry Dickson,70.0,1275.0
+Bing Xiao,2005-08-01,Merrill Lynch,R. Bernstein,45.0,
+Bing Xiao,2005-08-01,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-08-01,Prudential,Edward Keon,100.0,1340.0
+Bing Xiao,2005-08-01,UBS,,50.0,
+Bing Xiao,2005-08-01,Wachovia,Rod Smyth,70.0,1220.0
+Bing Xiao,2005-08-08,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-08-08,Bear Stearns,Francois Trahan,55.0,1150.0
+Bing Xiao,2005-08-08,CIBC,Subodh Kumar,65.0,
+Bing Xiao,2005-08-08,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-08-08,Deutsche Bank,Barty/Love,63.0,
+Bing Xiao,2005-08-08,Goldman Sachs,Abby Cohen,75.0,
+Bing Xiao,2005-08-08,ISI Group,Jason Trennert,75.0,1325.0
+Bing Xiao,2005-08-08,JPMorgan,A. Chakrabortti,55.0,1125.0
+Bing Xiao,2005-08-08,Lehman,Henry Dickson,70.0,1300.0
+Bing Xiao,2005-08-08,Merrill Lynch,R. Bernstein,45.0,
+Bing Xiao,2005-08-08,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-08-08,Prudential,Edward Keon,100.0,1340.0
+Bing Xiao,2005-08-08,UBS,,50.0,
+Bing Xiao,2005-08-08,Wachovia,Rod Smyth,70.0,1220.0
+Bing Xiao,2005-08-15,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-08-15,Bear Stearns,Francois Trahan,55.0,1150.0
+Bing Xiao,2005-08-15,CIBC,Subodh Kumar,65.0,1250.0
+Bing Xiao,2005-08-15,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-08-15,Deutsche Bank,Barty/Love,63.0,
+Bing Xiao,2005-08-15,Goldman Sachs,Abby Cohen,75.0,
+Bing Xiao,2005-08-15,ISI Group,Jason Trennert,75.0,1325.0
+Bing Xiao,2005-08-15,JPMorgan,A. Chakrabortti,55.0,1125.0
+Bing Xiao,2005-08-15,Lehman,Henry Dickson,70.0,1300.0
+Bing Xiao,2005-08-15,Merrill Lynch,R. Bernstein,40.0,
+Bing Xiao,2005-08-15,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-08-15,Prudential,Edward Keon,100.0,1340.0
+Bing Xiao,2005-08-15,UBS,,50.0,
+Bing Xiao,2005-08-15,Wachovia,Rod Smyth,70.0,1220.0
+Bing Xiao,2005-08-29,Bank of America,Thomas McManus,55.0,
+Bing Xiao,2005-08-29,Bear Stearns,Francois Trahan,55.0,1150.0
+Bing Xiao,2005-08-29,CIBC,Subodh Kumar,65.0,1250.0
+Bing Xiao,2005-08-29,Citigroup,Committee,60.0,1300.0
+Bing Xiao,2005-08-29,Deutsche Bank,Barty/Love,63.0,
+Bing Xiao,2005-08-29,Goldman Sachs,Abby Cohen,75.0,
+Bing Xiao,2005-08-29,ISI Group,Jason Trennert,75.0,1325.0
+Bing Xiao,2005-08-29,JPMorgan,A. Chakrabortti,55.0,1125.0
+Bing Xiao,2005-08-29,Lehman,Henry Dickson,70.0,1300.0
+Bing Xiao,2005-08-29,Merrill Lynch,R. Bernstein,40.0,
+Bing Xiao,2005-08-29,Morgan Stanley,Henry McVey,65.0,1250.0
+Bing Xiao,2005-08-29,Prudential,Edward Keon,100.0,1340.0
+Bing Xiao,2005-08-29,UBS,,50.0,
+Bing Xiao,2005-08-29,Wachovia,Rod Smyth,70.0,1220.0
+Scarlet Fu,2005-09-09,Bank of America,Thomas McManus,55.0,
+Scarlet Fu,2005-09-09,Bear Stearns,Francois Trahan,55.0,1150.0
+Scarlet Fu,2005-09-09,CIBC,Subodh Kumar,65.0,1250.0
+Scarlet Fu,2005-09-09,Citigroup,Committee,60.0,1300.0
+Scarlet Fu,2005-09-09,Deutsche Bank,Barty/Love,64.0,
+Scarlet Fu,2005-09-09,Goldman Sachs,Abby Cohen,75.0,
+Scarlet Fu,2005-09-09,ISI Group,Jason Trennert,75.0,1325.0
+Scarlet Fu,2005-09-09,JPMorgan,A. Chakrabortti,55.0,1125.0
+Scarlet Fu,2005-09-09,Lehman,Henry Dickson,65.0,1300.0
+Scarlet Fu,2005-09-09,Merrill Lynch,R. Bernstein,40.0,1210.0
+Scarlet Fu,2005-09-09,Morgan Stanley,Henry McVey,65.0,1250.0
+Scarlet Fu,2005-09-09,Prudential,Edward Keon,100.0,1340.0
+Scarlet Fu,2005-09-09,UBS,,47.5,
+Scarlet Fu,2005-09-09,Wachovia,Rod Smyth,70.0,1220.0
+Scarlet Fu,2005-09-13,Bank of America,Thomas McManus,55.0,
+Scarlet Fu,2005-09-13,Bear Stearns,Francois Trahan,55.0,1150.0
+Scarlet Fu,2005-09-13,CIBC,Subodh Kumar,65.0,1250.0
+Scarlet Fu,2005-09-13,Citigroup,Committee,60.0,1300.0
+Scarlet Fu,2005-09-13,Deutsche Bank,Barty/Love,66.0,
+Scarlet Fu,2005-09-13,Goldman Sachs,Abby Cohen,75.0,1325.0
+Scarlet Fu,2005-09-13,ISI Group,Jason Trennert,75.0,1325.0
+Scarlet Fu,2005-09-13,JPMorgan,A. Chakrabortti,55.0,1125.0
+Scarlet Fu,2005-09-13,Lehman,Henry Dickson,65.0,1300.0
+Scarlet Fu,2005-09-13,Merrill Lynch,R. Bernstein,40.0,1210.0
+Scarlet Fu,2005-09-13,Morgan Stanley,Henry McVey,65.0,1250.0
+Scarlet Fu,2005-09-13,Prudential,Edward Keon,100.0,1340.0
+Scarlet Fu,2005-09-13,UBS,,47.5,
+Scarlet Fu,2005-09-13,Wachovia,Rod Smyth,74.0,1270.0
+Scarlet Fu,2005-09-21,Bank of America,Thomas McManus,55.0,
+Scarlet Fu,2005-09-21,Bear Stearns,Francois Trahan,55.0,1150.0
+Scarlet Fu,2005-09-21,CIBC,Subodh Kumar,65.0,1250.0
+Scarlet Fu,2005-09-21,Citigroup,Committee,60.0,1300.0
+Scarlet Fu,2005-09-21,Deutsche Bank,Barty/Love,66.0,
+Scarlet Fu,2005-09-21,Goldman Sachs,Abby Cohen,75.0,1325.0
+Scarlet Fu,2005-09-21,ISI Group,Jason Trennert,75.0,1325.0
+Scarlet Fu,2005-09-21,JPMorgan,A. Chakrabortti,55.0,1125.0
+Scarlet Fu,2005-09-21,Lehman,Henry Dickson,65.0,1300.0
+Scarlet Fu,2005-09-21,Merrill Lynch,R. Bernstein,40.0,
+Scarlet Fu,2005-09-21,Morgan Stanley,Henry McVey,65.0,1275.0
+Scarlet Fu,2005-09-21,Prudential,Edward Keon,100.0,1340.0
+Scarlet Fu,2005-09-21,UBS,,47.5,
+Scarlet Fu,2005-09-21,Wachovia,Rod Smyth,74.0,1270.0
+Scarlet Fu,2005-09-27,Bank of America,Thomas McManus,55.0,
+Scarlet Fu,2005-09-27,Bear Stearns,Francois Trahan,55.0,1150.0
+Scarlet Fu,2005-09-27,CIBC,Subodh Kumar,65.0,1250.0
+Scarlet Fu,2005-09-27,Citigroup,Committee,60.0,1300.0
+Scarlet Fu,2005-09-27,Deutsche Bank,Barty/Love,66.0,
+Scarlet Fu,2005-09-27,Goldman Sachs,Abby Cohen,75.0,1325.0
+Scarlet Fu,2005-09-27,ISI Group,Jason Trennert,75.0,1325.0
+Scarlet Fu,2005-09-27,JPMorgan,A. Chakrabortti,55.0,1125.0
+Scarlet Fu,2005-09-27,Lehman,Henry Dickson,65.0,1300.0
+Scarlet Fu,2005-09-27,Merrill Lynch,R. Bernstein,40.0,
+Scarlet Fu,2005-09-27,Morgan Stanley,Henry McVey,65.0,
+Scarlet Fu,2005-09-27,Prudential,Edward Keon,100.0,
+Scarlet Fu,2005-09-27,UBS,,47.5,1250.0
+Scarlet Fu,2005-09-27,Wachovia,Rod Smyth,74.0,1270.0
+John Melloy,2005-10-06,Bank of America,Thomas McManus,55.0,
+John Melloy,2005-10-06,Bear Stearns,Francois Trahan,55.0,1150.0
+John Melloy,2005-10-06,CIBC,Subodh Kumar,65.0,1250.0
+John Melloy,2005-10-06,Citigroup,Committee,60.0,1300.0
+John Melloy,2005-10-06,Deutsche Bank,Barty/Love,66.0,
+John Melloy,2005-10-06,Goldman Sachs,Abby Cohen,75.0,1325.0
+John Melloy,2005-10-06,ISI Group,Jason Trennert,75.0,1325.0
+John Melloy,2005-10-06,JPMorgan,A. Chakrabortti,55.0,1125.0
+John Melloy,2005-10-06,Lehman,Henry Dickson,65.0,1300.0
+John Melloy,2005-10-06,Merrill Lynch,R. Bernstein,40.0,
+John Melloy,2005-10-06,Morgan Stanley,Henry McVey,65.0,
+John Melloy,2005-10-06,Prudential,Edward Keon,100.0,
+John Melloy,2005-10-06,UBS,,47.5,1250.0
+John Melloy,2005-10-06,Wachovia,Rod Smyth,74.0,1270.0
+Muhammad Younis,2005-10-19,Bank of America,Thomas McManus,55.0,
+Muhammad Younis,2005-10-19,Bear Stearns,Francois Trahan,55.0,1150.0
+Muhammad Younis,2005-10-19,CIBC,Subodh Kumar,65.0,1250.0
+Muhammad Younis,2005-10-19,Citigroup,Committee,60.0,1300.0
+Muhammad Younis,2005-10-19,Deutsche Bank,Barty/Love,66.0,
+Muhammad Younis,2005-10-19,Goldman Sachs,Abby Cohen,75.0,1325.0
+Muhammad Younis,2005-10-19,ISI Group,Jason Trennert,75.0,1325.0
+Muhammad Younis,2005-10-19,JPMorgan,A. Chakrabortti,55.0,1125.0
+Muhammad Younis,2005-10-19,Lehman,Henry Dickson,65.0,1300.0
+Muhammad Younis,2005-10-19,Merrill Lynch,R. Bernstein,40.0,
+Muhammad Younis,2005-10-19,Morgan Stanley,Henry McVey,65.0,
+Muhammad Younis,2005-10-19,Prudential,Edward Keon,100.0,
+Muhammad Younis,2005-10-19,UBS,,47.5,
+Muhammad Younis,2005-10-19,Wachovia,Rod Smyth,74.0,1270.0
+Muhammad Younis,2005-10-25,Bank of America,Thomas McManus,55.0,
+Muhammad Younis,2005-10-25,Bear Stearns,Francois Trahan,55.0,1150.0
+Muhammad Younis,2005-10-25,CIBC,Subodh Kumar,69.0,1250.0
+Muhammad Younis,2005-10-25,Citigroup,Committee,60.0,1300.0
+Muhammad Younis,2005-10-25,Deutsche Bank,,64.0,
+Muhammad Younis,2005-10-25,Goldman Sachs,Abby Cohen,75.0,1325.0
+Muhammad Younis,2005-10-25,ISI Group,Jason Trennert,75.0,1325.0
+Muhammad Younis,2005-10-25,JPMorgan,A. Chakrabortti,55.0,1125.0
+Muhammad Younis,2005-10-25,Lehman,Henry Dickson,65.0,1300.0
+Muhammad Younis,2005-10-25,Merrill Lynch,R. Bernstein,40.0,
+Muhammad Younis,2005-10-25,Morgan Stanley,Henry McVey,65.0,
+Muhammad Younis,2005-10-25,Prudential,Edward Keon,100.0,
+Muhammad Younis,2005-10-25,UBS,,47.5,
+Muhammad Younis,2005-10-25,Wachovia,Rod Smyth,74.0,1270.0
+Muhammad Younis,2005-10-31,Bank of America,Thomas McManus,55.0,
+Muhammad Younis,2005-10-31,Bear Stearns,Francois Trahan,55.0,1150.0
+Muhammad Younis,2005-10-31,CIBC,Subodh Kumar,69.0,1250.0
+Muhammad Younis,2005-10-31,Citigroup,Committee,60.0,1300.0
+Muhammad Younis,2005-10-31,Deutsche Bank,,64.0,
+Muhammad Younis,2005-10-31,Goldman Sachs,Abby Cohen,75.0,1325.0
+Muhammad Younis,2005-10-31,ISI Group,Jason Trennert,75.0,1325.0
+Muhammad Younis,2005-10-31,JPMorgan,A. Chakrabortti,55.0,1125.0
+Muhammad Younis,2005-10-31,Lehman,Henry Dickson,65.0,1300.0
+Muhammad Younis,2005-10-31,Merrill Lynch,R. Bernstein,40.0,
+Muhammad Younis,2005-10-31,Morgan Stanley,Henry McVey,65.0,
+Muhammad Younis,2005-10-31,Prudential,Edward Keon,100.0,
+Muhammad Younis,2005-10-31,UBS,,47.5,
+Muhammad Younis,2005-10-31,Wachovia,Rod Smyth,74.0,1270.0
+Muhammad Younis,2005-11-07,Bank of America,Thomas McManus,55.0,
+Muhammad Younis,2005-11-07,Bear Stearns,Francois Trahan,55.0,1150.0
+Muhammad Younis,2005-11-07,CIBC,Subodh Kumar,69.0,1250.0
+Muhammad Younis,2005-11-07,Citigroup,Committee,60.0,1300.0
+Muhammad Younis,2005-11-07,Deutsche Bank,,65.0,
+Muhammad Younis,2005-11-07,Goldman Sachs,Abby Cohen,75.0,1325.0
+Muhammad Younis,2005-11-07,ISI Group,Jason Trennert,75.0,1325.0
+Muhammad Younis,2005-11-07,JPMorgan,A. Chakrabortti,55.0,1125.0
+Muhammad Younis,2005-11-07,Lehman,Henry Dickson,65.0,1300.0
+Muhammad Younis,2005-11-07,Merrill Lynch,R. Bernstein,40.0,
+Muhammad Younis,2005-11-07,Morgan Stanley,Henry McVey,65.0,
+Muhammad Younis,2005-11-07,Prudential,Edward Keon,100.0,
+Muhammad Younis,2005-11-07,UBS,,50.0,
+Muhammad Younis,2005-11-07,Wachovia,Rod Smyth,74.0,1270.0
+Muhammad Younis,2005-11-14,Bank of America,Thomas McManus,55.0,
+Muhammad Younis,2005-11-14,Bear Stearns,Francois Trahan,55.0,1150.0
+Muhammad Younis,2005-11-14,CIBC,Subodh Kumar,69.0,1250.0
+Muhammad Younis,2005-11-14,Citigroup,Committee,60.0,1300.0
+Muhammad Younis,2005-11-14,Deutsche Bank,,65.0,
+Muhammad Younis,2005-11-14,Goldman Sachs,Abby Cohen,75.0,1325.0
+Muhammad Younis,2005-11-14,ISI Group,Jason Trennert,75.0,1325.0
+Muhammad Younis,2005-11-14,JPMorgan,A. Chakrabortti,55.0,1125.0
+Muhammad Younis,2005-11-14,Lehman,Henry Dickson,65.0,1300.0
+Muhammad Younis,2005-11-14,Merrill Lynch,R. Bernstein,40.0,
+Muhammad Younis,2005-11-14,Morgan Stanley,Henry McVey,65.0,
+Muhammad Younis,2005-11-14,Prudential,Edward Keon,100.0,
+Muhammad Younis,2005-11-14,UBS,,50.0,
+Muhammad Younis,2005-11-14,Wachovia,Rod Smyth,74.0,1270.0
+Muhammad Younis,2005-12-05,Bank of America,Thomas McManus,55.0,
+Muhammad Younis,2005-12-05,Bear Stearns,Francois Trahan,55.0,1150.0
+Muhammad Younis,2005-12-05,CIBC,Subodh Kumar,69.0,1250.0
+Muhammad Younis,2005-12-05,Citigroup,Committee,60.0,1300.0
+Muhammad Younis,2005-12-05,Deutsche Bank,James Barty,65.0,
+Muhammad Younis,2005-12-05,Goldman Sachs,Abby Cohen,75.0,1325.0
+Muhammad Younis,2005-12-05,ISI Group,Jason Trennert,75.0,1325.0
+Muhammad Younis,2005-12-05,JPMorgan,A. Chakrabortti,55.0,1125.0
+Muhammad Younis,2005-12-05,Lehman,Henry Dickson,65.0,1300.0
+Muhammad Younis,2005-12-05,Merrill Lynch,R. Bernstein,40.0,
+Muhammad Younis,2005-12-05,Morgan Stanley,Henry McVey,65.0,
+Muhammad Younis,2005-12-05,Prudential,Edward Keon,100.0,
+Muhammad Younis,2005-12-05,UBS,,52.5,
+Muhammad Younis,2005-12-05,Wachovia,Rod Smyth,74.0,1270.0
+Muhammad Younis,2005-12-12,Bank of America,Thomas McManus,55.0,
+Muhammad Younis,2005-12-12,Bear Stearns,Francois Trahan,50.0,1150.0
+Muhammad Younis,2005-12-12,CIBC,Subodh Kumar,69.0,1250.0
+Muhammad Younis,2005-12-12,Citigroup,Committee,60.0,1300.0
+Muhammad Younis,2005-12-12,Deutsche Bank,James Barty,65.0,
+Muhammad Younis,2005-12-12,Goldman Sachs,Abby Cohen,75.0,1325.0
+Muhammad Younis,2005-12-12,ISI Group,Jason Trennert,75.0,1325.0
+Muhammad Younis,2005-12-12,JPMorgan,A. Chakrabortti,55.0,1125.0
+Muhammad Younis,2005-12-12,Lehman,Henry Dickson,65.0,1400.0
+Muhammad Younis,2005-12-12,Merrill Lynch,R. Bernstein,40.0,
+Muhammad Younis,2005-12-12,Morgan Stanley,Henry McVey,65.0,
+Muhammad Younis,2005-12-12,Prudential,Edward Keon,100.0,
+Muhammad Younis,2005-12-12,UBS,,52.5,
+Muhammad Younis,2005-12-12,Wachovia,Rod Smyth,74.0,1270.0
+Phillip Cruz,2005-12-20,Bank of America,Thomas McManus,55.0,
+Phillip Cruz,2005-12-20,Bear Stearns,Francois Trahan,50.0,1150.0
+Phillip Cruz,2005-12-20,CIBC,Subodh Kumar,69.0,1250.0
+Phillip Cruz,2005-12-20,Citigroup,Committee,60.0,1300.0
+Phillip Cruz,2005-12-20,Deutsche Bank,James Barty,65.0,
+Phillip Cruz,2005-12-20,Goldman Sachs,Abby Cohen,75.0,1325.0
+Phillip Cruz,2005-12-20,ISI Group,Jason Trennert,75.0,1325.0
+Phillip Cruz,2005-12-20,JPMorgan,A. Chakrabortti,55.0,1125.0
+Phillip Cruz,2005-12-20,Lehman,Henry Dickson,65.0,
+Phillip Cruz,2005-12-20,Merrill Lynch,R. Bernstein,40.0,
+Phillip Cruz,2005-12-20,Morgan Stanley,Henry McVey,65.0,
+Phillip Cruz,2005-12-20,Prudential,Edward Keon,100.0,
+Phillip Cruz,2005-12-20,UBS,,52.5,
+Phillip Cruz,2005-12-20,Wachovia,Rod Smyth,74.0,1270.0
+Phillip Cruz,2005-12-23,Bank of America,Thomas McManus,55.0,
+Phillip Cruz,2005-12-23,Bear Stearns,Francois Trahan,50.0,1150.0
+Phillip Cruz,2005-12-23,CIBC,Subodh Kumar,69.0,1250.0
+Phillip Cruz,2005-12-23,Citigroup,Committee,60.0,1300.0
+Phillip Cruz,2005-12-23,Deutsche Bank,James Barty,65.0,
+Phillip Cruz,2005-12-23,Goldman Sachs,Abby Cohen,75.0,1325.0
+Phillip Cruz,2005-12-23,ISI Group,Jason Trennert,75.0,1325.0
+Phillip Cruz,2005-12-23,JPMorgan,A. Chakrabortti,55.0,1125.0
+Phillip Cruz,2005-12-23,Lehman,Henry Dickson,65.0,
+Phillip Cruz,2005-12-23,Merrill Lynch,R. Bernstein,40.0,
+Phillip Cruz,2005-12-23,Morgan Stanley,Henry McVey,65.0,
+Phillip Cruz,2005-12-23,Prudential,Edward Keon,100.0,
+Phillip Cruz,2005-12-23,UBS,,52.5,
+Phillip Cruz,2005-12-23,Wachovia,Rod Smyth,74.0,1270.0
+Muhammad Younis,2005-12-27,Bank of America,Thomas McManus,55.0,
+Muhammad Younis,2005-12-27,Bear Stearns,Francois Trahan,50.0,1150.0
+Muhammad Younis,2005-12-27,CIBC,Subodh Kumar,69.0,1250.0
+Muhammad Younis,2005-12-27,Citigroup,Committee,60.0,1300.0
+Muhammad Younis,2005-12-27,Deutsche Bank,James Barty,65.0,
+Muhammad Younis,2005-12-27,Goldman Sachs,Abby Cohen,75.0,
+Muhammad Younis,2005-12-27,ISI Group,Jason Trennert,75.0,1325.0
+Muhammad Younis,2005-12-27,JPMorgan,A. Chakrabortti,55.0,1125.0
+Muhammad Younis,2005-12-27,Lehman,Henry Dickson,65.0,1300.0
+Muhammad Younis,2005-12-27,Merrill Lynch,R. Bernstein,40.0,
+Muhammad Younis,2005-12-27,Morgan Stanley,Henry McVey,65.0,
+Muhammad Younis,2005-12-27,Prudential,Edward Keon,100.0,
+Muhammad Younis,2005-12-27,UBS,,52.5,
+Muhammad Younis,2005-12-27,Wachovia,Rod Smyth,72.0,1270.0

@@ -1,0 +1,535 @@
+Date,Firm,Strategist,Stock Allocation %,2001 Close
+2001-01-08,Bank of America,Thomas McManus,60.0,1525.0
+2001-01-08,Bear Stearns,Liz Mackay,65.0,1650.0
+2001-01-08,CIBC,Subodh Kumar,55.0,1625.0
+2001-01-08,CSFB,Thomas Galvin,90.0,1600.0
+2001-01-08,First Union,Rod Smyth,70.0,
+2001-01-08,Goldman Sachs,Abby Joseph Cohen,65.0,1650.0
+2001-01-08,JPMorgan,Douglas Cliggott,60.0,1400.0
+2001-01-08,Lehman,Jeffrey Applegate,80.0,1675.0
+2001-01-08,Merrill Lynch,Christine Callies,65.0,1625.0
+2001-01-08,Morgan Stanley,Peter Canelo,80.0,1600.0
+2001-01-08,Prudential,Greg Smith,70.0,
+2001-01-08,Salomon SB,Committee,65.0,1450.0
+2001-01-08,UBS,Ed Kerschner,60.0,1715.0
+2001-01-12,Bank of America,Thomas McManus,60.0,1525.0
+2001-01-12,Bear Stearns,Liz Mackay,65.0,1650.0
+2001-01-12,CIBC,Subodh Kumar,55.0,1625.0
+2001-01-12,CSFB,Thomas Galvin,90.0,1600.0
+2001-01-12,Deutsche Bank,Ed Yardeni,80.0,1474.0
+2001-01-12,First Union,Rod Smyth,70.0,1550.0
+2001-01-12,Goldman Sachs,Abby Joseph Cohen,65.0,1650.0
+2001-01-12,JPMorgan,Douglas Cliggott,60.0,1400.0
+2001-01-12,Lehman,Jeffrey Applegate,80.0,1675.0
+2001-01-12,Merrill Lynch,Christine Callies,65.0,1625.0
+2001-01-12,Morgan Stanley,Peter Canelo,80.0,1600.0
+2001-01-12,Prudential,Greg Smith,70.0,
+2001-01-12,Salomon SB,Committee,65.0,1450.0
+2001-01-12,UBS,Ed Kerschner,61.0,1715.0
+2001-01-23,Bank of America,Thomas McManus,60.0,1525.0
+2001-01-23,Bear Stearns,Liz Mackay,65.0,1650.0
+2001-01-23,CIBC,Subodh Kumar,55.0,1625.0
+2001-01-23,CSFB,Thomas Galvin,90.0,1600.0
+2001-01-23,Deutsche Bank,Ed Yardeni,80.0,1474.0
+2001-01-23,First Union,Rod Smyth,70.0,1550.0
+2001-01-23,Goldman Sachs,Abby Joseph Cohen,65.0,1650.0
+2001-01-23,JPMorgan,Douglas Cliggott,60.0,1400.0
+2001-01-23,Lehman,Jeffrey Applegate,80.0,1675.0
+2001-01-23,Merrill Lynch,Christine Callies,65.0,1625.0
+2001-01-23,Morgan Stanley,Peter Canelo,80.0,1600.0
+2001-01-23,Prudential,Greg Smith,70.0,
+2001-01-23,Salomon SB,Committee,65.0,1450.0
+2001-01-23,UBS,Ed Kerschner,61.0,1715.0
+2001-02-02,Bank of America,Thomas McManus,60.0,1525.0
+2001-02-02,Bear Stearns,Liz Mackay,65.0,1650.0
+2001-02-02,CIBC,Subodh Kumar,55.0,1625.0
+2001-02-02,CSFB,Thomas Galvin,90.0,1600.0
+2001-02-02,Deutsche Bank,Ed Yardeni,80.0,1474.0
+2001-02-02,First Union,Rod Smyth,70.0,1550.0
+2001-02-02,Goldman Sachs,Abby Joseph Cohen,65.0,1650.0
+2001-02-02,JPMorgan,Douglas Cliggott,60.0,1400.0
+2001-02-02,Lehman,Jeffrey Applegate,80.0,1675.0
+2001-02-02,Merrill Lynch,Christine Callies,65.0,1625.0
+2001-02-02,Morgan Stanley,Peter Canelo,80.0,1600.0
+2001-02-02,Prudential,Greg Smith,70.0,
+2001-02-02,Salomon SB,Committee,65.0,1450.0
+2001-02-02,UBS,Ed Kerschner,60.0,1715.0
+2001-02-16,Bank of America,Thomas McManus,60.0,1525.0
+2001-02-16,Bear Stearns,Liz Mackay,65.0,1650.0
+2001-02-16,CIBC,Subodh Kumar,55.0,1625.0
+2001-02-16,CSFB,Thomas Galvin,90.0,1600.0
+2001-02-16,Deutsche Bank,Ed Yardeni,70.0,1496.0
+2001-02-16,First Union,Rod Smyth,70.0,1550.0
+2001-02-16,Goldman Sachs,Abby Joseph Cohen,65.0,1650.0
+2001-02-16,JPMorgan,Douglas Cliggott,60.0,1400.0
+2001-02-16,Lehman,Jeffrey Applegate,80.0,1675.0
+2001-02-16,Merrill Lynch,Christine Callies,65.0,1625.0
+2001-02-16,Morgan Stanley,Peter Canelo,80.0,1600.0
+2001-02-16,Prudential,Greg Smith,70.0,
+2001-02-16,Salomon SB,Committee,65.0,1450.0
+2001-02-16,UBS,Ed Kerschner,62.0,1715.0
+2001-02-23,Bank of America,Thomas McManus,60.0,1525.0
+2001-02-23,Bear Stearns,Liz Mackay,65.0,1650.0
+2001-02-23,CIBC,Subodh Kumar,55.0,1625.0
+2001-02-23,CSFB,Thomas Galvin,90.0,1520.0
+2001-02-23,Deutsche Bank,Ed Yardeni,70.0,1496.0
+2001-02-23,First Union,Rod Smyth,70.0,1550.0
+2001-02-23,Goldman Sachs,Abby Joseph Cohen,65.0,1650.0
+2001-02-23,JPMorgan,Douglas Cliggott,60.0,1400.0
+2001-02-23,Lehman,Jeffrey Applegate,80.0,1600.0
+2001-02-23,Merrill Lynch,Christine Callies,65.0,1625.0
+2001-02-23,Morgan Stanley,Peter Canelo,80.0,1600.0
+2001-02-23,Prudential,Greg Smith,70.0,
+2001-02-23,Salomon SB,Committee,65.0,1450.0
+2001-02-23,UBS,Ed Kerschner,64.0,1715.0
+2001-03-16,Bank of America,Thomas McManus,60.0,1525.0
+2001-03-16,Bank of America,Thomas McManus,60.0,1475.0
+2001-03-16,Bear Stearns,Liz Mackay,65.0,1650.0
+2001-03-16,CIBC,Subodh Kumar,55.0,1625.0
+2001-03-16,CSFB,Thomas Galvin,90.0,1520.0
+2001-03-16,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-03-16,First Union,Rod Smyth,70.0,1550.0
+2001-03-16,Goldman Sachs,Abby Joseph Cohen,70.0,1650.0
+2001-03-16,JPMorgan,Douglas Cliggott,60.0,1400.0
+2001-03-16,Lehman,Jeffrey Applegate,80.0,1600.0
+2001-03-16,Merrill Lynch,Christine Callies,65.0,1625.0
+2001-03-16,Morgan Stanley,Peter Canelo,80.0,1600.0
+2001-03-16,Prudential,Greg Smith,70.0,
+2001-03-16,Salomon SB,Committee,65.0,1450.0
+2001-03-16,UBS,Ed Kerschner,67.0,1715.0
+2001-03-16,UBS,Ed Kerschner,70.0,1715.0
+2001-03-23,Bank of America,Thomas McManus,65.0,1475.0
+2001-03-23,Bear Stearns,Liz Mackay,65.0,1650.0
+2001-03-23,CIBC,Subodh Kumar,55.0,1625.0
+2001-03-23,CSFB,Thomas Galvin,90.0,1520.0
+2001-03-23,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-03-23,First Union,Rod Smyth,70.0,1550.0
+2001-03-23,Goldman Sachs,Abby Joseph Cohen,70.0,1650.0
+2001-03-23,JPMorgan,Douglas Cliggott,60.0,1400.0
+2001-03-23,Lehman,Jeffrey Applegate,80.0,1600.0
+2001-03-23,Merrill Lynch,Christine Callies,65.0,1625.0
+2001-03-23,Morgan Stanley,Peter Canelo,80.0,1600.0
+2001-03-23,Prudential,Greg Smith,70.0,
+2001-03-23,Salomon SB,Committee,65.0,1450.0
+2001-03-23,UBS,Ed Kerschner,70.0,1715.0
+2001-04-06,Bank of America,Thomas McManus,65.0,1475.0
+2001-04-06,Bear Stearns,Liz Mackay,65.0,1650.0
+2001-04-06,CIBC,Subodh Kumar,55.0,1450.0
+2001-04-06,CSFB,Thomas Galvin,90.0,1520.0
+2001-04-06,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-04-06,First Union,Rod Smyth,70.0,1350.0
+2001-04-06,Goldman Sachs,Abby Joseph Cohen,70.0,1650.0
+2001-04-06,JPMorgan,Douglas Cliggott,60.0,1300.0
+2001-04-06,Lehman,Jeffrey Applegate,80.0,1400.0
+2001-04-06,Merrill Lynch,Christine Callies,65.0,1625.0
+2001-04-06,Morgan Stanley,Peter Canelo,80.0,1600.0
+2001-04-06,Prudential,Greg Smith,60.0,
+2001-04-06,Salomon SB,Committee,70.0,1450.0
+2001-04-06,UBS,Ed Kerschner,75.0,1715.0
+2001-04-12,Bank of America,Thomas McManus,65.0,1475.0
+2001-04-12,Bear Stearns,Liz Mackay,65.0,1650.0
+2001-04-12,CIBC,Subodh Kumar,75.0,1450.0
+2001-04-12,CSFB,Thomas Galvin,90.0,1520.0
+2001-04-12,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-04-12,First Union,Rod Smyth,70.0,1350.0
+2001-04-12,Goldman Sachs,Abby Joseph Cohen,70.0,1650.0
+2001-04-12,JPMorgan,Douglas Cliggott,60.0,1300.0
+2001-04-12,Lehman,Jeffrey Applegate,80.0,1400.0
+2001-04-12,Merrill Lynch,Christine Callies,65.0,1625.0
+2001-04-12,Morgan Stanley,Peter Canelo,80.0,1600.0
+2001-04-12,Prudential,Greg Smith,60.0,
+2001-04-12,Salomon SB,Committee,70.0,1450.0
+2001-04-12,UBS,Ed Kerschner,75.0,1715.0
+2001-04-23,Bank of America,Thomas McManus,65.0,1475.0
+2001-04-23,Bank of America,Thomas McManus,60.0,1475.0
+2001-04-23,Bear Stearns,Liz Mackay,65.0,
+2001-04-23,CIBC,Subodh Kumar,75.0,1450.0
+2001-04-23,CSFB,Thomas Galvin,90.0,1520.0
+2001-04-23,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-04-23,First Union,Rod Smyth,70.0,1350.0
+2001-04-23,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-04-23,JPMorgan,Douglas Cliggott,60.0,1300.0
+2001-04-23,Lehman,Jeffrey Applegate,80.0,1400.0
+2001-04-23,Merrill Lynch,Christine Callies,70.0,
+2001-04-23,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-04-23,Prudential,Greg Smith,60.0,
+2001-04-23,Salomon SB,Committee,70.0,1400.0
+2001-04-23,UBS,Ed Kerschner,72.0,1715.0
+2001-04-27,Bank of America,Thomas McManus,60.0,1475.0
+2001-04-27,Bear Stearns,Liz Mackay,65.0,
+2001-04-27,CIBC,Subodh Kumar,75.0,1450.0
+2001-04-27,CSFB,Thomas Galvin,90.0,1520.0
+2001-04-27,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-04-27,First Union,Rod Smyth,70.0,1350.0
+2001-04-27,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-04-27,JPMorgan,Douglas Cliggott,60.0,1300.0
+2001-04-27,Lehman,Jeffrey Applegate,80.0,1400.0
+2001-04-27,Merrill Lynch,Christine Callies,70.0,
+2001-04-27,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-04-27,Prudential,Greg Smith,60.0,
+2001-04-27,Salomon SB,Committee,70.0,1400.0
+2001-04-27,UBS,Ed Kerschner,73.0,1715.0
+2001-05-04,Bank of America,Thomas McManus,60.0,1425.0
+2001-05-04,Bear Stearns,Liz Mackay,65.0,
+2001-05-04,CIBC,Subodh Kumar,75.0,1450.0
+2001-05-04,CSFB,Thomas Galvin,90.0,1520.0
+2001-05-04,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-05-04,First Union,Rod Smyth,70.0,1350.0
+2001-05-04,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-05-04,JPMorgan,Douglas Cliggott,60.0,1300.0
+2001-05-04,Lehman,Jeffrey Applegate,80.0,1400.0
+2001-05-04,Merrill Lynch,Christine Callies,70.0,
+2001-05-04,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-05-04,Prudential,Greg Smith,60.0,
+2001-05-04,Salomon SB,Committee,70.0,1400.0
+2001-05-04,UBS,Ed Kerschner,73.0,1715.0
+2001-05-11,Bank of America,Thomas McManus,60.0,1425.0
+2001-05-11,Bear Stearns,Liz Mackay,65.0,
+2001-05-11,CIBC,Subodh Kumar,75.0,1450.0
+2001-05-11,CSFB,Thomas Galvin,90.0,1450.0
+2001-05-11,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-05-11,First Union,Rod Smyth,70.0,1350.0
+2001-05-11,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-05-11,JPMorgan,Douglas Cliggott,60.0,1300.0
+2001-05-11,Lehman,Jeffrey Applegate,80.0,1400.0
+2001-05-11,Merrill Lynch,Christine Callies,70.0,
+2001-05-11,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-05-11,Prudential,Greg Smith,60.0,
+2001-05-11,Salomon SB,Committee,70.0,1400.0
+2001-05-11,UBS,Ed Kerschner,72.0,1715.0
+2001-05-18,Bank of America,Thomas McManus,60.0,1425.0
+2001-05-18,Bear Stearns,Liz Mackay,65.0,
+2001-05-18,CIBC,Subodh Kumar,75.0,1450.0
+2001-05-18,CSFB,Thomas Galvin,90.0,1450.0
+2001-05-18,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-05-18,First Union,Rod Smyth,70.0,1350.0
+2001-05-18,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-05-18,JPMorgan,Douglas Cliggott,60.0,1300.0
+2001-05-18,Lehman,Jeffrey Applegate,80.0,1400.0
+2001-05-18,Merrill Lynch,Christine Callies,70.0,
+2001-05-18,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-05-18,Prudential,Greg Smith,60.0,
+2001-05-18,Salomon SB,Committee,70.0,1400.0
+2001-05-18,UBS,Ed Kerschner,69.0,1715.0
+2001-06-08,Bank of America,Thomas McManus,60.0,1425.0
+2001-06-08,Bear Stearns,Liz Mackay,65.0,
+2001-06-08,CIBC,Subodh Kumar,75.0,1450.0
+2001-06-08,CSFB,Thomas Galvin,90.0,1450.0
+2001-06-08,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-06-08,First Union,Rod Smyth,70.0,1350.0
+2001-06-08,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-06-08,JPMorgan,Douglas Cliggott,60.0,1200.0
+2001-06-08,Lehman,Jeffrey Applegate,80.0,1450.0
+2001-06-08,Merrill Lynch,Christine Callies,70.0,
+2001-06-08,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-06-08,Prudential,Greg Smith,65.0,
+2001-06-08,Salomon SB,Committee,70.0,1400.0
+2001-06-08,UBS,Ed Kerschner,72.0,1715.0
+2001-06-15,Bank of America,Thomas McManus,60.0,1425.0
+2001-06-15,Bear Stearns,Liz Mackay,65.0,
+2001-06-15,CIBC,Subodh Kumar,75.0,1450.0
+2001-06-15,CSFB,Thomas Galvin,90.0,1450.0
+2001-06-15,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-06-15,First Union,Rod Smyth,70.0,1350.0
+2001-06-15,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-06-15,JPMorgan,Douglas Cliggott,60.0,1200.0
+2001-06-15,Lehman,Jeffrey Applegate,80.0,1450.0
+2001-06-15,Merrill Lynch,Christine Callies,70.0,
+2001-06-15,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-06-15,Prudential,Greg Smith,50.0,
+2001-06-15,Salomon SB,Committee,70.0,1400.0
+2001-06-15,UBS,Ed Kerschner,75.0,1835.0
+2001-06-29,Bank of America,Thomas McManus,60.0,1425.0
+2001-06-29,Bear Stearns,Liz Mackay,65.0,
+2001-06-29,CIBC,Subodh Kumar,75.0,1450.0
+2001-06-29,CSFB,Thomas Galvin,90.0,1450.0
+2001-06-29,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-06-29,First Union,Rod Smyth,70.0,1350.0
+2001-06-29,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-06-29,JPMorgan,Douglas Cliggott,60.0,1200.0
+2001-06-29,Lehman,Jeffrey Applegate,80.0,1450.0
+2001-06-29,Merrill Lynch,Christine Callies,70.0,
+2001-06-29,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-06-29,Prudential,Greg Smith,50.0,
+2001-06-29,Salomon SB,Committee,70.0,1400.0
+2001-06-29,UBS,Ed Kerschner,73.0,1835.0
+2001-07-09,Bank of America,Thomas McManus,60.0,1425.0
+2001-07-09,Bear Stearns,Liz Mackay,65.0,
+2001-07-09,CIBC,Subodh Kumar,75.0,1450.0
+2001-07-09,CSFB,Thomas Galvin,90.0,1450.0
+2001-07-09,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-07-09,First Union,Rod Smyth,70.0,1350.0
+2001-07-09,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-07-09,JPMorgan,Douglas Cliggott,60.0,1200.0
+2001-07-09,Lehman,Jeffrey Applegate,80.0,1450.0
+2001-07-09,Merrill Lynch,Christine Callies,70.0,
+2001-07-09,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-07-09,Prudential,Greg Smith,50.0,
+2001-07-09,Salomon SB,Committee,70.0,1400.0
+2001-07-09,UBS,Ed Kerschner,73.0,
+2001-07-20,Bank of America,Thomas McManus,60.0,1425.0
+2001-07-20,Bear Stearns,Liz Mackay,65.0,
+2001-07-20,CIBC,Subodh Kumar,75.0,1450.0
+2001-07-20,CSFB,Thomas Galvin,90.0,1450.0
+2001-07-20,Deutsche Bank,Ed Yardeni,80.0,1320.0
+2001-07-20,First Union,Rod Smyth,70.0,1350.0
+2001-07-20,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-07-20,JPMorgan,Douglas Cliggott,60.0,1200.0
+2001-07-20,Lehman,Jeffrey Applegate,80.0,1450.0
+2001-07-20,Merrill Lynch,Christine Callies,70.0,
+2001-07-20,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-07-20,Prudential,Greg Smith,50.0,
+2001-07-20,Salomon SB,Committee,70.0,1400.0
+2001-07-20,UBS,Ed Kerschner,77.0,
+2001-07-27,Bank of America,Thomas McManus,60.0,1425.0
+2001-07-27,Bear Stearns,Liz Mackay,65.0,
+2001-07-27,CIBC,Subodh Kumar,75.0,1450.0
+2001-07-27,CSFB,Thomas Galvin,95.0,1450.0
+2001-07-27,Deutsche Bank,Ed Yardeni,70.0,1320.0
+2001-07-27,First Union,Rod Smyth,70.0,1350.0
+2001-07-27,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-07-27,JPMorgan,Douglas Cliggott,60.0,1200.0
+2001-07-27,Lehman,Jeffrey Applegate,80.0,1450.0
+2001-07-27,Merrill Lynch,Christine Callies,70.0,1550.0
+2001-07-27,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-07-27,Prudential,Greg Smith,50.0,
+2001-07-27,Salomon SB,Committee,70.0,1400.0
+2001-07-27,UBS,Ed Kerschner,76.0,
+2001-08-03,Bank of America,Thomas McManus,60.0,1350.0
+2001-08-03,Bear Stearns,,65.0,
+2001-08-03,CIBC,Subodh Kumar,75.0,1450.0
+2001-08-03,CSFB,Thomas Galvin,95.0,1500.0
+2001-08-03,Deutsche Bank,Ed Yardeni,70.0,1320.0
+2001-08-03,First Union,Rod Smyth,70.0,1350.0
+2001-08-03,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-08-03,JPMorgan,Douglas Cliggott,60.0,1100.0
+2001-08-03,Lehman,Jeffrey Applegate,80.0,1450.0
+2001-08-03,Merrill Lynch,Christine Callies,70.0,
+2001-08-03,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-08-03,Prudential,Greg Smith,50.0,
+2001-08-03,Salomon SB,Committee,70.0,1400.0
+2001-08-03,UBS,Ed Kerschner,76.0,
+2001-08-17,Bank of America,Thomas McManus,60.0,1350.0
+2001-08-17,Bear Stearns,,65.0,
+2001-08-17,CIBC,Subodh Kumar,75.0,1400.0
+2001-08-17,CSFB,Thomas Galvin,95.0,1500.0
+2001-08-17,Deutsche Bank,Ed Yardeni,70.0,1210.0
+2001-08-17,First Union,Rod Smyth,70.0,1350.0
+2001-08-17,Goldman Sachs,Abby Joseph Cohen,70.0,1550.0
+2001-08-17,JPMorgan,Douglas Cliggott,60.0,1100.0
+2001-08-17,Lehman,Jeffrey Applegate,80.0,1450.0
+2001-08-17,Merrill Lynch,Christine Callies,70.0,
+2001-08-17,Morgan Stanley,Peter Canelo,80.0,1425.0
+2001-08-17,Prudential,Greg Smith,50.0,
+2001-08-17,Salomon SB,Committee,70.0,1400.0
+2001-08-17,UBS,Ed Kerschner,80.0,
+2001-08-31,Bank of America,Thomas McManus,60.0,1350.0
+2001-08-31,Bear Stearns,,65.0,
+2001-08-31,CIBC,Subodh Kumar,75.0,1400.0
+2001-08-31,CSFB,Thomas Galvin,70.0,1500.0
+2001-08-31,Deutsche Bank,Ed Yardeni,70.0,1210.0
+2001-08-31,First Union,Rod Smyth,70.0,1350.0
+2001-08-31,Goldman Sachs,Abby Joseph Cohen,70.0,1500.0
+2001-08-31,JPMorgan,Douglas Cliggott,60.0,1100.0
+2001-08-31,Lehman,Jeffrey Applegate,80.0,1450.0
+2001-08-31,Merrill Lynch,Christine Callies,70.0,1450.0
+2001-08-31,Morgan Stanley,Steve Galbraith,80.0,1320.0
+2001-08-31,Prudential,Greg Smith,50.0,
+2001-08-31,Salomon SB,Committee,70.0,1400.0
+2001-08-31,UBS,Ed Kerschner,82.0,
+2001-09-07,Bank of America,Thomas McManus,60.0,
+2001-09-07,Bear Stearns,,65.0,
+2001-09-07,CIBC,Subodh Kumar,75.0,1400.0
+2001-09-07,CSFB,Thomas Galvin,70.0,
+2001-09-07,Deutsche Bank,Ed Yardeni,70.0,1210.0
+2001-09-07,First Union,Rod Smyth,70.0,1350.0
+2001-09-07,Goldman Sachs,Abby Joseph Cohen,70.0,1500.0
+2001-09-07,JPMorgan,Douglas Cliggott,60.0,1100.0
+2001-09-07,Lehman,Jeffrey Applegate,80.0,1450.0
+2001-09-07,Merrill Lynch,Christine Callies,70.0,1450.0
+2001-09-07,Morgan Stanley,Steve Galbraith,80.0,1320.0
+2001-09-07,Prudential,Greg Smith,50.0,
+2001-09-07,Salomon SB,Committee,70.0,1400.0
+2001-09-07,UBS,Ed Kerschner,82.0,
+2001-09-21,Bank of America,Thomas McManus,65.0,
+2001-09-21,Bear Stearns,,65.0,
+2001-09-21,CIBC,Subodh Kumar,75.0,1400.0
+2001-09-21,CSFB,Thomas Galvin,70.0,
+2001-09-21,Deutsche Bank,Ed Yardeni,70.0,1210.0
+2001-09-21,First Union,Rod Smyth,72.0,
+2001-09-21,Goldman Sachs,Abby Joseph Cohen,70.0,
+2001-09-21,JPMorgan,Douglas Cliggott,60.0,
+2001-09-21,Lehman,Jeffrey Applegate,80.0,1200.0
+2001-09-21,Merrill Lynch,Christine Callies,70.0,1450.0
+2001-09-21,Morgan Stanley,Steve Galbraith,80.0,1300.0
+2001-09-21,Prudential,Greg Smith,50.0,
+2001-09-21,Salomon SB,Committee,70.0,1200.0
+2001-09-21,UBS,Ed Kerschner,84.0,
+2001-09-28,Bank of America,Thomas McManus,70.0,
+2001-09-28,Bear Stearns,,,
+2001-09-28,CIBC,Subodh Kumar,75.0,
+2001-09-28,CSFB,Thomas Galvin,70.0,
+2001-09-28,Deutsche Bank,Ed Yardeni,70.0,1210.0
+2001-09-28,First Union,Rod Smyth,72.0,
+2001-09-28,Goldman Sachs,Abby Joseph Cohen,75.0,1325.0
+2001-09-28,JPMorgan,Douglas Cliggott,60.0,
+2001-09-28,Lehman,Jeffrey Applegate,80.0,
+2001-09-28,Merrill Lynch,Christine Callies,70.0,
+2001-09-28,Morgan Stanley,Steve Galbraith,80.0,1300.0
+2001-09-28,Prudential,Greg Smith,50.0,
+2001-09-28,Salomon SB,Committee,70.0,
+2001-09-28,UBS,Ed Kerschner,86.0,
+2001-10-12,Bank of America,Thomas McManus,70.0,
+2001-10-12,Bear Stearns,,,
+2001-10-12,CIBC,Subodh Kumar,75.0,
+2001-10-12,CSFB,Thomas Galvin,70.0,
+2001-10-12,Deutsche Bank,Ed Yardeni,70.0,
+2001-10-12,First Union,Rod Smyth,72.0,
+2001-10-12,Goldman Sachs,Abby Joseph Cohen,75.0,
+2001-10-12,JPMorgan,Douglas Cliggott,60.0,
+2001-10-12,Lehman,Jeffrey Applegate,80.0,1200.0
+2001-10-12,Merrill Lynch,Christine Callies,70.0,
+2001-10-12,Morgan Stanley,Steve Galbraith,75.0,
+2001-10-12,Prudential,Greg Smith,50.0,1050.0
+2001-10-12,Salomon SB,Committee,70.0,
+2001-10-12,UBS,Ed Kerschner,85.0,
+2001-10-19,Bank of America,Thomas McManus,65.0,
+2001-10-19,Bear Stearns,,,
+2001-10-19,CIBC,Subodh Kumar,75.0,
+2001-10-19,CSFB,Thomas Galvin,70.0,
+2001-10-19,Deutsche Bank,Ed Yardeni,70.0,
+2001-10-19,First Union,Rod Smyth,72.0,
+2001-10-19,Goldman Sachs,Abby Joseph Cohen,75.0,
+2001-10-19,JPMorgan,Douglas Cliggott,60.0,
+2001-10-19,Lehman,Jeffrey Applegate,80.0,1200.0
+2001-10-19,Merrill Lynch,Christine Callies,70.0,
+2001-10-19,Morgan Stanley,Steve Galbraith,75.0,
+2001-10-19,Prudential,Greg Smith,55.0,1050.0
+2001-10-19,Salomon SB,Committee,70.0,
+2001-10-19,UBS,Ed Kerschner,86.0,
+2001-10-26,Bank of America,Thomas McManus,65.0,
+2001-10-26,Bear Stearns,,,
+2001-10-26,CIBC,Subodh Kumar,75.0,
+2001-10-26,CSFB,Thomas Galvin,70.0,
+2001-10-26,Deutsche Bank,Ed Yardeni,70.0,
+2001-10-26,First Union,Rod Smyth,72.0,
+2001-10-26,Goldman Sachs,Abby Joseph Cohen,75.0,
+2001-10-26,JPMorgan,Douglas Cliggott,60.0,
+2001-10-26,Lehman,Jeffrey Applegate,80.0,1200.0
+2001-10-26,Merrill Lynch,Christine Callies,70.0,
+2001-10-26,Morgan Stanley,Steve Galbraith,75.0,
+2001-10-26,Prudential,Greg Smith,55.0,1050.0
+2001-10-26,Salomon SB,Committee,70.0,
+2001-10-26,UBS,Ed Kerschner,86.0,
+2001-11-02,Bank of America,Thomas McManus,65.0,
+2001-11-02,Bear Stearns,,,
+2001-11-02,CIBC,Subodh Kumar,75.0,
+2001-11-02,CSFB,Thomas Galvin,70.0,
+2001-11-02,Deutsche Bank,Ed Yardeni,70.0,1200.0
+2001-11-02,First Union,Rod Smyth,72.0,
+2001-11-02,Goldman Sachs,Abby Joseph Cohen,75.0,
+2001-11-02,JPMorgan,Douglas Cliggott,60.0,
+2001-11-02,Lehman,Jeffrey Applegate,80.0,1200.0
+2001-11-02,Merrill Lynch,Christine Callies,70.0,
+2001-11-02,Morgan Stanley,Steve Galbraith,75.0,
+2001-11-02,Prudential,Greg Smith,55.0,1050.0
+2001-11-02,Salomon SB,Committee,70.0,
+2001-11-02,UBS,Ed Kerschner,87.0,
+2001-11-16,Bank of America,Thomas McManus,60.0,
+2001-11-16,Bear Stearns,,,
+2001-11-16,CIBC,Subodh Kumar,75.0,
+2001-11-16,CSFB,Thomas Galvin,70.0,
+2001-11-16,Deutsche Bank,Ed Yardeni,80.0,
+2001-11-16,First Union,Rod Smyth,74.0,
+2001-11-16,Goldman Sachs,Abby Joseph Cohen,75.0,
+2001-11-16,JPMorgan,Douglas Cliggott,60.0,
+2001-11-16,Lehman,Jeffrey Applegate,80.0,
+2001-11-16,Merrill Lynch,Christine Callies,70.0,
+2001-11-16,Morgan Stanley,Steve Galbraith,75.0,
+2001-11-16,Prudential,Greg Smith,55.0,1050.0
+2001-11-16,Salomon SB,Committee,70.0,
+2001-11-16,UBS,Ed Kerschner,84.0,
+2001-11-23,Bank of America,Thomas McManus,60.0,
+2001-11-23,Bear Stearns,,,
+2001-11-23,CIBC,Subodh Kumar,75.0,
+2001-11-23,CSFB,Thomas Galvin,70.0,
+2001-11-23,Deutsche Bank,Ed Yardeni,80.0,
+2001-11-23,First Union,Rod Smyth,74.0,
+2001-11-23,Goldman Sachs,Abby Joseph Cohen,75.0,
+2001-11-23,JPMorgan,Douglas Cliggott,60.0,
+2001-11-23,Lehman,Jeffrey Applegate,80.0,
+2001-11-23,Merrill Lynch,Christine Callies,70.0,
+2001-11-23,Morgan Stanley,Steve Galbraith,75.0,
+2001-11-23,Prudential,Greg Smith,55.0,1050.0
+2001-11-23,Salomon SB,Committee,70.0,
+2001-11-23,UBS,Ed Kerschner,84.0,
+2001-11-30,Bank of America,Thomas McManus,60.0,
+2001-11-30,Bear Stearns,,,
+2001-11-30,CIBC,Subodh Kumar,75.0,
+2001-11-30,CSFB,Thomas Galvin,70.0,
+2001-11-30,Deutsche Bank,Ed Yardeni,80.0,
+2001-11-30,First Union,Rod Smyth,74.0,
+2001-11-30,Goldman Sachs,Abby Joseph Cohen,75.0,
+2001-11-30,JPMorgan,Douglas Cliggott,50.0,
+2001-11-30,Lehman,Jeffrey Applegate,80.0,
+2001-11-30,Merrill Lynch,Christine Callies,70.0,
+2001-11-30,Morgan Stanley,Steve Galbraith,75.0,
+2001-11-30,Prudential,Greg Smith,55.0,1050.0
+2001-11-30,Salomon SB,Committee,70.0,
+2001-11-30,UBS,Ed Kerschner,84.0,
+2001-12-07,Bank of America,Thomas McManus,60.0,
+2001-12-07,Bear Stearns,,,
+2001-12-07,CIBC,Subodh Kumar,75.0,
+2001-12-07,CSFB,Thomas Galvin,70.0,
+2001-12-07,Deutsche Bank,Ed Yardeni,80.0,
+2001-12-07,First Union,Rod Smyth,74.0,
+2001-12-07,Goldman Sachs,Abby Joseph Cohen,75.0,
+2001-12-07,JPMorgan,Douglas Cliggott,50.0,
+2001-12-07,Lehman,Jeffrey Applegate,80.0,
+2001-12-07,Merrill Lynch,Richard Bernstein,60.0,
+2001-12-07,Morgan Stanley,Steve Galbraith,75.0,
+2001-12-07,Prudential,Greg Smith,55.0,1050.0
+2001-12-07,Salomon SB,Committee,70.0,
+2001-12-07,UBS,Ed Kerschner,80.0,
+2001-12-14,Bank of America,Thomas McManus,55.0,
+2001-12-14,Bear Stearns,,,
+2001-12-14,CIBC,Subodh Kumar,75.0,
+2001-12-14,CSFB,Thomas Galvin,70.0,
+2001-12-14,Deutsche Bank,Ed Yardeni,80.0,
+2001-12-14,First Union,Rod Smyth,74.0,
+2001-12-14,Goldman Sachs,Abby Joseph Cohen,75.0,
+2001-12-14,JPMorgan,Douglas Cliggott,50.0,
+2001-12-14,Lehman,Jeffrey Applegate,80.0,
+2001-12-14,Merrill Lynch,Richard Bernstein,60.0,
+2001-12-14,Morgan Stanley,Steve Galbraith,75.0,
+2001-12-14,Prudential,Greg Smith,55.0,1050.0
+2001-12-14,Salomon SB,Committee,70.0,
+2001-12-14,UBS,Ed Kerschner,80.0,
+2001-12-21,Bank of America,Thomas McManus,55.0,
+2001-12-21,Bear Stearns,,,
+2001-12-21,CIBC,Subodh Kumar,75.0,
+2001-12-21,CSFB,Thomas Galvin,70.0,
+2001-12-21,Deutsche Bank,Ed Yardeni,80.0,
+2001-12-21,First Union,Rod Smyth,74.0,
+2001-12-21,Goldman Sachs,Abby Joseph Cohen,75.0,
+2001-12-21,JPMorgan,Douglas Cliggott,50.0,
+2001-12-21,Lehman,Jeffrey Applegate,80.0,
+2001-12-21,Merrill Lynch,Richard Bernstein,60.0,
+2001-12-21,Morgan Stanley,Steve Galbraith,75.0,
+2001-12-21,Prudential,Greg Smith,55.0,1050.0
+2001-12-21,Salomon SB,Committee,70.0,
+2001-12-21,UBS,Ed Kerschner,80.0,
+2001-12-31,Bank of America,Thomas McManus,55.0,
+2001-12-31,Bear Stearns,,,
+2001-12-31,CIBC,Subodh Kumar,75.0,
+2001-12-31,CSFB,Thomas Galvin,70.0,
+2001-12-31,Deutsche Bank,Ed Yardeni,80.0,
+2001-12-31,First Union,Rod Smyth,74.0,
+2001-12-31,Goldman Sachs,Abby Joseph Cohen,75.0,
+2001-12-31,JPMorgan,Douglas Cliggott,50.0,
+2001-12-31,Lehman,Jeffrey Applegate,80.0,
+2001-12-31,Merrill Lynch,Richard Bernstein,60.0,
+2001-12-31,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2001-12-31,Prudential,Greg Smith,55.0,
+2001-12-31,Salomon SB,Committee,70.0,
+2001-12-31,UBS,Ed Kerschner,80.0,

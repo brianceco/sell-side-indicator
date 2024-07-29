@@ -1,0 +1,703 @@
+,Author,Date,Firm,Strategist,Stock Allocation %,2009 Close,2009 EPS,2010 Close,2010 EPS,Reweighted Allocation
+0,Stephanie Luke,2009-01-05,Citigroup,Committee,,1000.0,,,,
+1,Stephanie Luke,2009-01-05,Credit Suisse,Andrew Garthwaite,,1050.0,,,,
+2,Stephanie Luke,2009-01-05,Goldman Sachs,David Kostin,,1100.0,,,,
+3,Stephanie Luke,2009-01-05,HSBC,Kevin Gardiner,39.0,1000.0,,,,40.0
+4,Stephanie Luke,2009-01-05,JPMorgan,Thomas Lee,60.0,1100.0,,,,60.0
+5,Stephanie Luke,2009-01-05,Merrill Lynch,R. Bernstein,50.0,975.0,,,,50.0
+6,Stephanie Luke,2009-01-05,Strategas,Jason Trennert,65.0,1100.0,,,,65.0
+7,Stephanie Luke,2009-01-05,UBS,,51.5,1300.0,,,,56.0
+8,Stephanie Luke,2009-01-12,Barclays,Barry Knapp,,874.0,,,,
+9,Stephanie Luke,2009-01-12,Citigroup,Tobias Levkovich,,1000.0,,,,
+10,Stephanie Luke,2009-01-12,Credit Suisse,Andrew Garthwaite,,1050.0,,,,
+11,Stephanie Luke,2009-01-12,Goldman Sachs,David Kostin,,1100.0,,,,
+12,Stephanie Luke,2009-01-12,HSBC,Kevin Gardiner,39.0,1000.0,,,,40.0
+13,Stephanie Luke,2009-01-12,JPMorgan,Thomas Lee,60.0,1100.0,,,,60.0
+14,Stephanie Luke,2009-01-12,Merrill Lynch,R. Bernstein,50.0,1030.0,,,,50.0
+15,Stephanie Luke,2009-01-12,Strategas,Jason Trennert,65.0,1100.0,,,,65.0
+16,Stephanie Luke,2009-01-12,UBS,,51.5,1300.0,,,,56.0
+17,Stephanie Luke,2009-01-20,Barclays,Barry Knapp,,874.0,,,,
+18,Stephanie Luke,2009-01-20,Citigroup,Tobias Levkovich,,1000.0,,,,
+19,Stephanie Luke,2009-01-20,Credit Suisse,Andrew Garthwaite,,1050.0,,,,
+20,Stephanie Luke,2009-01-20,Goldman Sachs,David Kostin,,1100.0,,,,
+21,Stephanie Luke,2009-01-20,HSBC,Kevin Gardiner,39.0,1000.0,,,,40.0
+22,Stephanie Luke,2009-01-20,JPMorgan,Thomas Lee,60.0,1100.0,,,,60.0
+23,Stephanie Luke,2009-01-20,Merrill Lynch,R. Bernstein,50.0,1030.0,,,,50.0
+24,Stephanie Luke,2009-01-20,Strategas,Jason Trennert,65.0,1100.0,,,,65.0
+25,Stephanie Luke,2009-01-20,UBS,,51.5,1300.0,,,,56.0
+26,Lynn Thomasson,2009-01-26,Barclays,Barry Knapp,,874.0,46.0,,,
+27,Lynn Thomasson,2009-01-26,Citigroup,Tobias Levkovich,,1000.0,62.0,,,
+28,Lynn Thomasson,2009-01-26,Credit Suisse,Andrew Garthwaite,,1050.0,,,,
+29,Lynn Thomasson,2009-01-26,Deutsche Bank,Binky Chadha,,1140.0,64.5,,,
+30,Lynn Thomasson,2009-01-26,Goldman Sachs,David Kostin,,1100.0,53.0,,,
+31,Lynn Thomasson,2009-01-26,HSBC,Kevin Gardiner,,1000.0,,,,
+32,Lynn Thomasson,2009-01-26,JPMorgan,Thomas Lee,,1100.0,65.0,,,
+33,Lynn Thomasson,2009-01-26,Merrill Lynch,Richard Bernstein,,975.0,,,,
+34,Lynn Thomasson,2009-01-26,Morgan Stanley,Abhijit Chakrabortti,,975.0,53.0,,,
+35,Lynn Thomasson,2009-01-26,UBS,David Bianco,,1300.0,63.0,,,
+36,Lynn Thomasson,2009-01-27,Barclays,Barry Knapp,,874.0,46.0,,,
+37,Lynn Thomasson,2009-01-27,Citigroup,Tobias Levkovich,,1000.0,62.0,,,
+38,Lynn Thomasson,2009-01-27,Credit Suisse,Andrew Garthwaite,,1050.0,,,,
+39,Lynn Thomasson,2009-01-27,Deutsche Bank,Binky Chadha,,1140.0,64.5,,,
+40,Lynn Thomasson,2009-01-27,Goldman Sachs,David Kostin,,1100.0,53.0,,,
+41,Lynn Thomasson,2009-01-27,HSBC,Kevin Gardiner,,1000.0,,,,
+42,Lynn Thomasson,2009-01-27,JPMorgan,Thomas Lee,,1100.0,65.0,,,
+43,Lynn Thomasson,2009-01-27,Merrill Lynch,Richard Bernstein,,975.0,,,,
+44,Lynn Thomasson,2009-01-27,Morgan Stanley,,,,,,,
+45,Lynn Thomasson,2009-01-27,UBS,David Bianco,,1300.0,63.0,,,
+57,Lynn Thomasson,2009-01-28,Barclays,Barry Knapp,,874.0,46.0,,,
+58,Lynn Thomasson,2009-01-28,Citigroup,Tobias Levkovich,,1000.0,62.0,,,
+59,Lynn Thomasson,2009-01-28,Credit Suisse,Andrew Garthwaite,,1050.0,,,,
+60,Lynn Thomasson,2009-01-28,Deutsche Bank,Binky Chadha,,1140.0,64.5,,,
+61,Lynn Thomasson,2009-01-28,Goldman Sachs,David Kostin,,1100.0,53.0,,,
+62,Lynn Thomasson,2009-01-28,HSBC,Kevin Gardiner,,1000.0,,,,
+63,Lynn Thomasson,2009-01-28,JPMorgan,Thomas Lee,,1100.0,65.0,,,
+64,Lynn Thomasson,2009-01-28,Merrill Lynch,Richard Bernstein,,975.0,42.0,,,
+65,Lynn Thomasson,2009-01-28,Morgan Stanley,,,,,,,
+66,Lynn Thomasson,2009-01-28,UBS,David Bianco,,1300.0,63.0,,,
+46,Lynn Thomasson,2009-01-29,Bank of America,Richard Bernstein,,975.0,42.0,,,
+47,Lynn Thomasson,2009-01-29,Barclays,Barry Knapp,,874.0,46.0,,,
+48,Lynn Thomasson,2009-01-29,Citigroup,Tobias Levkovich,,1000.0,62.0,,,
+49,Lynn Thomasson,2009-01-29,Credit Suisse,Andrew Garthwaite,,1050.0,,,,
+50,Lynn Thomasson,2009-01-29,Deutsche Bank,Binky Chadha,,1140.0,64.5,,,
+51,Lynn Thomasson,2009-01-29,Goldman Sachs,David Kostin,,1100.0,53.0,,,
+52,Lynn Thomasson,2009-01-29,HSBC,Kevin Gardiner,,1000.0,,,,
+53,Lynn Thomasson,2009-01-29,JPMorgan,Thomas Lee,,1100.0,65.0,,,
+54,Lynn Thomasson,2009-01-29,Morgan Stanley,,,,,,,
+55,Lynn Thomasson,2009-01-29,RBC,Myles Zyblock,,1050.0,63.0,,,
+56,Lynn Thomasson,2009-01-29,UBS,David Bianco,,1300.0,63.0,,,
+67,Lynn Thomasson,2009-02-02,Bank of America,Richard Bernstein,,975.0,42.0,,,
+68,Lynn Thomasson,2009-02-02,Barclays,Barry Knapp,,874.0,46.0,,,
+69,Lynn Thomasson,2009-02-02,Citigroup,Tobias Levkovich,,1000.0,62.0,,,
+70,Lynn Thomasson,2009-02-02,Credit Suisse,Andrew Garthwaite,,1050.0,,,,
+71,Lynn Thomasson,2009-02-02,Deutsche Bank,Binky Chadha,,1140.0,64.5,,,
+72,Lynn Thomasson,2009-02-02,Goldman Sachs,David Kostin,,1100.0,53.0,,,
+73,Lynn Thomasson,2009-02-02,HSBC,Kevin Gardiner,,1000.0,,,,
+74,Lynn Thomasson,2009-02-02,JPMorgan,Thomas Lee,,1100.0,65.0,,,
+75,Lynn Thomasson,2009-02-02,Morgan Stanley,,,,,,,
+76,Lynn Thomasson,2009-02-02,RBC,Myles Zyblock,,1050.0,63.0,,,
+77,Lynn Thomasson,2009-02-02,UBS,David Bianco,,1300.0,63.0,,,
+78,Lynn Thomasson,2009-02-13,Bank of America,Richard Bernstein,50.0,975.0,42.0,,,50.0
+79,Lynn Thomasson,2009-02-13,Barclays,Barry Knapp,,874.0,46.0,,,
+80,Lynn Thomasson,2009-02-13,Citigroup,Tobias Levkovich,,1000.0,62.0,,,
+81,Lynn Thomasson,2009-02-13,Credit Suisse,Andrew Garthwaite,,1050.0,58.0,,,
+82,Lynn Thomasson,2009-02-13,Deutsche Bank,Binky Chadha,60.0,1140.0,64.5,,,60.0
+83,Lynn Thomasson,2009-02-13,Goldman Sachs,David Kostin,,1100.0,53.0,,,
+84,Lynn Thomasson,2009-02-13,HSBC,Kevin Gardiner,43.1,1000.0,,,,43.0
+85,Lynn Thomasson,2009-02-13,JPMorgan,Thomas Lee,60.0,1100.0,65.0,,,60.0
+86,Lynn Thomasson,2009-02-13,Morgan Stanley,,,,,,,
+87,Lynn Thomasson,2009-02-13,RBC,Myles Zyblock,55.0,1050.0,63.0,,,55.0
+88,Lynn Thomasson,2009-02-13,UBS,David Bianco,51.5,1300.0,63.0,,,56.0
+89,Lynn Thomasson,2009-02-18,Bank of America,Richard Bernstein,50.0,975.0,42.0,,,50.0
+90,Lynn Thomasson,2009-02-18,Barclays,Barry Knapp,,874.0,46.0,,,
+91,Lynn Thomasson,2009-02-18,Citigroup,Tobias Levkovich,,1000.0,62.0,,,
+92,Lynn Thomasson,2009-02-18,Credit Suisse,Andrew Garthwaite,,1050.0,58.0,,,
+93,Lynn Thomasson,2009-02-18,Deutsche Bank,Binky Chadha,60.0,1140.0,64.5,,,60.0
+94,Lynn Thomasson,2009-02-18,Goldman Sachs,David Kostin,,1100.0,53.0,,,
+95,Lynn Thomasson,2009-02-18,HSBC,Kevin Gardiner,43.1,1000.0,,,,43.0
+96,Lynn Thomasson,2009-02-18,JPMorgan,Thomas Lee,60.0,1100.0,65.0,,,60.0
+97,Lynn Thomasson,2009-02-18,Morgan Stanley,,,,,,,
+98,Lynn Thomasson,2009-02-18,RBC,Myles Zyblock,55.0,1050.0,63.0,,,55.0
+99,Lynn Thomasson,2009-02-18,UBS,David Bianco,51.5,1300.0,63.0,,,56.0
+100,Lynn Thomasson,2009-02-23,Bank of America,Richard Bernstein,50.0,975.0,42.0,,,50.0
+101,Lynn Thomasson,2009-02-23,Barclays,Barry Knapp,,874.0,46.0,,,
+102,Lynn Thomasson,2009-02-23,Citigroup,Tobias Levkovich,,1000.0,62.0,,,
+103,Lynn Thomasson,2009-02-23,Credit Suisse,Andrew Garthwaite,,1050.0,58.0,,,
+104,Lynn Thomasson,2009-02-23,Deutsche Bank,Binky Chadha,60.0,1140.0,64.5,,,60.0
+105,Lynn Thomasson,2009-02-23,Goldman Sachs,David Kostin,,1100.0,53.0,,,
+106,Lynn Thomasson,2009-02-23,HSBC,Kevin Gardiner,43.1,1000.0,,,,43.0
+107,Lynn Thomasson,2009-02-23,JPMorgan,Thomas Lee,60.0,1100.0,65.0,,,60.0
+108,Lynn Thomasson,2009-02-23,Morgan Stanley,,,,,,,
+109,Lynn Thomasson,2009-02-23,RBC,Myles Zyblock,55.0,1050.0,63.0,,,55.0
+110,Lynn Thomasson,2009-02-23,UBS,David Bianco,51.5,1300.0,63.0,,,56.0
+111,Lynn Thomasson,2009-02-26,Bank of America,Richard Bernstein,50.0,975.0,42.0,,,50.0
+112,Lynn Thomasson,2009-02-26,Barclays,Barry Knapp,,874.0,46.0,,,
+113,Lynn Thomasson,2009-02-26,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+114,Lynn Thomasson,2009-02-26,Credit Suisse,Andrew Garthwaite,,1050.0,58.0,,,
+115,Lynn Thomasson,2009-02-26,Deutsche Bank,Binky Chadha,60.0,1140.0,64.5,,,60.0
+116,Lynn Thomasson,2009-02-26,Goldman Sachs,David Kostin,,940.0,40.0,,,
+117,Lynn Thomasson,2009-02-26,HSBC,Kevin Gardiner,43.1,1000.0,,,,43.0
+118,Lynn Thomasson,2009-02-26,JPMorgan,Thomas Lee,60.0,1100.0,65.0,,,60.0
+119,Lynn Thomasson,2009-02-26,Morgan Stanley,,,,,,,
+120,Lynn Thomasson,2009-02-26,RBC,Myles Zyblock,55.0,1050.0,63.0,,,55.0
+121,Lynn Thomasson,2009-02-26,UBS,David Bianco,51.5,1300.0,63.0,,,56.0
+132,Lynn Thomasson,2009-02-26,UBS,David Bianco,51.5,1100.0,51.0,,,56.0
+133,Lynn Thomasson,2009-03-10,Bank of America,Richard Bernstein,50.0,975.0,42.0,,,50.0
+134,Lynn Thomasson,2009-03-10,Barclays,Barry Knapp,,760.0,46.0,,,
+135,Lynn Thomasson,2009-03-10,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+136,Lynn Thomasson,2009-03-10,Credit Suisse,Andrew Garthwaite,61.0,920.0,58.0,,,61.0
+137,Lynn Thomasson,2009-03-10,Deutsche Bank,Binky Chadha,60.0,1140.0,64.5,,,60.0
+138,Lynn Thomasson,2009-03-10,Goldman Sachs,David Kostin,,940.0,40.0,,,
+139,Lynn Thomasson,2009-03-10,HSBC,Kevin Gardiner,28.0,1000.0,,,,28.0
+140,Lynn Thomasson,2009-03-10,JPMorgan,Thomas Lee,60.0,1100.0,65.0,,,60.0
+141,Lynn Thomasson,2009-03-10,Morgan Stanley,,,975.0,53.0,,,
+142,Lynn Thomasson,2009-03-10,RBC,Myles Zyblock,50.0,1050.0,55.0,,,50.0
+143,Lynn Thomasson,2009-03-10,UBS,David Bianco,51.5,1100.0,51.0,,,57.0
+144,Lynn Thomasson,2009-03-13,Bank of America,Richard Bernstein,,975.0,42.0,,,
+145,Lynn Thomasson,2009-03-13,Barclays,Barry Knapp,,760.0,46.0,,,
+146,Lynn Thomasson,2009-03-13,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+147,Lynn Thomasson,2009-03-13,Credit Suisse,Andrew Garthwaite,,920.0,58.0,,,
+148,Lynn Thomasson,2009-03-13,Deutsche Bank,Binky Chadha,,1140.0,64.5,,,
+159,Lynn Thomasson,2009-03-13,Deutsche Bank,Binky Chadha,,900.0,39.5,,,
+149,Lynn Thomasson,2009-03-13,Goldman Sachs,David Kostin,,940.0,40.0,,,
+150,Lynn Thomasson,2009-03-13,HSBC,Kevin Gardiner,,1000.0,,,,
+151,Lynn Thomasson,2009-03-13,JPMorgan,Thomas Lee,,1100.0,65.0,,,
+152,Lynn Thomasson,2009-03-13,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+153,Lynn Thomasson,2009-03-13,RBC,Myles Zyblock,,1050.0,55.0,,,
+154,Lynn Thomasson,2009-03-13,UBS,David Bianco,,1100.0,51.0,,,
+177,Lynn Thomasson,2009-03-23,Bank of America,Richard Bernstein,,1030.0,42.0,,,
+178,Lynn Thomasson,2009-03-23,Barclays,Barry Knapp,,757.0,41.0,,,
+179,Lynn Thomasson,2009-03-23,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+180,Lynn Thomasson,2009-03-23,Credit Suisse,Andrew Garthwaite,,920.0,58.0,,,
+181,Lynn Thomasson,2009-03-23,Deutsche Bank,Binky Chadha,,900.0,39.5,,,
+182,Lynn Thomasson,2009-03-23,Goldman Sachs,David Kostin,,940.0,40.0,,,
+183,Lynn Thomasson,2009-03-23,HSBC,Kevin Gardiner,,900.0,,,,
+184,Lynn Thomasson,2009-03-23,JPMorgan,Thomas Lee,,1100.0,65.0,,,
+185,Lynn Thomasson,2009-03-23,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+186,Lynn Thomasson,2009-03-23,RBC,Myles Zyblock,,1050.0,55.0,,,
+187,Lynn Thomasson,2009-03-23,UBS,David Bianco,,1100.0,51.0,,,
+166,Lynn Thomasson,2009-03-25,Bank of America,Richard Bernstein,,1030.0,42.0,,,
+167,Lynn Thomasson,2009-03-25,Barclays,Barry Knapp,,757.0,41.0,,,
+168,Lynn Thomasson,2009-03-25,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+169,Lynn Thomasson,2009-03-25,Credit Suisse,Andrew Garthwaite,,920.0,58.0,,,
+170,Lynn Thomasson,2009-03-25,Deutsche Bank,Binky Chadha,,900.0,39.5,,,
+171,Lynn Thomasson,2009-03-25,Goldman Sachs,David Kostin,,940.0,40.0,,,
+172,Lynn Thomasson,2009-03-25,HSBC,Kevin Gardiner,,900.0,,,,
+173,Lynn Thomasson,2009-03-25,JPMorgan,Thomas Lee,,1100.0,57.0,,,
+174,Lynn Thomasson,2009-03-25,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+175,Lynn Thomasson,2009-03-25,RBC,Myles Zyblock,,1050.0,55.0,,,
+176,Lynn Thomasson,2009-03-25,UBS,David Bianco,,1100.0,51.0,,,
+188,Lynn Thomasson,2009-03-30,Bank of America,Richard Bernstein,,1030.0,42.0,,,
+189,Lynn Thomasson,2009-03-30,Barclays,Barry Knapp,,757.0,41.0,,,
+190,Lynn Thomasson,2009-03-30,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+191,Lynn Thomasson,2009-03-30,Credit Suisse,Andrew Garthwaite,,920.0,58.0,,,
+192,Lynn Thomasson,2009-03-30,Deutsche Bank,Binky Chadha,,900.0,39.5,,,
+193,Lynn Thomasson,2009-03-30,Goldman Sachs,David Kostin,,940.0,40.0,,,
+194,Lynn Thomasson,2009-03-30,HSBC,Kevin Gardiner,,900.0,,,,
+195,Lynn Thomasson,2009-03-30,JPMorgan,Thomas Lee,,1100.0,57.0,,,
+196,Lynn Thomasson,2009-03-30,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+197,Lynn Thomasson,2009-03-30,RBC,Myles Zyblock,,1050.0,55.0,,,
+198,Lynn Thomasson,2009-03-30,UBS,David Bianco,,1100.0,51.0,,,
+199,Lynn Thomasson,2009-04-07,Bank of America,Richard Bernstein,,1030.0,42.0,,,
+200,Lynn Thomasson,2009-04-07,Barclays,Barry Knapp,,757.0,41.0,,,
+201,Lynn Thomasson,2009-04-07,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+202,Lynn Thomasson,2009-04-07,Credit Suisse,Andrew Garthwaite,,920.0,58.0,,,
+203,Lynn Thomasson,2009-04-07,Deutsche Bank,Binky Chadha,,900.0,39.5,,,
+204,Lynn Thomasson,2009-04-07,Goldman Sachs,David Kostin,,940.0,40.0,,,
+205,Lynn Thomasson,2009-04-07,HSBC,Kevin Gardiner,,900.0,,,,
+206,Lynn Thomasson,2009-04-07,JPMorgan,Thomas Lee,,1100.0,57.0,,,
+207,Lynn Thomasson,2009-04-07,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+208,Lynn Thomasson,2009-04-07,RBC,Myles Zyblock,,1050.0,55.0,,,
+209,Lynn Thomasson,2009-04-07,UBS,David Bianco,,1100.0,51.0,,,
+210,Lynn Thomasson,2009-04-27,Bank of America,,,1030.0,42.0,,,
+211,Lynn Thomasson,2009-04-27,Barclays,Barry Knapp,,757.0,41.0,,,
+212,Lynn Thomasson,2009-04-27,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+213,Lynn Thomasson,2009-04-27,Credit Suisse,Andrew Garthwaite,,920.0,58.0,,,
+214,Lynn Thomasson,2009-04-27,Deutsche Bank,Binky Chadha,,900.0,39.5,,,
+215,Lynn Thomasson,2009-04-27,Goldman Sachs,David Kostin,,940.0,40.0,,,
+216,Lynn Thomasson,2009-04-27,HSBC,Kevin Gardiner,,900.0,,,,
+217,Lynn Thomasson,2009-04-27,JPMorgan,Thomas Lee,,1100.0,57.0,,,
+218,Lynn Thomasson,2009-04-27,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+219,Lynn Thomasson,2009-04-27,RBC,Myles Zyblock,,1050.0,55.0,,,
+220,Lynn Thomasson,2009-04-27,UBS,David Bianco,,1100.0,51.0,,,
+221,Lynn Thomasson and Matt Townsend,2009-05-04,Barclays,Barry Knapp,,757.0,41.0,,,
+222,Lynn Thomasson and Matt Townsend,2009-05-04,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+223,Lynn Thomasson and Matt Townsend,2009-05-04,Credit Suisse,Andrew Garthwaite,,920.0,58.0,,,
+224,Lynn Thomasson and Matt Townsend,2009-05-04,Deutsche Bank,Binky Chadha,,900.0,39.5,,,
+225,Lynn Thomasson and Matt Townsend,2009-05-04,Goldman Sachs,David Kostin,,940.0,40.0,,,
+226,Lynn Thomasson and Matt Townsend,2009-05-04,HSBC,Kevin Gardiner,,900.0,,,,
+227,Lynn Thomasson and Matt Townsend,2009-05-04,JPMorgan,Thomas Lee,,1100.0,57.0,,,
+228,Lynn Thomasson and Matt Townsend,2009-05-04,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+229,Lynn Thomasson and Matt Townsend,2009-05-04,RBC,Myles Zyblock,,1050.0,55.0,,,
+230,Lynn Thomasson and Matt Townsend,2009-05-04,UBS,David Bianco,,1100.0,51.0,,,
+231,Lynn Thomasson,2009-05-05,Barclays,Barry Knapp,,757.0,41.0,,,
+232,Lynn Thomasson,2009-05-05,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+233,Lynn Thomasson,2009-05-05,Credit Suisse,Andrew Garthwaite,,920.0,49.0,,,
+234,Lynn Thomasson,2009-05-05,Deutsche Bank,Binky Chadha,,900.0,39.5,,,
+235,Lynn Thomasson,2009-05-05,Goldman Sachs,David Kostin,,940.0,40.0,,,
+236,Lynn Thomasson,2009-05-05,HSBC,Kevin Gardiner,,900.0,,,,
+237,Lynn Thomasson,2009-05-05,JPMorgan,Thomas Lee,,1100.0,57.0,,,
+238,Lynn Thomasson,2009-05-05,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+239,Lynn Thomasson,2009-05-05,RBC,Myles Zyblock,,1050.0,55.0,,,
+240,Lynn Thomasson,2009-05-05,UBS,David Bianco,,1100.0,51.0,,,
+241,Lynn Thomasson,2009-05-11,Barclays,Barry Knapp,,757.0,41.0,,,
+242,Lynn Thomasson,2009-05-11,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+243,Lynn Thomasson,2009-05-11,Credit Suisse,Andrew Garthwaite,,920.0,49.0,,,
+244,Lynn Thomasson,2009-05-11,Deutsche Bank,Binky Chadha,,900.0,39.5,,,
+245,Lynn Thomasson,2009-05-11,Goldman Sachs,David Kostin,,940.0,40.0,,,
+246,Lynn Thomasson,2009-05-11,HSBC,Kevin Gardiner,,900.0,,,,
+247,Lynn Thomasson,2009-05-11,JPMorgan,Thomas Lee,,1100.0,57.0,,,
+248,Lynn Thomasson,2009-05-11,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+249,Lynn Thomasson,2009-05-11,RBC,Myles Zyblock,,1050.0,55.0,,,
+250,Lynn Thomasson,2009-05-11,UBS,David Bianco,,1100.0,51.0,,,
+251,Matt Townsend,2009-05-18,Bank of America,,50.0,,,,,50.0
+252,Matt Townsend,2009-05-18,Barclays,Barry Knapp,,757.0,41.0,,,
+253,Matt Townsend,2009-05-18,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+254,Matt Townsend,2009-05-18,Credit Suisse,Andrew Garthwaite,61.0,920.0,49.0,,,61.0
+255,Matt Townsend,2009-05-18,Deutsche Bank,Binky Chadha,60.0,900.0,39.5,,,60.0
+256,Matt Townsend,2009-05-18,Goldman Sachs,David Kostin,,940.0,40.0,,,
+257,Matt Townsend,2009-05-18,HSBC,Kevin Gardiner,27.9,900.0,,,,28.0
+258,Matt Townsend,2009-05-18,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+259,Matt Townsend,2009-05-18,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+260,Matt Townsend,2009-05-18,RBC,Myles Zyblock,50.0,1050.0,55.0,,,50.0
+261,Matt Townsend,2009-05-18,UBS,David Bianco,50.0,1100.0,51.0,,,57.0
+262,Matt Townsend,2009-05-26,BMO,Ben Joyce,60.0,900.0,51.0,,,60.0
+263,Matt Townsend,2009-05-26,Barclays,Barry Knapp,,757.0,41.0,,,
+264,Matt Townsend,2009-05-26,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+265,Matt Townsend,2009-05-26,Credit Suisse,Andrew Garthwaite,61.0,920.0,49.0,,,61.0
+266,Matt Townsend,2009-05-26,Deutsche Bank,Binky Chadha,60.0,900.0,39.5,,,60.0
+267,Matt Townsend,2009-05-26,Goldman Sachs,David Kostin,,940.0,40.0,,,
+268,Matt Townsend,2009-05-26,HSBC,Kevin Gardiner,27.9,900.0,,,,28.0
+269,Matt Townsend,2009-05-26,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+270,Matt Townsend,2009-05-26,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+271,Matt Townsend,2009-05-26,RBC,Myles Zyblock,50.0,1050.0,55.0,,,50.0
+272,Matt Townsend,2009-05-26,UBS,David Bianco,50.0,1100.0,51.0,,,57.0
+274,Matt Townsend and Lynn Thomasson,2009-05-27,BMO,Ben Joyce,60.0,1050.0,52.0,,,60.0
+273,Matt Townsend and Lynn Thomasson,2009-05-27,Bank of America,,50.0,,,,,50.0
+275,Matt Townsend and Lynn Thomasson,2009-05-27,Barclays,Barry Knapp,,757.0,41.0,,,
+276,Matt Townsend and Lynn Thomasson,2009-05-27,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+277,Matt Townsend and Lynn Thomasson,2009-05-27,Credit Suisse,Andrew Garthwaite,61.0,920.0,49.0,,,61.0
+278,Matt Townsend and Lynn Thomasson,2009-05-27,Deutsche Bank,Binky Chadha,60.0,900.0,39.5,,,60.0
+279,Matt Townsend and Lynn Thomasson,2009-05-27,Goldman Sachs,David Kostin,,940.0,40.0,,,
+280,Matt Townsend and Lynn Thomasson,2009-05-27,HSBC,Kevin Gardiner,27.9,900.0,,,,28.0
+281,Matt Townsend and Lynn Thomasson,2009-05-27,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+282,Matt Townsend and Lynn Thomasson,2009-05-27,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+283,Matt Townsend and Lynn Thomasson,2009-05-27,RBC,Myles Zyblock,50.0,1050.0,55.0,,,50.0
+284,Matt Townsend and Lynn Thomasson,2009-05-27,UBS,David Bianco,50.0,1100.0,51.0,,,57.0
+286,Lynn Thomasson,2009-06-01,BMO,Ben Joyce,60.0,1050.0,52.0,,,60.0
+285,Lynn Thomasson,2009-06-01,Bank of America,David Bianco,50.0,,,,,50.0
+287,Lynn Thomasson,2009-06-01,Barclays,Barry Knapp,,757.0,41.0,,,
+288,Lynn Thomasson,2009-06-01,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+289,Lynn Thomasson,2009-06-01,Credit Suisse,Andrew Garthwaite,61.0,920.0,49.0,,,61.0
+290,Lynn Thomasson,2009-06-01,Deutsche Bank,Binky Chadha,60.0,900.0,39.5,,,60.0
+291,Lynn Thomasson,2009-06-01,Goldman Sachs,David Kostin,,940.0,40.0,,,
+292,Lynn Thomasson,2009-06-01,HSBC,Kevin Gardiner,27.9,900.0,,,,28.0
+293,Lynn Thomasson,2009-06-01,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+294,Lynn Thomasson,2009-06-01,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+295,Lynn Thomasson,2009-06-01,RBC,Myles Zyblock,50.0,1050.0,55.0,,,50.0
+296,Lynn Thomasson,2009-06-01,UBS,,,,,,,
+298,Lynn Thomasson,2009-06-02,BMO,Ben Joyce,60.0,1050.0,52.0,,,60.0
+297,Lynn Thomasson,2009-06-02,Bank of America,David Bianco,50.0,,,,,50.0
+299,Lynn Thomasson,2009-06-02,Barclays,Barry Knapp,,757.0,41.0,,,
+300,Lynn Thomasson,2009-06-02,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+301,Lynn Thomasson,2009-06-02,Credit Suisse,Andrew Garthwaite,61.0,920.0,49.0,,,61.0
+302,Lynn Thomasson,2009-06-02,Deutsche Bank,Binky Chadha,60.0,900.0,39.5,,,60.0
+303,Lynn Thomasson,2009-06-02,Goldman Sachs,David Kostin,,940.0,40.0,,,
+304,Lynn Thomasson,2009-06-02,HSBC,Kevin Gardiner,27.9,900.0,,,,28.0
+305,Lynn Thomasson,2009-06-02,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+306,Lynn Thomasson,2009-06-02,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+307,Lynn Thomasson,2009-06-02,RBC,Myles Zyblock,50.0,1050.0,55.0,,,50.0
+308,Lynn Thomasson,2009-06-02,UBS,,50.0,,51.0,,,57.0
+310,Lynn Thomasson,2009-06-08,BMO,Ben Joyce,60.0,1050.0,52.0,,,60.0
+309,Lynn Thomasson,2009-06-08,Bank of America,David Bianco,50.0,,,,,50.0
+311,Lynn Thomasson,2009-06-08,Barclays,Barry Knapp,,757.0,41.0,,,
+312,Lynn Thomasson,2009-06-08,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+313,Lynn Thomasson,2009-06-08,Credit Suisse,Andrew Garthwaite,60.0,920.0,49.0,,,60.0
+314,Lynn Thomasson,2009-06-08,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+315,Lynn Thomasson,2009-06-08,Goldman Sachs,David Kostin,,940.0,40.0,,,
+316,Lynn Thomasson,2009-06-08,HSBC,Kevin Gardiner,27.9,900.0,,,,28.0
+317,Lynn Thomasson,2009-06-08,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+318,Lynn Thomasson,2009-06-08,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+319,Lynn Thomasson,2009-06-08,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+320,Lynn Thomasson,2009-06-08,UBS,,50.0,,51.0,,,57.0
+322,Lynn Thomasson,2009-06-15,BMO,Ben Joyce,60.0,1050.0,52.0,,,60.0
+321,Lynn Thomasson,2009-06-15,Bank of America,David Bianco,50.0,,,,,50.0
+323,Lynn Thomasson,2009-06-15,Barclays,Barry Knapp,,757.0,41.0,,,
+324,Lynn Thomasson,2009-06-15,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+325,Lynn Thomasson,2009-06-15,Credit Suisse,Andrew Garthwaite,60.0,920.0,49.0,,,60.0
+326,Lynn Thomasson,2009-06-15,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+327,Lynn Thomasson,2009-06-15,Goldman Sachs,David Kostin,,940.0,40.0,,,
+328,Lynn Thomasson,2009-06-15,HSBC,Kevin Gardiner,29.9,900.0,,,,30.0
+329,Lynn Thomasson,2009-06-15,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+330,Lynn Thomasson,2009-06-15,Morgan Stanley,Jason Todd,,825.0,40.0,,,
+331,Lynn Thomasson,2009-06-15,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+332,Lynn Thomasson,2009-06-15,UBS,,50.0,,51.0,,,57.0
+334,Kayla Carrick,2009-06-22,BMO,Ben Joyce,60.0,1050.0,53.0,,,60.0
+333,Kayla Carrick,2009-06-22,Bank of America,David Bianco,50.0,,,,,50.0
+335,Kayla Carrick,2009-06-22,Barclays,Barry Knapp,,757.0,41.0,,,
+336,Kayla Carrick,2009-06-22,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+337,Kayla Carrick,2009-06-22,Credit Suisse,Andrew Garthwaite,60.0,920.0,49.0,,,60.0
+338,Kayla Carrick,2009-06-22,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+339,Kayla Carrick,2009-06-22,Goldman Sachs,David Kostin,,940.0,40.0,,,
+340,Kayla Carrick,2009-06-22,HSBC,Kevin Gardiner,29.9,900.0,,,,30.0
+341,Kayla Carrick,2009-06-22,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+342,Kayla Carrick,2009-06-22,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+343,Kayla Carrick,2009-06-22,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+344,Kayla Carrick,2009-06-22,UBS,,50.0,,51.0,,,57.0
+346,Kayla Carrick,2009-06-29,BMO,Ben Joyce,60.0,1050.0,53.0,,,60.0
+345,Kayla Carrick,2009-06-29,Bank of America,David Bianco,50.0,,,,,50.0
+347,Kayla Carrick,2009-06-29,Barclays,Barry Knapp,,757.0,41.0,,,
+348,Kayla Carrick,2009-06-29,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+349,Kayla Carrick,2009-06-29,Credit Suisse,Andrew Garthwaite,60.0,920.0,55.0,,,60.0
+350,Kayla Carrick,2009-06-29,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+351,Kayla Carrick,2009-06-29,Goldman Sachs,David Kostin,,940.0,40.0,,,
+352,Kayla Carrick,2009-06-29,HSBC,Kevin Gardiner,29.9,900.0,,,,30.0
+353,Kayla Carrick,2009-06-29,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+354,Kayla Carrick,2009-06-29,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+355,Kayla Carrick,2009-06-29,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+356,Kayla Carrick,2009-06-29,UBS,,50.0,,51.0,,,57.0
+358,Lynn Thomasson,2009-07-06,BMO,Ben Joyce,60.0,1050.0,53.0,,,60.0
+357,Lynn Thomasson,2009-07-06,Bank of America,David Bianco,50.0,,,,,50.0
+359,Lynn Thomasson,2009-07-06,Barclays,Barry Knapp,,757.0,41.0,,,
+360,Lynn Thomasson,2009-07-06,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+361,Lynn Thomasson,2009-07-06,Credit Suisse,Andrew Garthwaite,60.0,920.0,55.0,,,60.0
+362,Lynn Thomasson,2009-07-06,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+363,Lynn Thomasson,2009-07-06,Goldman Sachs,David Kostin,,940.0,40.0,,,
+364,Lynn Thomasson,2009-07-06,HSBC,Kevin Gardiner,29.9,900.0,,,,30.0
+365,Lynn Thomasson,2009-07-06,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+366,Lynn Thomasson,2009-07-06,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+367,Lynn Thomasson,2009-07-06,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+368,Lynn Thomasson,2009-07-06,UBS,,50.0,,51.0,,,57.0
+370,Lynn Thomasson,2009-07-13,BMO,Ben Joyce,60.0,1050.0,53.0,,,60.0
+369,Lynn Thomasson,2009-07-13,Bank of America,David Bianco,50.0,,,,,50.0
+371,Lynn Thomasson,2009-07-13,Barclays,Barry Knapp,,930.0,41.0,,,
+372,Lynn Thomasson,2009-07-13,Citigroup,Tobias Levkovich,,1000.0,51.0,,,
+373,Lynn Thomasson,2009-07-13,Credit Suisse,Andrew Garthwaite,60.0,920.0,55.0,,,60.0
+374,Lynn Thomasson,2009-07-13,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+375,Lynn Thomasson,2009-07-13,Goldman Sachs,David Kostin,,940.0,40.0,,,
+376,Lynn Thomasson,2009-07-13,HSBC,Kevin Gardiner,29.9,900.0,,,,30.0
+377,Lynn Thomasson,2009-07-13,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+378,Lynn Thomasson,2009-07-13,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+379,Lynn Thomasson,2009-07-13,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+380,Lynn Thomasson,2009-07-13,UBS,,50.0,,51.0,,,57.0
+382,Lynn Thomasson,2009-07-24,BMO,Ben Joyce,60.0,1050.0,53.0,,,60.0
+381,Lynn Thomasson,2009-07-24,Bank of America,David Bianco,50.0,,,,,50.0
+383,Lynn Thomasson,2009-07-24,Barclays,Barry Knapp,,930.0,41.0,,,
+384,Lynn Thomasson,2009-07-24,Citigroup,Tobias Levkovich,,1000.0,56.0,,,
+385,Lynn Thomasson,2009-07-24,Credit Suisse,Andrew Garthwaite,65.0,1050.0,,,,65.0
+386,Lynn Thomasson,2009-07-24,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+387,Lynn Thomasson,2009-07-24,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+388,Lynn Thomasson,2009-07-24,HSBC,Robert Parkes,29.9,1020.0,,,,30.0
+389,Lynn Thomasson,2009-07-24,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+390,Lynn Thomasson,2009-07-24,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+391,Lynn Thomasson,2009-07-24,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+392,Lynn Thomasson,2009-07-24,UBS,,50.0,,51.0,,,57.0
+394,Lynn Thomasson,2009-07-27,BMO,Ben Joyce,60.0,1050.0,54.0,,,60.0
+393,Lynn Thomasson,2009-07-27,Bank of America,David Bianco,50.0,,,,,50.0
+395,Lynn Thomasson,2009-07-27,Barclays,Barry Knapp,,930.0,41.0,,,
+396,Lynn Thomasson,2009-07-27,Citigroup,Tobias Levkovich,,1000.0,56.0,,,
+397,Lynn Thomasson,2009-07-27,Credit Suisse,Andrew Garthwaite,65.0,1050.0,,,,65.0
+398,Lynn Thomasson,2009-07-27,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+399,Lynn Thomasson,2009-07-27,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+400,Lynn Thomasson,2009-07-27,HSBC,Robert Parkes,29.9,1020.0,,,,30.0
+401,Lynn Thomasson,2009-07-27,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+402,Lynn Thomasson,2009-07-27,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+403,Lynn Thomasson,2009-07-27,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+404,Lynn Thomasson,2009-07-27,UBS,,50.0,,51.0,,,57.0
+406,Lynn Thomasson,2009-08-03,BMO,Ben Joyce,60.0,1050.0,54.0,,,60.0
+405,Lynn Thomasson,2009-08-03,Bank of America,David Bianco,50.0,,,,,50.0
+407,Lynn Thomasson,2009-08-03,Barclays,Barry Knapp,,930.0,41.0,,,
+408,Lynn Thomasson,2009-08-03,Citigroup,Tobias Levkovich,,1000.0,56.0,,,
+409,Lynn Thomasson,2009-08-03,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+410,Lynn Thomasson,2009-08-03,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+411,Lynn Thomasson,2009-08-03,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+412,Lynn Thomasson,2009-08-03,HSBC,Robert Parkes,29.9,1020.0,,,,30.0
+413,Lynn Thomasson,2009-08-03,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+414,Lynn Thomasson,2009-08-03,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+415,Lynn Thomasson,2009-08-03,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+416,Lynn Thomasson,2009-08-03,UBS,,50.0,,51.0,,,57.0
+430,Lynn Thomasson,2009-08-10,BMO,Ben Joyce,60.0,1050.0,54.0,,,60.0
+429,Lynn Thomasson,2009-08-10,Bank of America,David Bianco,50.0,,59.0,,,50.0
+431,Lynn Thomasson,2009-08-10,Barclays,Barry Knapp,,930.0,41.0,,,
+432,Lynn Thomasson,2009-08-10,Citigroup,Tobias Levkovich,,1000.0,56.0,,,
+433,Lynn Thomasson,2009-08-10,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+434,Lynn Thomasson,2009-08-10,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+435,Lynn Thomasson,2009-08-10,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+436,Lynn Thomasson,2009-08-10,HSBC,Robert Parkes,29.9,1020.0,,,,30.0
+437,Lynn Thomasson,2009-08-10,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+438,Lynn Thomasson,2009-08-10,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+439,Lynn Thomasson,2009-08-10,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+440,Lynn Thomasson,2009-08-10,UBS,,50.0,,51.0,,,57.0
+418,Lynn Thomasson,2009-08-12,BMO,Ben Joyce,60.0,1050.0,56.0,,,60.0
+417,Lynn Thomasson,2009-08-12,Bank of America,David Bianco,60.0,,59.0,,,60.0
+419,Lynn Thomasson,2009-08-12,Barclays,Barry Knapp,,930.0,41.0,,,
+420,Lynn Thomasson,2009-08-12,Citigroup,Tobias Levkovich,,1000.0,56.0,,,
+421,Lynn Thomasson,2009-08-12,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+422,Lynn Thomasson,2009-08-12,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+423,Lynn Thomasson,2009-08-12,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+424,Lynn Thomasson,2009-08-12,HSBC,Robert Parkes,29.9,1020.0,,,,30.0
+425,Lynn Thomasson,2009-08-12,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+426,Lynn Thomasson,2009-08-12,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+427,Lynn Thomasson,2009-08-12,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+428,Lynn Thomasson,2009-08-12,UBS,,50.0,,51.0,,,57.0
+442,Lynn Thomasson,2009-08-17,BMO,Ben Joyce,60.0,1050.0,56.0,,,60.0
+441,Lynn Thomasson,2009-08-17,Bank of America,David Bianco,60.0,,59.0,,,60.0
+443,Lynn Thomasson,2009-08-17,Barclays,Barry Knapp,,930.0,41.0,,,
+444,Lynn Thomasson,2009-08-17,Citigroup,Tobias Levkovich,,1000.0,56.0,,,
+445,Lynn Thomasson,2009-08-17,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+446,Lynn Thomasson,2009-08-17,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+447,Lynn Thomasson,2009-08-17,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+448,Lynn Thomasson,2009-08-17,HSBC,Robert Parkes,29.9,1020.0,,,,30.0
+449,Lynn Thomasson,2009-08-17,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+450,Lynn Thomasson,2009-08-17,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+451,Lynn Thomasson,2009-08-17,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+452,Lynn Thomasson,2009-08-17,UBS,Jonathan Golub,50.0,,,,,57.0
+454,Lynn Thomasson,2009-08-24,BMO,Ben Joyce,60.0,1050.0,56.0,,,60.0
+453,Lynn Thomasson,2009-08-24,Bank of America,David Bianco,60.0,,59.0,,,60.0
+455,Lynn Thomasson,2009-08-24,Barclays,Barry Knapp,,930.0,41.0,,,
+456,Lynn Thomasson,2009-08-24,Citigroup,Tobias Levkovich,,1000.0,56.0,,,
+457,Lynn Thomasson,2009-08-24,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+458,Lynn Thomasson,2009-08-24,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+459,Lynn Thomasson,2009-08-24,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+460,Lynn Thomasson,2009-08-24,HSBC,Robert Parkes,29.9,1020.0,,,,30.0
+461,Lynn Thomasson,2009-08-24,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+462,Lynn Thomasson,2009-08-24,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+463,Lynn Thomasson,2009-08-24,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+464,Lynn Thomasson,2009-08-24,UBS,Jonathan Golub,50.0,,,,,57.0
+466,Lynn Thomasson,2009-08-31,BMO,Ben Joyce,60.0,1050.0,56.0,,,60.0
+465,Lynn Thomasson,2009-08-31,Bank of America,David Bianco,60.0,,59.0,,,60.0
+467,Lynn Thomasson,2009-08-31,Barclays,Barry Knapp,,930.0,50.0,,,
+468,Lynn Thomasson,2009-08-31,Citigroup,Tobias Levkovich,,1000.0,56.0,,,
+469,Lynn Thomasson,2009-08-31,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+470,Lynn Thomasson,2009-08-31,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+471,Lynn Thomasson,2009-08-31,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+472,Lynn Thomasson,2009-08-31,HSBC,Robert Parkes,33.9,1020.0,,,,34.0
+473,Lynn Thomasson,2009-08-31,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+474,Lynn Thomasson,2009-08-31,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+475,Lynn Thomasson,2009-08-31,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+476,Lynn Thomasson,2009-08-31,UBS,Jonathan Golub,50.0,,,,,57.0
+478,Lynn Thomasson,2009-09-01,BMO,Ben Joyce,60.0,1050.0,56.0,,,60.0
+477,Lynn Thomasson,2009-09-01,Bank of America,David Bianco,60.0,,59.0,,,60.0
+479,Lynn Thomasson,2009-09-01,Barclays,Barry Knapp,,930.0,50.0,,,
+480,Lynn Thomasson,2009-09-01,Citigroup,Tobias Levkovich,,1000.0,56.0,,,
+481,Lynn Thomasson,2009-09-01,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+482,Lynn Thomasson,2009-09-01,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+483,Lynn Thomasson,2009-09-01,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+484,Lynn Thomasson,2009-09-01,HSBC,Robert Parkes,33.9,1020.0,,,,34.0
+485,Lynn Thomasson,2009-09-01,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+486,Lynn Thomasson,2009-09-01,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+487,Lynn Thomasson,2009-09-01,RBC,Myles Zyblock,60.0,1050.0,58.0,,,60.0
+488,Lynn Thomasson,2009-09-01,UBS,Jonathan Golub,50.0,,,,,57.0
+490,Lynn Thomasson,2009-09-14,BMO,Ben Joyce,60.0,1050.0,56.0,,,60.0
+489,Lynn Thomasson,2009-09-14,Bank of America,David Bianco,60.0,,60.0,,,60.0
+491,Lynn Thomasson,2009-09-14,Barclays,Barry Knapp,,930.0,50.0,,,
+492,Lynn Thomasson,2009-09-14,Citigroup,Tobias Levkovich,,1000.0,56.0,,,
+493,Lynn Thomasson,2009-09-14,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+494,Lynn Thomasson,2009-09-14,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+495,Lynn Thomasson,2009-09-14,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+496,Lynn Thomasson,2009-09-14,HSBC,Robert Parkes,33.9,1020.0,,,,34.0
+497,Lynn Thomasson,2009-09-14,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+498,Lynn Thomasson,2009-09-14,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+499,Lynn Thomasson,2009-09-14,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+500,Lynn Thomasson,2009-09-14,UBS,Jonathan Golub,54.0,,,,,62.0
+502,Lynn Thomasson,2009-09-18,BMO,Ben Joyce,60.0,1050.0,56.0,,,60.0
+501,Lynn Thomasson,2009-09-18,Bank of America,David Bianco,60.0,,60.0,,,60.0
+503,Lynn Thomasson,2009-09-18,Barclays,Barry Knapp,,930.0,50.0,,,
+504,Lynn Thomasson,2009-09-18,Citigroup,Tobias Levkovich,,1000.0,60.0,,,
+505,Lynn Thomasson,2009-09-18,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+506,Lynn Thomasson,2009-09-18,Deutsche Bank,Binky Chadha,60.0,1060.0,48.8,,,60.0
+507,Lynn Thomasson,2009-09-18,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+508,Lynn Thomasson,2009-09-18,HSBC,Robert Parkes,33.9,1020.0,,,,34.0
+509,Lynn Thomasson,2009-09-18,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+510,Lynn Thomasson,2009-09-18,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+511,Lynn Thomasson,2009-09-18,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+512,Lynn Thomasson,2009-09-18,UBS,Jonathan Golub,54.0,,,,,62.0
+514,Mary Childs,2009-09-21,BMO,Ben Joyce,60.0,1050.0,56.0,,,60.0
+513,Mary Childs,2009-09-21,Bank of America,David Bianco,60.0,,60.0,,,60.0
+515,Mary Childs,2009-09-21,Barclays,Barry Knapp,,930.0,50.0,,,
+516,Mary Childs,2009-09-21,Citigroup,Tobias Levkovich,,1000.0,60.0,,,
+517,Mary Childs,2009-09-21,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+518,Mary Childs,2009-09-21,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+519,Mary Childs,2009-09-21,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+520,Mary Childs,2009-09-21,HSBC,Robert Parkes,33.9,1020.0,,,,34.0
+521,Mary Childs,2009-09-21,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+522,Mary Childs,2009-09-21,Morgan Stanley,Jason Todd,,900.0,51.0,,,
+523,Mary Childs,2009-09-21,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+524,Mary Childs,2009-09-21,UBS,Jonathan Golub,54.0,,,,,62.0
+551,Sarah Jones,2009-09-24,BMO,Ben Joyce,60.0,1050.0,56.0,,,60.0
+550,Sarah Jones,2009-09-24,Bank of America,David Bianco,60.0,,60.0,,,60.0
+552,Sarah Jones,2009-09-24,Barclays,Barry Knapp,,930.0,50.0,,,
+553,Sarah Jones,2009-09-24,Citigroup,Tobias Levkovich,,1000.0,60.0,,,
+554,Sarah Jones,2009-09-24,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+555,Sarah Jones,2009-09-24,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+556,Sarah Jones,2009-09-24,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+557,Sarah Jones,2009-09-24,HSBC,Robert Parkes,33.9,1020.0,,,,34.0
+558,Sarah Jones,2009-09-24,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+559,Sarah Jones,2009-09-24,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+560,Sarah Jones,2009-09-24,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+561,Sarah Jones,2009-09-24,UBS,Jonathan Golub,54.0,,,,,62.0
+563,Mary Childs,2009-09-28,BMO,Ben Joyce,60.0,1050.0,56.0,,,60.0
+562,Mary Childs,2009-09-28,Bank of America,David Bianco,60.0,,60.0,,,60.0
+564,Mary Childs,2009-09-28,Barclays,Barry Knapp,,930.0,50.0,,,
+565,Mary Childs,2009-09-28,Citigroup,Tobias Levkovich,,1000.0,60.0,,,
+566,Mary Childs,2009-09-28,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+567,Mary Childs,2009-09-28,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+568,Mary Childs,2009-09-28,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+569,Mary Childs,2009-09-28,HSBC,Robert Parkes,35.9,1020.0,,,,36.0
+570,Mary Childs,2009-09-28,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+571,Mary Childs,2009-09-28,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+572,Mary Childs,2009-09-28,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+573,Mary Childs,2009-09-28,UBS,Jonathan Golub,54.0,,,,,62.0
+575,Mary Childs,2009-09-29,BMO,Ben Joyce,62.0,1050.0,56.5,,,62.0
+574,Mary Childs,2009-09-29,Bank of America,David Bianco,60.0,,61.5,,,60.0
+576,Mary Childs,2009-09-29,Barclays,Barry Knapp,,930.0,50.0,,,
+577,Mary Childs,2009-09-29,Citigroup,Tobias Levkovich,,1000.0,60.0,,,
+578,Mary Childs,2009-09-29,Credit Suisse,Andrew Garthwaite,65.0,1050.0,59.0,,,65.0
+579,Mary Childs,2009-09-29,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+580,Mary Childs,2009-09-29,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+581,Mary Childs,2009-09-29,HSBC,Robert Parkes,35.9,1020.0,,,,36.0
+582,Mary Childs,2009-09-29,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+583,Mary Childs,2009-09-29,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+584,Mary Childs,2009-09-29,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+585,Mary Childs,2009-09-29,UBS,Jonathan Golub,54.0,,,,,62.0
+587,Mary Childs,2009-10-05,BMO,Ben Joyce,62.0,1050.0,56.5,,,62.0
+586,Mary Childs,2009-10-05,Bank of America,David Bianco,60.0,,61.5,,,60.0
+588,Mary Childs,2009-10-05,Barclays,Barry Knapp,,930.0,50.0,,,
+589,Mary Childs,2009-10-05,Citigroup,Tobias Levkovich,,1000.0,60.0,,,
+590,Mary Childs,2009-10-05,Credit Suisse,Andrew Garthwaite,65.0,1100.0,59.0,,,65.0
+591,Mary Childs,2009-10-05,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+592,Mary Childs,2009-10-05,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+593,Mary Childs,2009-10-05,HSBC,Robert Parkes,30.9,1020.0,,,,31.0
+594,Mary Childs,2009-10-05,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+595,Mary Childs,2009-10-05,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+596,Mary Childs,2009-10-05,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+597,Mary Childs,2009-10-05,UBS,Jonathan Golub,54.0,,,,,62.0
+599,Mary Childs,2009-10-13,BMO,Ben Joyce,62.0,1050.0,56.5,,,62.0
+598,Mary Childs,2009-10-13,Bank of America,David Bianco,60.0,,61.5,,,60.0
+600,Mary Childs,2009-10-13,Barclays,Barry Knapp,,930.0,50.0,,,
+601,Mary Childs,2009-10-13,Citigroup,Tobias Levkovich,,1000.0,60.0,,,
+602,Mary Childs,2009-10-13,Credit Suisse,Andrew Garthwaite,65.0,1100.0,59.0,,,65.0
+603,Mary Childs,2009-10-13,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+604,Mary Childs,2009-10-13,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+605,Mary Childs,2009-10-13,HSBC,Robert Parkes,30.9,1100.0,,,,31.0
+606,Mary Childs,2009-10-13,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+607,Mary Childs,2009-10-13,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+608,Mary Childs,2009-10-13,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+609,Mary Childs,2009-10-13,UBS,Jonathan Golub,54.0,,,,,62.0
+611,Mary Childs,2009-10-26,BMO,Ben Joyce,62.0,1050.0,57.25,,,62.0
+610,Mary Childs,2009-10-26,Bank of America,David Bianco,60.0,,61.5,,,60.0
+612,Mary Childs,2009-10-26,Barclays,Barry Knapp,,930.0,50.0,,,
+613,Mary Childs,2009-10-26,Citigroup,Tobias Levkovich,,1000.0,60.0,,,
+614,Mary Childs,2009-10-26,Credit Suisse,Andrew Garthwaite,65.0,1150.0,59.0,,,65.0
+615,Mary Childs,2009-10-26,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+616,Mary Childs,2009-10-26,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+617,Mary Childs,2009-10-26,HSBC,Robert Parkes,30.9,1100.0,,,,31.0
+618,Mary Childs,2009-10-26,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+619,Mary Childs,2009-10-26,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+620,Mary Childs,2009-10-26,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+621,Mary Childs,2009-10-26,UBS,Jonathan Golub,54.0,,,,,62.0
+623,Mary Childs,2009-11-02,BMO,Ben Joyce,62.0,1050.0,57.25,,,62.0
+622,Mary Childs,2009-11-02,Bank of America,David Bianco,60.0,,61.5,,,60.0
+624,Mary Childs,2009-11-02,Barclays,Barry Knapp,,930.0,50.0,,,
+625,Mary Childs,2009-11-02,Citigroup,Tobias Levkovich,,1000.0,60.0,,,
+626,Mary Childs,2009-11-02,Credit Suisse,Andrew Garthwaite,65.0,1150.0,59.0,,,65.0
+627,Mary Childs,2009-11-02,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+628,Mary Childs,2009-11-02,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+629,Mary Childs,2009-11-02,HSBC,Robert Parkes,30.9,1100.0,,,,31.0
+630,Mary Childs,2009-11-02,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+631,Mary Childs,2009-11-02,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+632,Mary Childs,2009-11-02,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+633,Mary Childs,2009-11-02,UBS,Jonathan Golub,54.0,,,,,62.0
+635,Mary Childs,2009-11-09,BMO,Ben Joyce,65.0,1050.0,57.25,,,65.0
+634,Mary Childs,2009-11-09,Bank of America,David Bianco,60.0,,61.5,,,60.0
+636,Mary Childs,2009-11-09,Barclays,Barry Knapp,,930.0,50.0,,,
+637,Mary Childs,2009-11-09,Citigroup,Tobias Levkovich,,1000.0,62.5,,,
+638,Mary Childs,2009-11-09,Credit Suisse,Andrew Garthwaite,65.0,1150.0,59.0,,,65.0
+639,Mary Childs,2009-11-09,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+640,Mary Childs,2009-11-09,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+641,Mary Childs,2009-11-09,HSBC,Robert Parkes,30.9,1100.0,,,,31.0
+642,Mary Childs,2009-11-09,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+643,Mary Childs,2009-11-09,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+644,Mary Childs,2009-11-09,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+645,Mary Childs,2009-11-09,UBS,Jonathan Golub,54.0,,,,,62.0
+647,Mary Childs,2009-11-16,BMO,Ben Joyce,65.0,1050.0,57.25,,,65.0
+646,Mary Childs,2009-11-16,Bank of America,David Bianco,60.0,,61.5,,,60.0
+648,Mary Childs,2009-11-16,Barclays,Barry Knapp,,930.0,50.0,,,
+649,Mary Childs,2009-11-16,Citigroup,Tobias Levkovich,,1000.0,62.5,,,
+650,Mary Childs,2009-11-16,Credit Suisse,Andrew Garthwaite,65.0,1150.0,59.0,,,65.0
+651,Mary Childs,2009-11-16,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+652,Mary Childs,2009-11-16,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+653,Mary Childs,2009-11-16,HSBC,Robert Parkes,30.9,1100.0,,,,31.0
+654,Mary Childs,2009-11-16,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+655,Mary Childs,2009-11-16,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+656,Mary Childs,2009-11-16,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+657,Mary Childs,2009-11-16,UBS,Jonathan Golub,54.0,,,,,62.0
+671,Mary Childs,2009-11-18,BMO,Ben Joyce,65.0,1050.0,57.25,,,65.0
+670,Mary Childs,2009-11-18,Bank of America,David Bianco,60.0,,61.5,,,60.0
+672,Mary Childs,2009-11-18,Barclays,Barry Knapp,,930.0,50.0,,,
+673,Mary Childs,2009-11-18,Citigroup,Tobias Levkovich,,1100.0,62.5,,,
+674,Mary Childs,2009-11-18,Credit Suisse,Andrew Garthwaite,65.0,1150.0,59.0,,,65.0
+675,Mary Childs,2009-11-18,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+676,Mary Childs,2009-11-18,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+677,Mary Childs,2009-11-18,HSBC,Robert Parkes,30.9,1100.0,,,,31.0
+678,Mary Childs,2009-11-18,JPMorgan,Thomas Lee,60.0,1100.0,57.0,,,60.0
+679,Mary Childs,2009-11-18,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+680,Mary Childs,2009-11-18,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+681,Mary Childs,2009-11-18,UBS,Jonathan Golub,54.0,,,,,62.0
+683,Mary Childs,2009-11-20,BMO,Ben Joyce,65.0,1050.0,57.25,,,65.0
+682,Mary Childs,2009-11-20,Bank of America,David Bianco,60.0,,61.5,,,60.0
+684,Mary Childs,2009-11-20,Barclays,Barry Knapp,,930.0,50.0,,,
+685,Mary Childs,2009-11-20,Citigroup,Tobias Levkovich,,1100.0,62.5,,,
+686,Mary Childs,2009-11-20,Credit Suisse,Andrew Garthwaite,65.0,1150.0,59.0,,,65.0
+687,Mary Childs,2009-11-20,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+688,Mary Childs,2009-11-20,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+689,Mary Childs,2009-11-20,HSBC,Robert Parkes,30.9,1100.0,,,,31.0
+690,Mary Childs,2009-11-20,JPMorgan,Thomas Lee,60.0,1160.0,57.0,,,60.0
+691,Mary Childs,2009-11-20,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+692,Mary Childs,2009-11-20,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+693,Mary Childs,2009-11-20,UBS,Jonathan Golub,54.0,,,,,62.0
+695,Mary Childs,2009-11-23,BMO,Ben Joyce,65.0,1050.0,58.11,,,65.0
+694,Mary Childs,2009-11-23,Bank of America,David Bianco,60.0,,63.0,,,60.0
+696,Mary Childs,2009-11-23,Barclays,Barry Knapp,,930.0,50.0,,,
+697,Mary Childs,2009-11-23,Citigroup,Tobias Levkovich,,1100.0,62.5,,,
+698,Mary Childs,2009-11-23,Credit Suisse,Andrew Garthwaite,65.0,1150.0,59.0,,,65.0
+699,Mary Childs,2009-11-23,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+700,Mary Childs,2009-11-23,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+701,Mary Childs,2009-11-23,HSBC,Robert Parkes,30.9,1100.0,,,,31.0
+702,Mary Childs,2009-11-23,JPMorgan,Thomas Lee,60.0,1160.0,57.0,,,60.0
+703,Mary Childs,2009-11-23,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+704,Mary Childs,2009-11-23,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+705,Mary Childs,2009-11-23,UBS,Jonathan Golub,54.0,,,,,62.0
+707,Mary Childs,2009-11-30,BMO,Ben Joyce,65.0,1050.0,58.11,,,65.0
+706,Mary Childs,2009-11-30,Bank of America,David Bianco,60.0,,63.0,,,60.0
+708,Mary Childs,2009-11-30,Barclays,Barry Knapp,,930.0,50.0,,,
+709,Mary Childs,2009-11-30,Citigroup,Tobias Levkovich,,1100.0,62.5,,,
+710,Mary Childs,2009-11-30,Credit Suisse,Andrew Garthwaite,65.0,1150.0,59.0,,,65.0
+711,Mary Childs,2009-11-30,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+712,Mary Childs,2009-11-30,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+713,Mary Childs,2009-11-30,HSBC,Robert Parkes,30.9,1100.0,,,,31.0
+714,Mary Childs,2009-11-30,JPMorgan,Thomas Lee,60.0,1160.0,57.0,,,60.0
+715,Mary Childs,2009-11-30,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+716,Mary Childs,2009-11-30,RBC,Myles Zyblock,60.0,1050.0,60.0,,,60.0
+717,Mary Childs,2009-11-30,UBS,Jonathan Golub,54.0,,,,,62.0
+538,Mary Childs and Lynn Thomasson,2009-12-07,BMO,Ben Joyce,65.0,1050.0,58.11,,,65.0
+537,Mary Childs and Lynn Thomasson,2009-12-07,Bank of America,David Bianco,60.0,,63.0,,,60.0
+539,Mary Childs and Lynn Thomasson,2009-12-07,Barclays,Barry Knapp,,930.0,50.0,,,
+540,Mary Childs and Lynn Thomasson,2009-12-07,Citigroup,Tobias Levkovich,,1100.0,62.5,,,
+541,Mary Childs and Lynn Thomasson,2009-12-07,Credit Suisse,Andrew Garthwaite,65.0,1150.0,59.0,,,65.0
+542,Mary Childs and Lynn Thomasson,2009-12-07,Deutsche Bank,Binky Chadha,60.0,1060.0,54.3,,,60.0
+545,Mary Childs and Lynn Thomasson,2009-12-07,Goldman Sachs,David Kostin,,1060.0,52.0,,,
+546,Mary Childs and Lynn Thomasson,2009-12-07,HSBC,Robert Parkes,,1100.0,,,,
+547,Mary Childs and Lynn Thomasson,2009-12-07,JPMorgan,Thomas Lee,60.0,1160.0,57.0,,,60.0
+548,Mary Childs and Lynn Thomasson,2009-12-07,Morgan Stanley,Jason Todd,,1050.0,55.0,,,
+543,Mary Childs and Lynn Thomasson,2009-12-07,Oppenheimer,,60.0,,,,,60.0
+549,Mary Childs and Lynn Thomasson,2009-12-07,RBC,Myles Zyblock,54.0,1050.0,60.0,,,62.0
+544,Mary Childs and Lynn Thomasson,2009-12-07,UBS,,60.0,,,,,60.0
+526,Lynn Thomasson,2009-12-12,BMO,Ben Joyce,65.0,,,,71.0,65.0
+525,Lynn Thomasson,2009-12-12,Bank of America,David Bianco,60.0,,,1275.0,73.0,60.0
+527,Lynn Thomasson,2009-12-12,Barclays,Barry Knapp,,,,1120.0,66.0,
+528,Lynn Thomasson,2009-12-12,Citigroup,Tobias Levkovich,,,,1150.0,72.5,
+529,Lynn Thomasson,2009-12-12,Credit Suisse,Andrew Garthwaite,65.0,,,1125.0,76.0,65.0
+530,Lynn Thomasson,2009-12-12,Deutsche Bank,Binky Chadha,60.0,,,1260.0,77.8,60.0
+531,Lynn Thomasson,2009-12-12,Goldman Sachs,David Kostin,,,,1250.0,76.0,
+532,Lynn Thomasson,2009-12-12,JPMorgan,Thomas Lee,60.0,,,1300.0,80.0,60.0
+533,Lynn Thomasson,2009-12-12,Morgan Stanley,Jason Todd,,,,,70.0,
+534,Lynn Thomasson,2009-12-12,Oppenheimer,Brian Belski,60.0,,,1300.0,70.0,60.0
+535,Lynn Thomasson,2009-12-12,RBC,Myles Zyblock,60.0,,,1200.0,72.0,60.0
+536,Lynn Thomasson,2009-12-12,UBS,Thomas Doerflinger,54.0,,,1250.0,80.0,62.0
+727,Lynn Thomasson,2009-12-13,BMO,,65.0,,,,,65.0
+726,Lynn Thomasson,2009-12-13,Bank of America,,60.0,,,,,60.0
+728,Lynn Thomasson,2009-12-13,Credit Suisse,,65.0,,,,,65.0
+729,Lynn Thomasson,2009-12-13,Deutsche Bank,,60.0,,,,,60.0
+730,Lynn Thomasson,2009-12-13,JPMorgan,,60.0,,,,,60.0
+732,Lynn Thomasson,2009-12-13,Oppenheimer,,60.0,,,,,60.0
+731,Lynn Thomasson,2009-12-13,RBC,,60.0,,,,,60.0
+733,Lynn Thomasson,2009-12-13,UBS,,54.0,,,,,62.0
+719,Lynn Thomasson,2009-12-21,BMO,,65.0,,,,,65.0
+718,Lynn Thomasson,2009-12-21,Bank of America,,60.0,,,,,60.0
+720,Lynn Thomasson,2009-12-21,Credit Suisse,,65.0,,,,,65.0
+721,Lynn Thomasson,2009-12-21,Deutsche Bank,,60.0,,,,,60.0
+722,Lynn Thomasson,2009-12-21,JPMorgan,,60.0,,,,,60.0
+724,Lynn Thomasson,2009-12-21,Oppenheimer,,60.0,,,,,60.0
+723,Lynn Thomasson,2009-12-21,RBC,,60.0,,,,,60.0
+725,Lynn Thomasson,2009-12-21,UBS,,54.0,,,,,62.0

@@ -1,0 +1,636 @@
+Date,Firm,Strategist,Stock Allocation %
+1997-01-02,A.G. Edwards,Ray Worseck,60.0
+1997-01-02,Bear Stearns,Liz Mackay,55.0
+1997-01-02,Credit Suisse,Christine Callies,60.0
+1997-01-02,Dean Witter Reynolds,Peter Canelo,65.0
+1997-01-02,DLJ,Eric Miller,45.0
+1997-01-02,Everen,Rao Chalisani,62.0
+1997-01-02,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-01-02,JPMorgan,Douglas Cliggott,55.0
+1997-01-02,Lehman,Jeffrey Applegate,70.0
+1997-01-02,Merrill Lynch,Charles Clough,40.0
+1997-01-02,Oppenheimer,Michael Metz,30.0
+1997-01-02,PaineWebber,Mary Farrell,54.0
+1997-01-02,Prudential,Greg Smith,60.0
+1997-01-02,Salomon,David Shulman,45.0
+1997-01-02,Smith Barney,Committee,50.0
+1997-01-02,UBS,Gail Dudack,45.0
+1997-01-02,Wheat First,Don Hays,67.0
+1997-01-17,A.G. Edwards,Ray Worseck,60.0
+1997-01-17,Bear Stearns,Liz Mackay,55.0
+1997-01-17,Credit Suisse,Christine Callies,60.0
+1997-01-17,Dean Witter Reynolds,Peter Canelo,65.0
+1997-01-17,DLJ,Eric Miller,45.0
+1997-01-17,Everen,Rao Chalisani,62.0
+1997-01-17,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-01-17,JPMorgan,Douglas Cliggott,55.0
+1997-01-17,Lehman,Jeffrey Applegate,70.0
+1997-01-17,Merrill Lynch,Charles Clough,40.0
+1997-01-17,Oppenheimer,Michael Metz,30.0
+1997-01-17,PaineWebber,Mary Farrell,51.0
+1997-01-17,Prudential,Greg Smith,65.0
+1997-01-17,Salomon,David Shulman,45.0
+1997-01-17,Smith Barney,Committee,50.0
+1997-01-17,UBS,Gail Dudack,45.0
+1997-01-17,Wheat First,Don Hays,67.0
+1997-01-24,A.G. Edwards,Ray Worseck,60.0
+1997-01-24,Bear Stearns,Liz Mackay,55.0
+1997-01-24,Credit Suisse,Christine Callies,60.0
+1997-01-24,Dean Witter Reynolds,Peter Canelo,65.0
+1997-01-24,DLJ,Eric Miller,45.0
+1997-01-24,Everen,Rao Chalisani,62.0
+1997-01-24,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-01-24,JPMorgan,Douglas Cliggott,55.0
+1997-01-24,Lehman,Jeffrey Applegate,65.0
+1997-01-24,Merrill Lynch,Charles Clough,40.0
+1997-01-24,Oppenheimer,Michael Metz,30.0
+1997-01-24,PaineWebber,Edward Kerschner,51.0
+1997-01-24,Prudential,Greg Smith,70.0
+1997-01-24,Salomon,David Shulman,45.0
+1997-01-24,Smith Barney,Committee,50.0
+1997-01-24,UBS,Gail Dudack,45.0
+1997-01-24,Wheat First,Don Hays,67.0
+1997-02-07,A.G. Edwards,Ray Worseck,60.0
+1997-02-07,Bear Stearns,Liz Mackay,55.0
+1997-02-07,Credit Suisse,Christine Callies,60.0
+1997-02-07,Dean Witter Reynolds,Peter Canelo,65.0
+1997-02-07,DLJ,Eric Miller,45.0
+1997-02-07,Everen,Rao Chalisani,62.0
+1997-02-07,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-02-07,JPMorgan,Douglas Cliggott,50.0
+1997-02-07,Lehman,Jeffrey Applegate,65.0
+1997-02-07,Merrill Lynch,Charles Clough,40.0
+1997-02-07,Oppenheimer,Michael Metz,30.0
+1997-02-07,PaineWebber,Edward Kerschner,53.0
+1997-02-07,Prudential,Greg Smith,70.0
+1997-02-07,Salomon,David Shulman,45.0
+1997-02-07,Smith Barney,Committee,50.0
+1997-02-07,UBS,Gail Dudack,45.0
+1997-02-07,Wheat First,Don Hays,45.0
+1997-02-14,A.G. Edwards,Ray Worseck,65.0
+1997-02-14,Bear Stearns,Liz Mackay,55.0
+1997-02-14,Credit Suisse,Christine Callies,60.0
+1997-02-14,Dean Witter Reynolds,Peter Canelo,65.0
+1997-02-14,DLJ,Eric Miller,45.0
+1997-02-14,Everen,Rao Chalisani,62.0
+1997-02-14,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-02-14,JPMorgan,Douglas Cliggott,50.0
+1997-02-14,Lehman,Jeffrey Applegate,65.0
+1997-02-14,Merrill Lynch,Charles Clough,40.0
+1997-02-14,Oppenheimer,Michael Metz,30.0
+1997-02-14,PaineWebber,Edward Kerschner,54.0
+1997-02-14,Prudential,Greg Smith,70.0
+1997-02-14,Salomon,David Shulman,45.0
+1997-02-14,Smith Barney,Committee,50.0
+1997-02-14,UBS,Gail Dudack,45.0
+1997-02-14,Wheat First,Don Hays,45.0
+1997-02-19,A.G. Edwards,Ray Worseck,65.0
+1997-02-19,Bear Stearns,Liz Mackay,55.0
+1997-02-19,Credit Suisse,Christine Callies,60.0
+1997-02-19,Dean Witter Reynolds,Peter Canelo,65.0
+1997-02-19,DLJ,Eric Miller,45.0
+1997-02-19,Everen,Rao Chalisani,62.0
+1997-02-19,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-02-19,JPMorgan,Douglas Cliggott,50.0
+1997-02-19,Lehman,Jeffrey Applegate,65.0
+1997-02-19,Merrill Lynch,Charles Clough,40.0
+1997-02-19,Oppenheimer,Michael Metz,30.0
+1997-02-19,PaineWebber,Edward Kerschner,54.0
+1997-02-19,Prudential,Greg Smith,70.0
+1997-02-19,Salomon,David Shulman,45.0
+1997-02-19,Smith Barney,Committee,50.0
+1997-02-19,UBS,Gail Dudack,45.0
+1997-02-19,Wheat First,Don Hays,45.0
+1997-02-21,A.G. Edwards,Ray Worseck,65.0
+1997-02-21,Bear Stearns,Liz Mackay,55.0
+1997-02-21,Credit Suisse,Christine Callies,60.0
+1997-02-21,Dean Witter Reynolds,Peter Canelo,65.0
+1997-02-21,DLJ,Eric Miller,45.0
+1997-02-21,Everen,Rao Chalisani,62.0
+1997-02-21,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-02-21,JPMorgan,Douglas Cliggott,50.0
+1997-02-21,Lehman,Jeffrey Applegate,65.0
+1997-02-21,Merrill Lynch,Charles Clough,40.0
+1997-02-21,Oppenheimer,Michael Metz,30.0
+1997-02-21,PaineWebber,Edward Kerschner,53.0
+1997-02-21,Prudential,Greg Smith,70.0
+1997-02-21,Salomon,David Shulman,45.0
+1997-02-21,Smith Barney,Committee,50.0
+1997-02-21,UBS,Gail Dudack,45.0
+1997-02-21,Wheat First,Don Hays,45.0
+1997-02-28,A.G. Edwards,Ray Worseck,65.0
+1997-02-28,Bear Stearns,Liz Mackay,55.0
+1997-02-28,Credit Suisse,Christine Callies,60.0
+1997-02-28,Dean Witter Reynolds,Peter Canelo,65.0
+1997-02-28,DLJ,Eric Miller,45.0
+1997-02-28,Everen,Rao Chalisani,52.0
+1997-02-28,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-02-28,JPMorgan,Douglas Cliggott,50.0
+1997-02-28,Lehman,Jeffrey Applegate,65.0
+1997-02-28,Lehman,Jeffrey Applegate,65.0
+1997-02-28,Merrill Lynch,Charles Clough,40.0
+1997-02-28,Oppenheimer,Michael Metz,30.0
+1997-02-28,PaineWebber,Edward Kerschner,53.0
+1997-02-28,PaineWebber,Mary Farrell,53.0
+1997-02-28,Prudential,Greg Smith,70.0
+1997-02-28,Salomon,David Shulman,45.0
+1997-02-28,Smith Barney,Committee,50.0
+1997-02-28,UBS,Gail Dudack,45.0
+1997-02-28,Wheat First,Don Hays,45.0
+1997-03-21,A.G. Edwards,Ray Worseck,60.0
+1997-03-21,Bear Stearns,Liz Mackay,55.0
+1997-03-21,Credit Suisse,Christine Callies,60.0
+1997-03-21,Dean Witter Reynolds,Peter Canelo,65.0
+1997-03-21,DLJ,Eric Miller,45.0
+1997-03-21,Everen,Rao Chalisani,52.0
+1997-03-21,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-03-21,JPMorgan,Douglas Cliggott,50.0
+1997-03-21,Lehman,Jeffrey Applegate,65.0
+1997-03-21,Merrill Lynch,Charles Clough,40.0
+1997-03-21,Oppenheimer,Michael Metz,30.0
+1997-03-21,PaineWebber,Ed Kerschner,51.0
+1997-03-21,Prudential,Greg Smith,70.0
+1997-03-21,Salomon,David Shulman,45.0
+1997-03-21,Smith Barney,Committee,50.0
+1997-03-21,UBS,Gail Dudack,45.0
+1997-03-21,Wheat First,Don Hays,45.0
+1997-04-04,A.G. Edwards,Ray Worseck,55.0
+1997-04-04,Bear Stearns,Liz Mackay,55.0
+1997-04-04,Credit Suisse,Christine Callies,60.0
+1997-04-04,Dean Witter Reynolds,Peter Canelo,65.0
+1997-04-04,DLJ,Eric Miller,45.0
+1997-04-04,Everen,Rao Chalisani,46.0
+1997-04-04,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-04-04,JPMorgan,Douglas Cliggott,50.0
+1997-04-04,Lehman,Jeffrey Applegate,65.0
+1997-04-04,Merrill Lynch,Charles Clough,40.0
+1997-04-04,Oppenheimer,Michael Metz,30.0
+1997-04-04,PaineWebber,Ed Kerschner,50.0
+1997-04-04,Prudential,Greg Smith,70.0
+1997-04-04,Salomon,David Shulman,45.0
+1997-04-04,Smith Barney,Committee,50.0
+1997-04-04,UBS,Gail Dudack,45.0
+1997-04-04,Wheat First,Don Hays,35.0
+1997-04-11,A.G. Edwards,Ray Worseck,55.0
+1997-04-11,Bear Stearns,Liz Mackay,55.0
+1997-04-11,Credit Suisse,Christine Callies,60.0
+1997-04-11,Dean Witter Reynolds,Peter Canelo,65.0
+1997-04-11,DLJ,Eric Miller,45.0
+1997-04-11,Everen,Rao Chalisani,46.0
+1997-04-11,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-04-11,JPMorgan,Douglas Cliggott,50.0
+1997-04-11,Lehman,Jeffrey Applegate,65.0
+1997-04-11,Merrill Lynch,Charles Clough,40.0
+1997-04-11,Oppenheimer,Michael Metz,30.0
+1997-04-11,PaineWebber,Ed Kerschner,50.0
+1997-04-11,Prudential,Greg Smith,70.0
+1997-04-11,Salomon,David Shulman,45.0
+1997-04-11,Smith Barney,Committee,45.0
+1997-04-11,UBS,Gail Dudack,45.0
+1997-04-11,Wheat First,Don Hays,35.0
+1997-04-18,A.G. Edwards,Ray Worseck,55.0
+1997-04-18,Bear Stearns,Liz Mackay,55.0
+1997-04-18,Credit Suisse,Christine Callies,60.0
+1997-04-18,Dean Witter Reynolds,Peter Canelo,65.0
+1997-04-18,DLJ,Eric Miller,45.0
+1997-04-18,Everen,Rao Chalisani,46.0
+1997-04-18,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-04-18,JPMorgan,Douglas Cliggott,50.0
+1997-04-18,Lehman,Jeffrey Applegate,65.0
+1997-04-18,Merrill Lynch,Charles Clough,40.0
+1997-04-18,Oppenheimer,Michael Metz,30.0
+1997-04-18,PaineWebber,Ed Kerschner,49.0
+1997-04-18,Prudential,Greg Smith,70.0
+1997-04-18,Salomon,David Shulman,45.0
+1997-04-18,Smith Barney,Committee,45.0
+1997-04-18,UBS,Gail Dudack,45.0
+1997-04-18,Wheat First,Don Hays,35.0
+1997-04-25,A.G. Edwards,Ray Worseck,55.0
+1997-04-25,Bear Stearns,Liz Mackay,55.0
+1997-04-25,Credit Suisse,Christine Callies,60.0
+1997-04-25,Dean Witter Reynolds,Peter Canelo,65.0
+1997-04-25,DLJ,Eric Miller,45.0
+1997-04-25,Everen,Rao Chalisani,46.0
+1997-04-25,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-04-25,JPMorgan,Douglas Cliggott,50.0
+1997-04-25,Lehman,Jeffrey Applegate,65.0
+1997-04-25,Merrill Lynch,Charles Clough,40.0
+1997-04-25,NatWest,Tom McManus,55.0
+1997-04-25,Oppenheimer,Michael Metz,30.0
+1997-04-25,PaineWebber,Ed Kerschner,49.0
+1997-04-25,Prudential,Greg Smith,70.0
+1997-04-25,Salomon,David Shulman,45.0
+1997-04-25,Smith Barney,Committee,45.0
+1997-04-25,UBS,Gail Dudack,45.0
+1997-04-25,Wheat First,Don Hays,35.0
+1997-05-02,A.G. Edwards,Ray Worseck,55.0
+1997-05-02,Bear Stearns,Liz Mackay,55.0
+1997-05-02,Credit Suisse,Christine Callies,60.0
+1997-05-02,Dean Witter Reynolds,Peter Canelo,65.0
+1997-05-02,DLJ,Eric Miller,45.0
+1997-05-02,Everen,Rao Chalisani,42.0
+1997-05-02,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-05-02,JPMorgan,Douglas Cliggott,50.0
+1997-05-02,Lehman,Jeffrey Applegate,65.0
+1997-05-02,Merrill Lynch,Charles Clough,40.0
+1997-05-02,NatWest,Tom McManus,55.0
+1997-05-02,Oppenheimer,Michael Metz,30.0
+1997-05-02,PaineWebber,Ed Kerschner,50.0
+1997-05-02,Prudential,Greg Smith,70.0
+1997-05-02,Salomon,David Shulman,45.0
+1997-05-02,Smith Barney,Committee,45.0
+1997-05-02,UBS,Gail Dudack,45.0
+1997-05-02,Wheat First,Don Hays,35.0
+1997-05-09,A.G. Edwards,Ray Worseck,55.0
+1997-05-09,Bear Stearns,Liz Mackay,55.0
+1997-05-09,Credit Suisse,Christine Callies,60.0
+1997-05-09,Dean Witter Reynolds,Peter Canelo,65.0
+1997-05-09,DLJ,Eric Miller,45.0
+1997-05-09,Everen,Rao Chalisani,42.0
+1997-05-09,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-05-09,JPMorgan,Douglas Cliggott,50.0
+1997-05-09,Lehman,Jeffrey Applegate,65.0
+1997-05-09,Merrill Lynch,Charles Clough,40.0
+1997-05-09,Oppenheimer,Michael Metz,30.0
+1997-05-09,PaineWebber,Ed Kerschner,49.0
+1997-05-09,Prudential,Greg Smith,70.0
+1997-05-09,Salomon,David Shulman,45.0
+1997-05-09,Smith Barney,Committee,45.0
+1997-05-09,UBS,Gail Dudack,45.0
+1997-05-09,Wheat First,Don Hays,35.0
+1997-05-16,A.G. Edwards,Ray Worseck,55.0
+1997-05-16,Bear Stearns,Liz Mackay,55.0
+1997-05-16,Credit Suisse,Christine Callies,60.0
+1997-05-16,Dean Witter Reynolds,Peter Canelo,65.0
+1997-05-16,DLJ,Eric Miller,45.0
+1997-05-16,Everen,Rao Chalisani,42.0
+1997-05-16,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-05-16,JPMorgan,Douglas Cliggott,50.0
+1997-05-16,Lehman,Jeffrey Applegate,65.0
+1997-05-16,Merrill Lynch,Charles Clough,40.0
+1997-05-16,Oppenheimer,Michael Metz,30.0
+1997-05-16,PaineWebber,Ed Kerschner,49.0
+1997-05-16,Prudential,Greg Smith,70.0
+1997-05-16,Salomon,David Shulman,45.0
+1997-05-16,Smith Barney,Committee,45.0
+1997-05-16,UBS,Gail Dudack,45.0
+1997-05-16,Wheat First,Don Hays,35.0
+1997-06-06,A.G. Edwards,Ray Worseck,55.0
+1997-06-06,Bear Stearns,Liz Mackay,55.0
+1997-06-06,Credit Suisse,Christine Callies,60.0
+1997-06-06,Dean Witter Reynolds,Peter Canelo,65.0
+1997-06-06,DLJ,Eric Miller,45.0
+1997-06-06,Everen,Rao Chalasani,42.0
+1997-06-06,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-06-06,JPMorgan,Douglas Cliggott,50.0
+1997-06-06,Lehman,Jeffrey Applegate,65.0
+1997-06-06,Merrill Lynch,Charles Clough,40.0
+1997-06-06,NatWest,Thomas McManus,55.0
+1997-06-06,Oppenheimer,Michael Metz,30.0
+1997-06-06,PaineWebber,Ed Kerschner,50.0
+1997-06-06,Prudential,Greg Smith,70.0
+1997-06-06,Salomon,David Shulman,45.0
+1997-06-06,Smith Barney,Committee,45.0
+1997-06-06,UBS,Gail Dudack,45.0
+1997-06-06,Wheat First,Don Hays,35.0
+1997-06-13,A.G. Edwards,Ray Worseck,55.0
+1997-06-13,Bear Stearns,Liz Mackay,55.0
+1997-06-13,Credit Suisse,Christine Callies,60.0
+1997-06-13,Dean Witter Reynolds,Peter Canelo,65.0
+1997-06-13,DLJ,Eric Miller,45.0
+1997-06-13,Everen,Rao Chalasani,42.0
+1997-06-13,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-06-13,JPMorgan,Douglas Cliggott,50.0
+1997-06-13,Lehman,Jeffrey Applegate,65.0
+1997-06-13,Merrill Lynch,Charles Clough,40.0
+1997-06-13,NatWest,Thomas McManus,55.0
+1997-06-13,Oppenheimer,Michael Metz,30.0
+1997-06-13,PaineWebber,Ed Kerschner,50.0
+1997-06-13,Prudential,Greg Smith,70.0
+1997-06-13,Salomon,David Shulman,45.0
+1997-06-13,Smith Barney,Committee,45.0
+1997-06-13,UBS,Gail Dudack,45.0
+1997-06-13,Wheat First,Don Hays,35.0
+1997-06-27,A.G. Edwards,Ray Worseck,55.0
+1997-06-27,Bear Stearns,Liz Mackay,55.0
+1997-06-27,Credit Suisse,Christine Callies,60.0
+1997-06-27,Dean Witter Reynolds,Peter Canelo,65.0
+1997-06-27,DLJ,Eric Miller,45.0
+1997-06-27,Everen,Rao Chalasani,42.0
+1997-06-27,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-06-27,JPMorgan,Douglas Cliggott,50.0
+1997-06-27,Lehman,Jeffrey Applegate,65.0
+1997-06-27,Merrill Lynch,Charles Clough,40.0
+1997-06-27,NatWest,Thomas McManus,55.0
+1997-06-27,Oppenheimer,Michael Metz,30.0
+1997-06-27,PaineWebber,Ed Kerschner,50.0
+1997-06-27,Prudential,Greg Smith,70.0
+1997-06-27,Salomon,David Shulman,45.0
+1997-06-27,Smith Barney,Committee,45.0
+1997-06-27,UBS,Gail Dudack,45.0
+1997-06-27,Wheat First,Don Hays,35.0
+1997-07-18,A.G. Edwards,Ray Worseck,55.0
+1997-07-18,Bear Stearns,Liz Mackay,55.0
+1997-07-18,Credit Suisse,Christine Callies,60.0
+1997-07-18,DLJ,Eric Miller,45.0
+1997-07-18,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-07-18,JPMorgan,Douglas Cliggott,50.0
+1997-07-18,Lehman,Jeffrey Applegate,65.0
+1997-07-18,Merrill Lynch,Charles Clough,40.0
+1997-07-18,Morgan Stanley,Peter Canelo,65.0
+1997-07-18,NatWest,Thomas McManus,55.0
+1997-07-18,Oppenheimer,Michael Metz,30.0
+1997-07-18,PaineWebber,Ed Kerschner,52.0
+1997-07-18,Prudential,Greg Smith,70.0
+1997-07-18,Salomon,David Shulman,45.0
+1997-07-18,Smith Barney,Committee,45.0
+1997-07-18,UBS,Gail Dudack,45.0
+1997-07-18,Wheat First,Don Hays,35.0
+1997-08-01,A.G. Edwards,Ray Worseck,55.0
+1997-08-01,Bear Stearns,Liz Mackay,55.0
+1997-08-01,Credit Suisse,Christine Callies,60.0
+1997-08-01,DLJ,Eric Miller,45.0
+1997-08-01,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-08-01,JPMorgan,Douglas Cliggott,50.0
+1997-08-01,Lehman,Jeffrey Applegate,65.0
+1997-08-01,Merrill Lynch,Charles Clough,40.0
+1997-08-01,Morgan Stanley,Peter Canelo,65.0
+1997-08-01,NatWest,Thomas McManus,55.0
+1997-08-01,Oppenheimer,Michael Metz,30.0
+1997-08-01,PaineWebber,Ed Kerschner,55.0
+1997-08-01,Prudential,Greg Smith,70.0
+1997-08-01,Salomon,David Shulman,45.0
+1997-08-01,Smith Barney,Committee,45.0
+1997-08-01,UBS,Gail Dudack,45.0
+1997-08-01,Wheat First,Don Hays,35.0
+1997-08-08,A.G. Edwards,Ray Worseck,55.0
+1997-08-08,Bear Stearns,Liz Mackay,55.0
+1997-08-08,Credit Suisse,Christine Callies,60.0
+1997-08-08,DLJ,Eric Miller,45.0
+1997-08-08,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-08-08,JPMorgan,Douglas Cliggott,50.0
+1997-08-08,Lehman,Jeffrey Applegate,65.0
+1997-08-08,Merrill Lynch,Charles Clough,40.0
+1997-08-08,Morgan Stanley,Peter Canelo,65.0
+1997-08-08,NatWest,Thomas McManus,55.0
+1997-08-08,Oppenheimer,Michael Metz,30.0
+1997-08-08,PaineWebber,Ed Kerschner,53.0
+1997-08-08,Prudential,Greg Smith,70.0
+1997-08-08,Salomon,David Shulman,45.0
+1997-08-08,Smith Barney,Committee,45.0
+1997-08-08,UBS,Gail Dudack,45.0
+1997-08-08,Wheat First,Don Hays,35.0
+1997-08-15,A.G. Edwards,Ray Worseck,55.0
+1997-08-15,Bear Stearns,Liz Mackay,50.0
+1997-08-15,Credit Suisse,Christine Callies,60.0
+1997-08-15,DLJ,Eric Miller,50.0
+1997-08-15,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-08-15,JPMorgan,Douglas Cliggott,50.0
+1997-08-15,Lehman,Jeffrey Applegate,65.0
+1997-08-15,Merrill Lynch,Charles Clough,40.0
+1997-08-15,Morgan Stanley,Peter Canelo,65.0
+1997-08-15,NatWest,Thomas McManus,55.0
+1997-08-15,Oppenheimer,Michael Metz,30.0
+1997-08-15,PaineWebber,Ed Kerschner,53.0
+1997-08-15,Prudential,Greg Smith,70.0
+1997-08-15,Salomon,David Shulman,45.0
+1997-08-15,Smith Barney,Committee,45.0
+1997-08-15,UBS,Gail Dudack,45.0
+1997-08-15,Wheat First,Don Hays,35.0
+1997-08-22,A.G. Edwards,Ray Worseck,55.0
+1997-08-22,Bear Stearns,Liz Mackay,50.0
+1997-08-22,Credit Suisse,Christine Callies,60.0
+1997-08-22,DLJ,Eric Miller,50.0
+1997-08-22,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-08-22,JPMorgan,Douglas Cliggott,50.0
+1997-08-22,Lehman,Jeffrey Applegate,65.0
+1997-08-22,Merrill Lynch,Charles Clough,40.0
+1997-08-22,Morgan Stanley,Peter Canelo,65.0
+1997-08-22,NatWest,Thomas McManus,55.0
+1997-08-22,Oppenheimer,Michael Metz,30.0
+1997-08-22,PaineWebber,Ed Kerschner,53.0
+1997-08-22,Prudential,Greg Smith,70.0
+1997-08-22,Salomon,David Shulman,45.0
+1997-08-22,Smith Barney,Committee,45.0
+1997-08-22,UBS,Gail Dudack,45.0
+1997-08-22,Wheat First,Don Hays,35.0
+1997-08-29,A.G. Edwards,Ray Worseck,55.0
+1997-08-29,Bear Stearns,Liz Mackay,50.0
+1997-08-29,Credit Suisse,Christine Callies,60.0
+1997-08-29,DLJ,Eric Miller,50.0
+1997-08-29,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-08-29,JPMorgan,Douglas Cliggott,50.0
+1997-08-29,Lehman,Jeffrey Applegate,65.0
+1997-08-29,Merrill Lynch,Charles Clough,40.0
+1997-08-29,Morgan Stanley,Peter Canelo,65.0
+1997-08-29,NatWest,Thomas McManus,55.0
+1997-08-29,Oppenheimer,Michael Metz,30.0
+1997-08-29,PaineWebber,Ed Kerschner,53.0
+1997-08-29,Prudential,Greg Smith,70.0
+1997-08-29,Salomon,David Shulman,40.0
+1997-08-29,Smith Barney,Committee,45.0
+1997-08-29,UBS,Gail Dudack,45.0
+1997-08-29,Wheat First,Don Hays,35.0
+1997-09-05,A.G. Edwards,Ray Worseck,55.0
+1997-09-05,Bear Stearns,Liz Mackay,50.0
+1997-09-05,Credit Suisse,Christine Callies,60.0
+1997-09-05,DLJ,Eric Miller,50.0
+1997-09-05,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-09-05,JPMorgan,Douglas Cliggott,50.0
+1997-09-05,Lehman,Jeffrey Applegate,65.0
+1997-09-05,Merrill Lynch,Charles Clough,40.0
+1997-09-05,Morgan Stanley,Peter Canelo,65.0
+1997-09-05,NatWest,Thomas McManus,55.0
+1997-09-05,Oppenheimer,Michael Metz,30.0
+1997-09-05,PaineWebber,Ed Kerschner,53.0
+1997-09-05,Prudential,Greg Smith,70.0
+1997-09-05,Salomon,David Shulman,40.0
+1997-09-05,Smith Barney,Committee,45.0
+1997-09-05,UBS,Gail Dudack,45.0
+1997-09-05,Wheat First,Don Hays,62.0
+1997-09-12,A.G. Edwards,Ray Worseck,60.0
+1997-09-12,Bear Stearns,Liz Mackay,50.0
+1997-09-12,Credit Suisse,Christine Callies,60.0
+1997-09-12,DLJ,Eric Miller,50.0
+1997-09-12,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-09-12,JPMorgan,Douglas Cliggott,50.0
+1997-09-12,Lehman,Jeffrey Applegate,65.0
+1997-09-12,Merrill Lynch,Charles Clough,40.0
+1997-09-12,Morgan Stanley,Peter Canelo,65.0
+1997-09-12,NatWest,Thomas McManus,55.0
+1997-09-12,Oppenheimer,Michael Metz,30.0
+1997-09-12,PaineWebber,Ed Kerschner,53.0
+1997-09-12,Prudential,Greg Smith,70.0
+1997-09-12,Salomon,David Shulman,40.0
+1997-09-12,Smith Barney,Committee,45.0
+1997-09-12,UBS,Gail Dudack,45.0
+1997-09-12,Wheat First,Don Hays,62.0
+1997-10-17,A.G. Edwards,Ray Worseck,60.0
+1997-10-17,Bear Stearns,Liz Mackay,50.0
+1997-10-17,Credit Suisse,Christine Callies,60.0
+1997-10-17,DLJ,Eric Miller,50.0
+1997-10-17,Goldman Sachs,Abby Joseph Cohen,60.0
+1997-10-17,JPMorgan,Douglas Cliggott,50.0
+1997-10-17,Lehman,Jeffrey Applegate,75.0
+1997-10-17,Merrill Lynch,Charles Clough,40.0
+1997-10-17,Morgan Stanley,Peter Canelo,70.0
+1997-10-17,NatWest,Thomas McManus,60.0
+1997-10-17,Oppenheimer,Michael Metz,30.0
+1997-10-17,PaineWebber,Ed Kerschner,54.0
+1997-10-17,Prudential,Greg Smith,70.0
+1997-10-17,Salomon,David Shulman,40.0
+1997-10-17,Smith Barney,Committee,50.0
+1997-10-17,UBS,Gail Dudack,45.0
+1997-10-17,Wheat First,Don Hays,62.0
+1997-10-31,A.G. Edwards,Ray Worseck,60.0
+1997-10-31,Bear Stearns,Liz Mackay,50.0
+1997-10-31,Credit Suisse,Christine Callies,60.0
+1997-10-31,DLJ,Eric Miller,50.0
+1997-10-31,Goldman Sachs,Abby Joseph Cohen,65.0
+1997-10-31,JPMorgan,Douglas Cliggott,60.0
+1997-10-31,Lehman,Jeffrey Applegate,75.0
+1997-10-31,Merrill Lynch,Charles Clough,40.0
+1997-10-31,Morgan Stanley,Peter Canelo,70.0
+1997-10-31,NatWest,Thomas McManus,67.0
+1997-10-31,Oppenheimer,Michael Metz,25.0
+1997-10-31,PaineWebber,Ed Kerschner,58.0
+1997-10-31,Prudential,Greg Smith,65.0
+1997-10-31,Salomon,David Shulman,40.0
+1997-10-31,Smith Barney,Committee,55.0
+1997-10-31,UBS,Gail Dudack,45.0
+1997-10-31,Wheat First,Don Hays,62.0
+1997-11-07,A.G. Edwards,Ray Worseck,60.0
+1997-11-07,Bear Stearns,Liz Mackay,50.0
+1997-11-07,Credit Suisse,Christine Callies,60.0
+1997-11-07,DLJ,Eric Miller,50.0
+1997-11-07,Goldman Sachs,Abby Joseph Cohen,65.0
+1997-11-07,JPMorgan,Douglas Cliggott,60.0
+1997-11-07,Lehman,Jeffrey Applegate,75.0
+1997-11-07,Merrill Lynch,Charles Clough,40.0
+1997-11-07,Morgan Stanley,Peter Canelo,70.0
+1997-11-07,NatWest,Thomas McManus,67.0
+1997-11-07,Oppenheimer,Michael Metz,25.0
+1997-11-07,PaineWebber,Ed Kerschner,56.0
+1997-11-07,Prudential,Greg Smith,65.0
+1997-11-07,Salomon,David Shulman,40.0
+1997-11-07,Smith Barney,Committee,55.0
+1997-11-07,UBS,Gail Dudack,45.0
+1997-11-07,Wheat First,Don Hays,62.0
+1997-11-14,A.G. Edwards,Ray Worseck,60.0
+1997-11-14,Bear Stearns,Liz Mackay,50.0
+1997-11-14,Credit Suisse,Christine Callies,60.0
+1997-11-14,DLJ,Eric Miller,50.0
+1997-11-14,Goldman Sachs,Abby Joseph Cohen,65.0
+1997-11-14,JPMorgan,Douglas Cliggott,60.0
+1997-11-14,Lehman,Jeffrey Applegate,75.0
+1997-11-14,Merrill Lynch,Charles Clough,40.0
+1997-11-14,Morgan Stanley,Peter Canelo,70.0
+1997-11-14,NatWest,Thomas McManus,67.0
+1997-11-14,Oppenheimer,Michael Metz,25.0
+1997-11-14,PaineWebber,Ed Kerschner,57.0
+1997-11-14,Prudential,Greg Smith,60.0
+1997-11-14,Salomon,David Shulman,40.0
+1997-11-14,Smith Barney,Committee,55.0
+1997-11-14,UBS,Gail Dudack,45.0
+1997-11-14,Wheat First,Don Hays,62.0
+1997-11-21,A.G. Edwards,Ray Worseck,60.0
+1997-11-21,Bear Stearns,Liz Mackay,50.0
+1997-11-21,Credit Suisse,Christine Callies,60.0
+1997-11-21,DLJ,Eric Miller,50.0
+1997-11-21,Goldman Sachs,Abby Joseph Cohen,65.0
+1997-11-21,JPMorgan,Douglas Cliggott,60.0
+1997-11-21,Lehman,Jeffrey Applegate,75.0
+1997-11-21,Merrill Lynch,Charles Clough,40.0
+1997-11-21,Morgan Stanley,Peter Canelo,70.0
+1997-11-21,NatWest,Thomas McManus,64.0
+1997-11-21,Oppenheimer,Michael Metz,25.0
+1997-11-21,PaineWebber,Ed Kerschner,56.0
+1997-11-21,Prudential,Greg Smith,60.0
+1997-11-21,Salomon,David Shulman,40.0
+1997-11-21,Smith Barney,Committee,55.0
+1997-11-21,UBS,Gail Dudack,45.0
+1997-11-21,Wheat First,Don Hays,62.0
+1997-11-28,A.G. Edwards,Ray Worseck,60.0
+1997-11-28,Bear Stearns,Liz Mackay,50.0
+1997-11-28,Credit Suisse,Christine Callies,60.0
+1997-11-28,DLJ,Eric Miller,50.0
+1997-11-28,Goldman Sachs,Abby Joseph Cohen,65.0
+1997-11-28,JPMorgan,Douglas Cliggott,60.0
+1997-11-28,Lehman,Jeffrey Applegate,75.0
+1997-11-28,Merrill Lynch,Charles Clough,40.0
+1997-11-28,Morgan Stanley,Peter Canelo,70.0
+1997-11-28,NatWest,Thomas McManus,64.0
+1997-11-28,Oppenheimer,Michael Metz,25.0
+1997-11-28,PaineWebber,Ed Kerschner,56.0
+1997-11-28,Prudential,Greg Smith,60.0
+1997-11-28,Salomon,David Shulman,40.0
+1997-11-28,Smith Barney,Committee,55.0
+1997-11-28,UBS,Gail Dudack,45.0
+1997-11-28,Wheat First,Don Hays,62.0
+1997-12-08,A.G. Edwards,Ray Worseck,60.0
+1997-12-08,Bear Stearns,Liz Mackay,50.0
+1997-12-08,Credit Suisse,Christine Callies,60.0
+1997-12-08,DLJ,Eric Miller,50.0
+1997-12-08,Goldman Sachs,Abby Joseph Cohen,65.0
+1997-12-08,JPMorgan,Douglas Cliggott,60.0
+1997-12-08,Lehman,Jeffrey Applegate,75.0
+1997-12-08,Merrill Lynch,Charles Clough,40.0
+1997-12-08,Oppenheimer,Michael Metz,25.0
+1997-12-08,PaineWebber,Ed Kerschner,56.0
+1997-12-08,Prudential,Greg Smith,60.0
+1997-12-08,Salomon,,
+1997-12-08,Smith Barney,Committee,55.0
+1997-12-08,UBS,Gail Dudack,45.0
+1997-12-08,Wheat First,Don Hays,53.0
+1997-12-12,A.G. Edwards,Ray Worseck,60.0
+1997-12-12,Bear Stearns,Liz Mackay,50.0
+1997-12-12,Credit Suisse,Christine Callies,60.0
+1997-12-12,DLJ,Eric Miller,50.0
+1997-12-12,Goldman Sachs,Abby Joseph Cohen,65.0
+1997-12-12,JPMorgan,Douglas Cliggott,60.0
+1997-12-12,Lehman,Jeffrey Applegate,75.0
+1997-12-12,Merrill Lynch,Charles Clough,40.0
+1997-12-12,NatWest,Thomas McManus,64.0
+1997-12-12,Oppenheimer,Michael Metz,25.0
+1997-12-12,PaineWebber,Ed Kerschner,57.0
+1997-12-12,Prudential,Greg Smith,60.0
+1997-12-12,Salomon,,
+1997-12-12,Smith Barney,Committee,55.0
+1997-12-12,UBS,Gail Dudack,45.0
+1997-12-12,Wheat First,Don Hays,53.0
+1997-12-19,A.G. Edwards,Ray Worseck,60.0
+1997-12-19,Bear Stearns,Liz Mackay,50.0
+1997-12-19,CIBC,,
+1997-12-19,Credit Suisse,Christine Callies,60.0
+1997-12-19,DLJ,Eric Miller,50.0
+1997-12-19,Goldman Sachs,Abby Joseph Cohen,65.0
+1997-12-19,JPMorgan,Douglas Cliggott,60.0
+1997-12-19,Lehman,Jeffrey Applegate,75.0
+1997-12-19,Merrill Lynch,Charles Clough,40.0
+1997-12-19,Morgan Stanley,Peter Canelo,70.0
+1997-12-19,NatWest,Thomas McManus,64.0
+1997-12-19,Oppenheimer,Michael Metz,25.0
+1997-12-19,PaineWebber,Ed Kerschner,57.0
+1997-12-19,Prudential,Greg Smith,60.0
+1997-12-19,Salomon,,
+1997-12-19,Smith Barney,Committee,55.0
+1997-12-19,UBS,Gail Dudack,45.0
+1997-12-19,Wheat First,Don Hays,53.0
+1997-12-26,A.G. Edwards,Ray Worseck,60.0
+1997-12-26,Bear Stearns,Liz Mackay,50.0
+1997-12-26,CIBC,,
+1997-12-26,Credit Suisse,Christine Callies,60.0
+1997-12-26,DLJ,Eric Miller,50.0
+1997-12-26,Goldman Sachs,Abby Joseph Cohen,65.0
+1997-12-26,JPMorgan,Douglas Cliggott,60.0
+1997-12-26,Lehman,Jeffrey Applegate,75.0
+1997-12-26,Merrill Lynch,Charles Clough,40.0
+1997-12-26,Morgan Stanley,Peter Canelo,70.0
+1997-12-26,NatWest,Thomas McManus,64.0
+1997-12-26,Oppenheimer,Michael Metz,25.0
+1997-12-26,PaineWebber,Ed Kerschner,57.0
+1997-12-26,Prudential,Greg Smith,60.0
+1997-12-26,Salomon,,
+1997-12-26,Smith Barney,Committee,55.0
+1997-12-26,UBS,Gail Dudack,45.0
+1997-12-26,Wheat First,Don Hays,53.0

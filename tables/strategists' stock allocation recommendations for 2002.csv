@@ -1,0 +1,645 @@
+Date,Firm,Strategist,Stock Allocation %,2002 Close
+2002-01-04,Bank of America,Thomas McManus,55.0,1200.0
+2002-01-04,Bear Stearns,,,
+2002-01-04,CIBC,Subodh Kumar,75.0,1450.0
+2002-01-04,CSFB,Thomas Galvin,70.0,1375.0
+2002-01-04,Deutsche Bank,Ed Yardeni,80.0,1260.0
+2002-01-04,First Union,Rod Smyth,74.0,1300.0
+2002-01-04,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-01-04,JPMorgan,Douglas Cliggott,50.0,950.0
+2002-01-04,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-01-04,Merrill Lynch,Richard Bernstein,60.0,1200.0
+2002-01-04,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2002-01-04,Prudential,Greg Smith,55.0,
+2002-01-04,Salomon SB,Committee,70.0,1325.0
+2002-01-04,UBS,Ed Kerschner,78.0,1570.0
+2002-01-11,Bank of America,Thomas McManus,55.0,1200.0
+2002-01-11,Bear Stearns,,,
+2002-01-11,CIBC,Subodh Kumar,75.0,1450.0
+2002-01-11,CSFB,Thomas Galvin,70.0,1375.0
+2002-01-11,Deutsche Bank,Ed Yardeni,80.0,1260.0
+2002-01-11,First Union,Rod Smyth,85.0,1300.0
+2002-01-11,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-01-11,JPMorgan,Douglas Cliggott,50.0,950.0
+2002-01-11,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-01-11,Merrill Lynch,Richard Bernstein,60.0,1200.0
+2002-01-11,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2002-01-11,Prudential,Committee,70.0,
+2002-01-11,Salomon SB,Committee,70.0,1325.0
+2002-01-11,UBS,Ed Kerschner,81.0,1570.0
+2002-01-18,Bank of America,Thomas McManus,55.0,1200.0
+2002-01-18,Bear Stearns,,,
+2002-01-18,CIBC,Subodh Kumar,75.0,1450.0
+2002-01-18,CSFB,Thomas Galvin,70.0,1375.0
+2002-01-18,Deutsche Bank,Ed Yardeni,80.0,1260.0
+2002-01-18,First Union,Rod Smyth,85.0,1300.0
+2002-01-18,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-01-18,JPMorgan,Douglas Cliggott,50.0,950.0
+2002-01-18,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-01-18,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-01-18,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2002-01-18,Prudential,Committee,70.0,
+2002-01-18,Salomon SB,Committee,70.0,
+2002-01-18,UBS,Ed Kerschner,82.0,1570.0
+2002-01-25,Bank of America,Thomas McManus,55.0,1200.0
+2002-01-25,Bear Stearns,,,
+2002-01-25,CIBC,Subodh Kumar,75.0,1450.0
+2002-01-25,CSFB,Thomas Galvin,70.0,1375.0
+2002-01-25,Deutsche Bank,Ed Yardeni,80.0,1260.0
+2002-01-25,First Union,Rod Smyth,85.0,1300.0
+2002-01-25,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-01-25,JPMorgan,Douglas Cliggott,50.0,950.0
+2002-01-25,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-01-25,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-01-25,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2002-01-25,Prudential,Committee,70.0,
+2002-01-25,Salomon SB,Committee,70.0,1325.0
+2002-01-25,UBS,Ed Kerschner,81.0,1570.0
+2002-02-01,Bank of America,Thomas McManus,55.0,1200.0
+2002-02-01,Bear Stearns,,,
+2002-02-01,CIBC,Subodh Kumar,75.0,1450.0
+2002-02-01,CSFB,Thomas Galvin,70.0,1375.0
+2002-02-01,Deutsche Bank,Ed Yardeni,70.0,1260.0
+2002-02-01,First Union,Rod Smyth,85.0,1300.0
+2002-02-01,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-02-01,JPMorgan,Douglas Cliggott,50.0,950.0
+2002-02-01,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-02-01,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-02-01,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2002-02-01,Prudential,Committee,70.0,
+2002-02-01,Salomon SB,Committee,70.0,1325.0
+2002-02-01,UBS,Ed Kerschner,81.0,1570.0
+2002-02-08,Bank of America,Thomas McManus,55.0,1200.0
+2002-02-08,Bear Stearns,,,
+2002-02-08,CIBC,Subodh Kumar,75.0,1450.0
+2002-02-08,CSFB,Thomas Galvin,70.0,1375.0
+2002-02-08,Deutsche Bank,Ed Yardeni,70.0,1260.0
+2002-02-08,First Union,Rod Smyth,85.0,1300.0
+2002-02-08,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-02-08,JPMorgan,Douglas Cliggott,50.0,950.0
+2002-02-08,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-02-08,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-02-08,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2002-02-08,Prudential,Committee,70.0,
+2002-02-08,Salomon SB,Committee,70.0,1325.0
+2002-02-08,UBS,Ed Kerschner,83.0,1570.0
+2002-02-15,Bank of America,Thomas McManus,55.0,1200.0
+2002-02-15,Bear Stearns,,,
+2002-02-15,CIBC,Subodh Kumar,75.0,1450.0
+2002-02-15,CSFB,Thomas Galvin,70.0,1375.0
+2002-02-15,Deutsche Bank,Ed Yardeni,70.0,1260.0
+2002-02-15,First Union,Rod Smyth,85.0,1300.0
+2002-02-15,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-02-15,JPMorgan,Douglas Cliggott,50.0,950.0
+2002-02-15,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-02-15,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-02-15,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2002-02-15,Prudential,Committee,70.0,
+2002-02-15,Salomon SB,Committee,70.0,1325.0
+2002-02-15,UBS,Ed Kerschner,83.0,1570.0
+2002-02-23,Bank of America,Thomas McManus,55.0,1200.0
+2002-02-23,Bear Stearns,,,
+2002-02-23,CIBC,Subodh Kumar,75.0,1450.0
+2002-02-23,CSFB,Thomas Galvin,70.0,1375.0
+2002-02-23,Deutsche Bank,Ed Yardeni,70.0,1260.0
+2002-02-23,First Union,Rod Smyth,85.0,1300.0
+2002-02-23,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-02-23,JPMorgan,Douglas Cliggott,50.0,950.0
+2002-02-23,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-02-23,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-02-23,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2002-02-23,Prudential,Committee,70.0,
+2002-02-23,Salomon SB,Committee,70.0,1325.0
+2002-02-23,UBS,Ed Kerschner,84.0,1570.0
+2002-03-08,Bank of America,Thomas McManus,55.0,1200.0
+2002-03-08,Bear Stearns,,,
+2002-03-08,CIBC,Subodh Kumar,75.0,1450.0
+2002-03-08,CSFB,Thomas Galvin,70.0,1375.0
+2002-03-08,Deutsche Bank,Ed Yardeni,70.0,1260.0
+2002-03-08,First Union,Rod Smyth,85.0,1300.0
+2002-03-08,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-03-08,JPMorgan,,50.0,950.0
+2002-03-08,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-03-08,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-03-08,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2002-03-08,Prudential,Committee,70.0,
+2002-03-08,Salomon SB,Committee,75.0,1325.0
+2002-03-08,UBS,Ed Kerschner,77.0,1570.0
+2002-03-11,Bank of America,Thomas McManus,55.0,1200.0
+2002-03-11,Bear Stearns,,,
+2002-03-11,CIBC,Subodh Kumar,75.0,1450.0
+2002-03-11,CSFB,Thomas Galvin,70.0,1375.0
+2002-03-11,Deutsche Bank,Ed Yardeni,70.0,1260.0
+2002-03-11,First Union,Rod Smyth,85.0,1300.0
+2002-03-11,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-03-11,JPMorgan,Douglas Cliggott,50.0,950.0
+2002-03-11,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-03-11,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-03-11,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2002-03-11,Prudential,Committee,70.0,
+2002-03-11,Salomon SB,Committee,75.0,1325.0
+2002-03-11,UBS,Ed Kerschner,84.0,1570.0
+2002-03-15,Bank of America,Thomas McManus,50.0,1200.0
+2002-03-15,Bear Stearns,,,
+2002-03-15,CIBC,Subodh Kumar,75.0,1450.0
+2002-03-15,CSFB,Thomas Galvin,70.0,1375.0
+2002-03-15,Deutsche Bank,Ed Yardeni,70.0,1260.0
+2002-03-15,First Union,Rod Smyth,85.0,1300.0
+2002-03-15,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-03-15,JPMorgan,,50.0,950.0
+2002-03-15,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-03-15,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-03-15,Morgan Stanley,Steve Galbraith,70.0,1250.0
+2002-03-15,Prudential,Committee,70.0,
+2002-03-15,Salomon SB,Committee,75.0,1325.0
+2002-03-15,UBS,Ed Kerschner,77.0,1570.0
+2002-04-05,Bank of America,Thomas McManus,50.0,1200.0
+2002-04-05,Bear Stearns,,,
+2002-04-05,CIBC,Subodh Kumar,75.0,1450.0
+2002-04-05,CSFB,Thomas Galvin,70.0,1375.0
+2002-04-05,Deutsche Bank,,,
+2002-04-05,First Union,Rod Smyth,85.0,1300.0
+2002-04-05,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-04-05,JPMorgan,,50.0,950.0
+2002-04-05,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-04-05,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-04-05,Morgan Stanley,Steve Galbraith,70.0,
+2002-04-05,Prudential,Committee,80.0,
+2002-04-05,Salomon SB,Committee,75.0,1325.0
+2002-04-05,UBS,Ed Kerschner,77.0,1360.0
+2002-04-12,Bank of America,Thomas McManus,50.0,1200.0
+2002-04-12,Bear Stearns,,,
+2002-04-12,CIBC,Subodh Kumar,75.0,1450.0
+2002-04-12,CSFB,Thomas Galvin,70.0,1375.0
+2002-04-12,Deutsche Bank,,,
+2002-04-12,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-04-12,JPMorgan,,50.0,950.0
+2002-04-12,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-04-12,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-04-12,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-04-12,Prudential,Committee,80.0,
+2002-04-12,Salomon SB,Committee,75.0,1325.0
+2002-04-12,UBS,Ed Kerschner,77.0,1360.0
+2002-04-12,Wachovia,Rod Smyth,85.0,1300.0
+2002-04-19,Bank of America,Thomas McManus,50.0,1200.0
+2002-04-19,Bear Stearns,,,
+2002-04-19,CIBC,Subodh Kumar,75.0,1450.0
+2002-04-19,CSFB,Thomas Galvin,70.0,1375.0
+2002-04-19,Deutsche Bank,,,
+2002-04-19,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-04-19,JPMorgan,,50.0,950.0
+2002-04-19,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-04-19,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-04-19,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-04-19,Prudential,Committee,70.0,
+2002-04-19,Salomon SB,Committee,75.0,1325.0
+2002-04-19,UBS,Ed Kerschner,77.0,1360.0
+2002-04-19,Wachovia,Rod Smyth,85.0,1300.0
+2002-04-26,Bank of America,Thomas McManus,50.0,1200.0
+2002-04-26,Bear Stearns,,,
+2002-04-26,CIBC,Subodh Kumar,75.0,1450.0
+2002-04-26,CSFB,Thomas Galvin,70.0,1375.0
+2002-04-26,Deutsche Bank,,,
+2002-04-26,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-04-26,JPMorgan,,50.0,950.0
+2002-04-26,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-04-26,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-04-26,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-04-26,Prudential,Ed Yardeni,70.0,1250.0
+2002-04-26,Salomon SB,Committee,75.0,1325.0
+2002-04-26,UBS,Ed Kerschner,77.0,1360.0
+2002-04-26,Wachovia,Rod Smyth,85.0,1300.0
+2002-05-03,Bank of America,Thomas McManus,50.0,1200.0
+2002-05-03,Bear Stearns,,,
+2002-05-03,CIBC,Subodh Kumar,75.0,1375.0
+2002-05-03,CSFB,Thomas Galvin,70.0,1375.0
+2002-05-03,Deutsche Bank,,,
+2002-05-03,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-05-03,JPMorgan,,50.0,950.0
+2002-05-03,Lehman,Jeffrey Applegate,80.0,1350.0
+2002-05-03,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-05-03,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-05-03,Prudential,Ed Yardeni,70.0,1250.0
+2002-05-03,Salomon SB,Committee,75.0,1325.0
+2002-05-03,UBS,Ed Kerschner,77.0,1360.0
+2002-05-03,Wachovia,Rod Smyth,85.0,1300.0
+2002-05-10,Bank of America,Thomas McManus,50.0,1200.0
+2002-05-10,Bear Stearns,,,
+2002-05-10,CIBC,Subodh Kumar,75.0,1375.0
+2002-05-10,CSFB,Thomas Galvin,70.0,1375.0
+2002-05-10,Deutsche Bank,,,
+2002-05-10,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-05-10,JPMorgan,,50.0,950.0
+2002-05-10,Lehman,Jeffrey Applegate,80.0,1200.0
+2002-05-10,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-05-10,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-05-10,Prudential,Ed Yardeni,70.0,1250.0
+2002-05-10,Salomon SB,Committee,75.0,1325.0
+2002-05-10,UBS,Ed Kerschner,77.0,1360.0
+2002-05-10,Wachovia,Rod Smyth,85.0,1300.0
+2002-05-17,Bank of America,Thomas McManus,50.0,1150.0
+2002-05-17,Bear Stearns,,,
+2002-05-17,CIBC,Subodh Kumar,75.0,1375.0
+2002-05-17,CSFB,Thomas Galvin,70.0,1375.0
+2002-05-17,Deutsche Bank,,,
+2002-05-17,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-05-17,JPMorgan,,50.0,950.0
+2002-05-17,Lehman,Jeffrey Applegate,80.0,1200.0
+2002-05-17,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-05-17,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-05-17,Prudential,Ed Yardeni,70.0,1250.0
+2002-05-17,Salomon SB,Committee,75.0,1325.0
+2002-05-17,UBS,Ed Kerschner,77.0,1360.0
+2002-05-17,Wachovia,Rod Smyth,85.0,1300.0
+2002-05-24,Bank of America,Thomas McManus,50.0,1150.0
+2002-05-24,Bear Stearns,,,
+2002-05-24,CIBC,Subodh Kumar,75.0,1375.0
+2002-05-24,CSFB,Thomas Galvin,70.0,1375.0
+2002-05-24,Deutsche Bank,,,
+2002-05-24,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-05-24,JPMorgan,,50.0,950.0
+2002-05-24,Lehman,Jeffrey Applegate,80.0,1200.0
+2002-05-24,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-05-24,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-05-24,Prudential,Ed Yardeni,70.0,1250.0
+2002-05-24,Salomon SB,Committee,75.0,1325.0
+2002-05-24,UBS,Ed Kerschner,77.0,1360.0
+2002-05-24,Wachovia,Rod Smyth,85.0,1300.0
+2002-05-31,Bank of America,Thomas McManus,50.0,1150.0
+2002-05-31,Bear Stearns,,,
+2002-05-31,CIBC,Subodh Kumar,75.0,1375.0
+2002-05-31,CSFB,Thomas Galvin,70.0,1375.0
+2002-05-31,Deutsche Bank,,,
+2002-05-31,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-05-31,JPMorgan,,50.0,950.0
+2002-05-31,Lehman,Jeffrey Applegate,80.0,1200.0
+2002-05-31,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-05-31,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-05-31,Prudential,Ed Yardeni,70.0,1250.0
+2002-05-31,Salomon SB,Committee,75.0,1325.0
+2002-05-31,UBS,Ed Kerschner,80.0,1360.0
+2002-05-31,Wachovia,Rod Smyth,85.0,1300.0
+2002-06-07,Bank of America,Thomas McManus,50.0,1150.0
+2002-06-07,Bear Stearns,,,
+2002-06-07,CIBC,Subodh Kumar,75.0,1375.0
+2002-06-07,CSFB,Thomas Galvin,70.0,1375.0
+2002-06-07,Deutsche Bank,,,
+2002-06-07,Goldman Sachs,Abby Joseph Cohen,75.0,1362.0
+2002-06-07,JPMorgan,,50.0,950.0
+2002-06-07,Lehman,Jeffrey Applegate,80.0,1200.0
+2002-06-07,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-06-07,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-06-07,Prudential,Ed Yardeni,70.0,1250.0
+2002-06-07,Salomon SB,Committee,75.0,1325.0
+2002-06-07,UBS,Ed Kerschner,80.0,1360.0
+2002-06-07,Wachovia,Rod Smyth,85.0,1300.0
+2002-06-14,Bank of America,Thomas McManus,55.0,1150.0
+2002-06-14,Bear Stearns,,,
+2002-06-14,CIBC,Subodh Kumar,75.0,1375.0
+2002-06-14,CSFB,Thomas Galvin,70.0,1375.0
+2002-06-14,Deutsche Bank,,,
+2002-06-14,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-06-14,JPMorgan,,50.0,950.0
+2002-06-14,Lehman,Jeffrey Applegate,80.0,1200.0
+2002-06-14,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-06-14,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-06-14,Prudential,Ed Yardeni,70.0,1250.0
+2002-06-14,Salomon SB,Committee,75.0,
+2002-06-14,UBS,Ed Kerschner,80.0,1360.0
+2002-06-14,Wachovia,Rod Smyth,75.0,1150.0
+2002-06-24,Bank of America,Thomas McManus,55.0,1150.0
+2002-06-24,Bear Stearns,,,
+2002-06-24,CIBC,Subodh Kumar,75.0,1375.0
+2002-06-24,CSFB,Thomas Galvin,70.0,1375.0
+2002-06-24,Deutsche Bank,Pascal Costantini,50.0,950.0
+2002-06-24,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-06-24,JPMorgan,,50.0,950.0
+2002-06-24,Lehman,Jeffrey Applegate,80.0,1200.0
+2002-06-24,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-06-24,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-06-24,Prudential,Ed Yardeni,70.0,1250.0
+2002-06-24,Salomon SB,Committee,75.0,1225.0
+2002-06-24,UBS,Ed Kerschner,80.0,1360.0
+2002-06-24,Wachovia,Rod Smyth,75.0,1150.0
+2002-06-28,Bank of America,Thomas McManus,55.0,1150.0
+2002-06-28,Bear Stearns,,65.0,
+2002-06-28,CIBC,Subodh Kumar,75.0,1375.0
+2002-06-28,CSFB,Thomas Galvin,70.0,1375.0
+2002-06-28,Deutsche Bank,Pascal Costantini,50.0,950.0
+2002-06-28,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-06-28,JPMorgan,,50.0,950.0
+2002-06-28,Lehman,Jeffrey Applegate,80.0,1200.0
+2002-06-28,Merrill Lynch,Richard Bernstein,50.0,1200.0
+2002-06-28,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-06-28,Prudential,Ed Yardeni,65.0,1250.0
+2002-06-28,Salomon SB,Committee,75.0,1225.0
+2002-06-28,UBS,Ed Kerschner,80.0,1360.0
+2002-06-28,Wachovia,Rod Smyth,75.0,1150.0
+2002-07-05,Bank of America,Thomas McManus,55.0,1150.0
+2002-07-05,Bear Stearns,,65.0,
+2002-07-05,CIBC,Subodh Kumar,75.0,1375.0
+2002-07-05,CSFB,Thomas Galvin,70.0,1375.0
+2002-07-05,Deutsche Bank,Pascal Costantini,50.0,950.0
+2002-07-05,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-07-05,JPMorgan,,50.0,950.0
+2002-07-05,Lehman,Jeffrey Applegate,80.0,1200.0
+2002-07-05,Merrill Lynch,Richard Bernstein,50.0,1050.0
+2002-07-05,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-07-05,Prudential,Ed Yardeni,65.0,1250.0
+2002-07-05,Salomon SB,Committee,75.0,1225.0
+2002-07-05,UBS,Ed Kerschner,80.0,1360.0
+2002-07-05,Wachovia,Rod Smyth,75.0,1150.0
+2002-07-12,Bank of America,Thomas McManus,55.0,1150.0
+2002-07-12,Bear Stearns,,65.0,
+2002-07-12,CIBC,Subodh Kumar,75.0,1375.0
+2002-07-12,CSFB,Thomas Galvin,70.0,1375.0
+2002-07-12,Deutsche Bank,Pascal Costantini,50.0,950.0
+2002-07-12,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-07-12,JPMorgan,,50.0,950.0
+2002-07-12,Lehman,Jeffrey Applegate,80.0,1200.0
+2002-07-12,Merrill Lynch,Richard Bernstein,50.0,1050.0
+2002-07-12,Morgan Stanley,Steve Galbraith,70.0,1225.0
+2002-07-12,Prudential,Ed Yardeni,65.0,1250.0
+2002-07-12,Salomon SB,Committee,75.0,1225.0
+2002-07-12,UBS,Ed Kerschner,80.0,1360.0
+2002-07-12,Wachovia,Rod Smyth,75.0,1150.0
+2002-07-26,Bank of America,Thomas McManus,60.0,1000.0
+2002-07-26,Bear Stearns,,65.0,
+2002-07-26,CIBC,Subodh Kumar,75.0,1375.0
+2002-07-26,CSFB,Thomas Galvin,70.0,1375.0
+2002-07-26,Deutsche Bank,Pascal Costantini,50.0,950.0
+2002-07-26,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-07-26,JPMorgan,,50.0,950.0
+2002-07-26,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-07-26,Merrill Lynch,Richard Bernstein,50.0,1050.0
+2002-07-26,Morgan Stanley,Steve Galbraith,70.0,1200.0
+2002-07-26,Prudential,Ed Yardeni,65.0,1250.0
+2002-07-26,Salomon SB,Committee,75.0,1000.0
+2002-07-26,UBS,Ed Kerschner,89.0,1089.0
+2002-07-26,Wachovia,Rod Smyth,75.0,1150.0
+2002-08-02,Bank of America,Thomas McManus,60.0,1000.0
+2002-08-02,Bear Stearns,,65.0,
+2002-08-02,CIBC,Subodh Kumar,75.0,1375.0
+2002-08-02,CSFB,Thomas Galvin,70.0,1375.0
+2002-08-02,Deutsche Bank,Pascal Costantini,50.0,950.0
+2002-08-02,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-08-02,JPMorgan,,50.0,950.0
+2002-08-02,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-08-02,Merrill Lynch,Richard Bernstein,50.0,960.0
+2002-08-02,Morgan Stanley,Steve Galbraith,70.0,1200.0
+2002-08-02,Prudential,Ed Yardeni,65.0,1250.0
+2002-08-02,Salomon SB,Committee,75.0,1000.0
+2002-08-02,UBS,Ed Kerschner,89.0,1065.0
+2002-08-02,Wachovia,Rod Smyth,75.0,1150.0
+2002-08-09,Bank of America,Thomas McManus,60.0,1000.0
+2002-08-09,Bear Stearns,,65.0,
+2002-08-09,CIBC,Subodh Kumar,75.0,1250.0
+2002-08-09,CSFB,Thomas Galvin,70.0,1375.0
+2002-08-09,Deutsche Bank,Pascal Costantini,50.0,950.0
+2002-08-09,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-08-09,JPMorgan,,50.0,950.0
+2002-08-09,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-08-09,Merrill Lynch,Richard Bernstein,50.0,960.0
+2002-08-09,Morgan Stanley,Steve Galbraith,70.0,1200.0
+2002-08-09,Prudential,Ed Yardeni,65.0,1150.0
+2002-08-09,Salomon SB,Committee,75.0,1000.0
+2002-08-09,UBS,Ed Kerschner,89.0,1086.0
+2002-08-09,Wachovia,Rod Smyth,75.0,1150.0
+2002-08-16,Bank of America,Thomas McManus,60.0,1000.0
+2002-08-16,Bear Stearns,,65.0,
+2002-08-16,CIBC,Subodh Kumar,75.0,1250.0
+2002-08-16,CSFB,Thomas Galvin,70.0,1375.0
+2002-08-16,Deutsche Bank,Pascal Costantini,50.0,950.0
+2002-08-16,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-08-16,JPMorgan,,50.0,950.0
+2002-08-16,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-08-16,Merrill Lynch,Richard Bernstein,50.0,960.0
+2002-08-16,Morgan Stanley,Steve Galbraith,70.0,1200.0
+2002-08-16,Prudential,Ed Yardeni,70.0,1100.0
+2002-08-16,Salomon SB,Committee,75.0,1000.0
+2002-08-16,UBS,Ed Kerschner,89.0,1118.0
+2002-08-16,Wachovia,Rod Smyth,75.0,1000.0
+2002-08-23,Bank of America,Thomas McManus,60.0,1000.0
+2002-08-23,Bear Stearns,,65.0,
+2002-08-23,CIBC,Subodh Kumar,75.0,1250.0
+2002-08-23,CSFB,Thomas Galvin,70.0,1140.0
+2002-08-23,Deutsche Bank,Pascal Costantini,50.0,950.0
+2002-08-23,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-08-23,JPMorgan,,50.0,950.0
+2002-08-23,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-08-23,Merrill Lynch,Richard Bernstein,50.0,960.0
+2002-08-23,Morgan Stanley,Steve Galbraith,70.0,1200.0
+2002-08-23,Prudential,Ed Yardeni,70.0,1100.0
+2002-08-23,Salomon SB,Committee,75.0,1000.0
+2002-08-23,UBS,Ed Kerschner,87.0,1075.0
+2002-08-23,Wachovia,Rod Smyth,75.0,1000.0
+2002-08-30,Bank of America,Thomas McManus,60.0,1000.0
+2002-08-30,Bear Stearns,,65.0,
+2002-08-30,CIBC,Subodh Kumar,75.0,1250.0
+2002-08-30,CSFB,Thomas Galvin,70.0,1140.0
+2002-08-30,Deutsche Bank,Pascal Costantini,50.0,950.0
+2002-08-30,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-08-30,JPMorgan,,50.0,950.0
+2002-08-30,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-08-30,Merrill Lynch,Richard Bernstein,50.0,960.0
+2002-08-30,Morgan Stanley,Steve Galbraith,70.0,1200.0
+2002-08-30,Prudential,Ed Yardeni,70.0,1100.0
+2002-08-30,Salomon SB,Committee,75.0,1000.0
+2002-08-30,UBS,Ed Kerschner,88.0,1043.0
+2002-08-30,Wachovia,Rod Smyth,75.0,1000.0
+2002-09-13,Bank of America,Thomas McManus,60.0,1000.0
+2002-09-13,Bear Stearns,,65.0,
+2002-09-13,CIBC,Subodh Kumar,75.0,1250.0
+2002-09-13,CSFB,Thomas Galvin,70.0,1140.0
+2002-09-13,Deutsche Bank,Pascal Costantini,,950.0
+2002-09-13,Goldman Sachs,Abby Joseph Cohen,75.0,1300.0
+2002-09-13,JPMorgan,,50.0,950.0
+2002-09-13,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-09-13,Merrill Lynch,Richard Bernstein,50.0,960.0
+2002-09-13,Morgan Stanley,Steve Galbraith,70.0,1200.0
+2002-09-13,Prudential,Ed Yardeni,70.0,1100.0
+2002-09-13,Salomon SB,Committee,75.0,1000.0
+2002-09-13,UBS,Ed Kerschner,89.0,1022.0
+2002-09-13,Wachovia,Rod Smyth,75.0,1000.0
+2002-09-20,Bank of America,Thomas McManus,60.0,1000.0
+2002-09-20,Bear Stearns,,65.0,
+2002-09-20,CIBC,Subodh Kumar,75.0,1250.0
+2002-09-20,CSFB,Thomas Galvin,70.0,1140.0
+2002-09-20,Deutsche Bank,Pascal Costantini,,950.0
+2002-09-20,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-09-20,JPMorgan,,50.0,950.0
+2002-09-20,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-09-20,Merrill Lynch,Richard Bernstein,50.0,960.0
+2002-09-20,Morgan Stanley,Steve Galbraith,70.0,1200.0
+2002-09-20,Prudential,Ed Yardeni,70.0,900.0
+2002-09-20,Salomon SB,Committee,75.0,1000.0
+2002-09-20,UBS,Ed Kerschner,90.0,989.0
+2002-09-20,Wachovia,Rod Smyth,75.0,1000.0
+2002-09-27,Bank of America,Thomas McManus,65.0,1000.0
+2002-09-27,Bear Stearns,,65.0,
+2002-09-27,CIBC,Subodh Kumar,75.0,1250.0
+2002-09-27,CSFB,Thomas Galvin,70.0,1140.0
+2002-09-27,Deutsche Bank,Pascal Costantini,,950.0
+2002-09-27,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-09-27,JPMorgan,,50.0,950.0
+2002-09-27,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-09-27,Merrill Lynch,Richard Bernstein,50.0,960.0
+2002-09-27,Morgan Stanley,Steve Galbraith,70.0,
+2002-09-27,Prudential,Ed Yardeni,70.0,900.0
+2002-09-27,Salomon SB,Committee,75.0,1000.0
+2002-09-27,UBS,Ed Kerschner,89.0,
+2002-09-27,Wachovia,Rod Smyth,75.0,1000.0
+2002-10-04,Bank of America,Thomas McManus,65.0,1000.0
+2002-10-04,Bear Stearns,,65.0,
+2002-10-04,CIBC,Subodh Kumar,75.0,1000.0
+2002-10-04,CSFB,Thomas Galvin,70.0,1140.0
+2002-10-04,Deutsche Bank,Pascal Costantini,,950.0
+2002-10-04,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-10-04,JPMorgan,Carlos Asilis,50.0,
+2002-10-04,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-10-04,Merrill Lynch,Richard Bernstein,50.0,
+2002-10-04,Morgan Stanley,Steve Galbraith,70.0,
+2002-10-04,Prudential,Ed Yardeni,70.0,900.0
+2002-10-04,Salomon SB,Committee,75.0,1000.0
+2002-10-04,UBS,Ed Kerschner,90.0,
+2002-10-04,Wachovia,Rod Smyth,75.0,1000.0
+2002-10-11,Bank of America,Thomas McManus,65.0,
+2002-10-11,Bear Stearns,,65.0,
+2002-10-11,CIBC,Subodh Kumar,75.0,1000.0
+2002-10-11,CSFB,Thomas Galvin,70.0,1140.0
+2002-10-11,Deutsche Bank,Pascal Costantini,,950.0
+2002-10-11,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-10-11,JPMorgan,Carlos Asilis,50.0,
+2002-10-11,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-10-11,Merrill Lynch,Richard Bernstein,50.0,
+2002-10-11,Morgan Stanley,Steve Galbraith,70.0,
+2002-10-11,Prudential,Ed Yardeni,70.0,900.0
+2002-10-11,Salomon SB,Committee,75.0,1000.0
+2002-10-11,UBS,Ed Kerschner,90.0,
+2002-10-11,Wachovia,Rod Smyth,75.0,1000.0
+2002-10-18,Bank of America,Thomas McManus,70.0,
+2002-10-18,Bear Stearns,,65.0,
+2002-10-18,CIBC,Subodh Kumar,75.0,
+2002-10-18,CSFB,Thomas Galvin,70.0,1140.0
+2002-10-18,Deutsche Bank,Pascal Costantini,,950.0
+2002-10-18,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-10-18,JPMorgan,Carlos Asilis,50.0,
+2002-10-18,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-10-18,Merrill Lynch,Richard Bernstein,50.0,
+2002-10-18,Morgan Stanley,Steve Galbraith,70.0,
+2002-10-18,Prudential,Ed Yardeni,70.0,900.0
+2002-10-18,Salomon SB,Committee,75.0,1000.0
+2002-10-18,UBS,Ed Kerschner,89.0,
+2002-10-18,Wachovia,Rod Smyth,75.0,1000.0
+2002-10-25,Bank of America,Thomas McManus,70.0,
+2002-10-25,Bear Stearns,,65.0,
+2002-10-25,CIBC,Subodh Kumar,75.0,
+2002-10-25,CSFB,,70.0,1140.0
+2002-10-25,Deutsche Bank,Pascal Costantini,,950.0
+2002-10-25,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-10-25,JPMorgan,Carlos Asilis,50.0,
+2002-10-25,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-10-25,Merrill Lynch,Richard Bernstein,50.0,
+2002-10-25,Morgan Stanley,Steve Galbraith,70.0,
+2002-10-25,Prudential,Ed Yardeni,70.0,900.0
+2002-10-25,Salomon SB,Committee,60.0,1000.0
+2002-10-25,UBS,Ed Kerschner,89.0,
+2002-10-25,Wachovia,Rod Smyth,75.0,1000.0
+2002-11-08,Bank of America,Thomas McManus,70.0,
+2002-11-08,Bear Stearns,,65.0,
+2002-11-08,CIBC,Subodh Kumar,75.0,
+2002-11-08,CSFB,Patrick Jilek,,
+2002-11-08,Deutsche Bank,Pascal Costantini,,950.0
+2002-11-08,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-11-08,JPMorgan,Carlos Asilis,50.0,
+2002-11-08,Lehman,Jeffrey Applegate,80.0,1075.0
+2002-11-08,Merrill Lynch,Richard Bernstein,50.0,
+2002-11-08,Morgan Stanley,Steve Galbraith,70.0,
+2002-11-08,Prudential,Ed Yardeni,65.0,900.0
+2002-11-08,Salomon SB,Committee,60.0,1000.0
+2002-11-08,UBS,Ed Kerschner,89.0,
+2002-11-08,Wachovia,Rod Smyth,75.0,1000.0
+2002-11-15,Bank of America,Thomas McManus,70.0,
+2002-11-15,Bear Stearns,,65.0,
+2002-11-15,CIBC,Subodh Kumar,75.0,
+2002-11-15,CSFB,Patrick Jilek,,
+2002-11-15,Deutsche Bank,Pascal Costantini,,950.0
+2002-11-15,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-11-15,JPMorgan,Carlos Asilis,50.0,
+2002-11-15,Lehman,,80.0,1075.0
+2002-11-15,Merrill Lynch,Richard Bernstein,50.0,
+2002-11-15,Morgan Stanley,Steve Galbraith,70.0,
+2002-11-15,Prudential,Ed Yardeni,65.0,900.0
+2002-11-15,Salomon SB,Committee,60.0,1000.0
+2002-11-15,UBS,Ed Kerschner,89.0,
+2002-11-15,Wachovia,Rod Smyth,75.0,1000.0
+2002-11-22,Bank of America,Thomas McManus,70.0,
+2002-11-22,Bear Stearns,,65.0,
+2002-11-22,CIBC,Subodh Kumar,75.0,
+2002-11-22,CSFB,Patrick Jilek,,
+2002-11-22,Deutsche Bank,Pascal Costantini,,950.0
+2002-11-22,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-11-22,JPMorgan,Carlos Asilis,50.0,
+2002-11-22,Lehman,,,
+2002-11-22,Merrill Lynch,Richard Bernstein,50.0,
+2002-11-22,Morgan Stanley,Steve Galbraith,70.0,
+2002-11-22,Prudential,Ed Yardeni,65.0,900.0
+2002-11-22,Salomon SB,Committee,60.0,1000.0
+2002-11-22,UBS,Ed Kerschner,88.0,
+2002-11-22,Wachovia,Rod Smyth,75.0,1000.0
+2002-11-29,Bank of America,Thomas McManus,70.0,
+2002-11-29,Bear Stearns,,65.0,
+2002-11-29,CIBC,Subodh Kumar,75.0,
+2002-11-29,CSFB,Patrick Jilek,,
+2002-11-29,Deutsche Bank,Pascal Costantini,,950.0
+2002-11-29,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-11-29,JPMorgan,Carlos Asilis,50.0,
+2002-11-29,Lehman,,,
+2002-11-29,Merrill Lynch,Richard Bernstein,50.0,
+2002-11-29,Morgan Stanley,Steve Galbraith,70.0,
+2002-11-29,Prudential,Ed Yardeni,65.0,900.0
+2002-11-29,Salomon SB,Committee,60.0,1000.0
+2002-11-29,UBS,Ed Kerschner,88.0,
+2002-11-29,Wachovia,Rod Smyth,75.0,1000.0
+2002-12-06,Bank of America,Thomas McManus,70.0,
+2002-12-06,Bear Stearns,Francois Trahan,65.0,
+2002-12-06,CIBC,Subodh Kumar,75.0,
+2002-12-06,CSFB,Patrick Jilek,,
+2002-12-06,Deutsche Bank,Pascal Costantini,,950.0
+2002-12-06,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-12-06,JPMorgan,Carlos Asilis,50.0,
+2002-12-06,Lehman,,,
+2002-12-06,Merrill Lynch,Richard Bernstein,45.0,
+2002-12-06,Morgan Stanley,Steve Galbraith,70.0,
+2002-12-06,Prudential,Ed Yardeni,65.0,900.0
+2002-12-06,Salomon SB,Committee,60.0,1000.0
+2002-12-06,UBS,Ed Kerschner,89.0,
+2002-12-06,Wachovia,Rod Smyth,75.0,1000.0
+2002-12-13,Bank of America,Thomas McManus,70.0,
+2002-12-13,Bear Stearns,Francois Trahan,65.0,
+2002-12-13,CIBC,Subodh Kumar,75.0,
+2002-12-13,CSFB,Patrick Jilek,,
+2002-12-13,Deutsche Bank,Pascal Costantini,,
+2002-12-13,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-12-13,JPMorgan,Carlos Asilis,50.0,
+2002-12-13,Lehman,,,
+2002-12-13,Merrill Lynch,Richard Bernstein,45.0,
+2002-12-13,Morgan Stanley,Steve Galbraith,70.0,
+2002-12-13,Prudential,Ed Yardeni,65.0,
+2002-12-13,Salomon SB,Committee,60.0,
+2002-12-13,UBS,Ed Kerschner,89.0,
+2002-12-13,Wachovia,Rod Smyth,75.0,
+2002-12-20,Bank of America,Thomas McManus,70.0,
+2002-12-20,Bear Stearns,Francois Trahan,65.0,
+2002-12-20,CIBC,Subodh Kumar,75.0,
+2002-12-20,CSFB,Patrick Jilek,,
+2002-12-20,Deutsche Bank,Pascal Costantini,,
+2002-12-20,Goldman Sachs,Abby Joseph Cohen,75.0,
+2002-12-20,JPMorgan,Carlos Asilis,50.0,
+2002-12-20,Lehman,,,
+2002-12-20,Merrill Lynch,Richard Bernstein,45.0,
+2002-12-20,Morgan Stanley,Steve Galbraith,70.0,
+2002-12-20,Prudential,Ed Yardeni,65.0,
+2002-12-20,Salomon SB,Committee,60.0,
+2002-12-20,UBS,Ed Kerschner,89.0,
+2002-12-20,Wachovia,Rod Smyth,75.0,

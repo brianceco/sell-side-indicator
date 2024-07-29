@@ -1,0 +1,398 @@
+Date,Firm,Strategist,Stock Allocation %,2003 Close
+2003-01-03,Bear Stearns,Francois Trahan,65.0,950.0
+2003-01-03,CIBC,Subodh Kumar,75.0,1250.0
+2003-01-03,CSFB,Patrick Jilek,,
+2003-01-03,Deutsche Bank,Pascal Costantini,,1000.0
+2003-01-03,Goldman Sachs,Abby Joseph Cohen,75.0,1150.0
+2003-01-03,JPMorgan,Carlos Asilis,50.0,800.0
+2003-01-03,Lehman,,,
+2003-01-03,Merrill Lynch,Richard Bernstein,45.0,860.0
+2003-01-03,Morgan Stanley,Steve Galbraith,70.0,1050.0
+2003-01-03,Prudential,Ed Yardeni,65.0,
+2003-01-03,Salomon SB,Committee,60.0,1075.0
+2003-01-03,UBS,Ed Kerschner,89.0,1038.0
+2003-01-03,Wachovia,Rod Smyth,75.0,1020.0
+2003-01-10,Bear Stearns,Francois Trahan,65.0,950.0
+2003-01-10,CIBC,Subodh Kumar,75.0,1250.0
+2003-01-10,CSFB,Patrick Jilek,,
+2003-01-10,Deutsche Bank,Pascal Costantini,,1000.0
+2003-01-10,Goldman Sachs,Abby Joseph Cohen,75.0,1150.0
+2003-01-10,JPMorgan,Carlos Asilis,50.0,800.0
+2003-01-10,Lehman,,,
+2003-01-10,Merrill Lynch,Richard Bernstein,45.0,860.0
+2003-01-10,Morgan Stanley,Steve Galbraith,70.0,1050.0
+2003-01-10,Prudential,Ed Yardeni,70.0,
+2003-01-10,Salomon SB,Committee,60.0,1075.0
+2003-01-10,UBS,Ed Kerschner,88.0,1050.0
+2003-01-10,Wachovia,Rod Smyth,75.0,1020.0
+2003-01-24,Bear Stearns,Francois Trahan,65.0,950.0
+2003-01-24,CIBC,Subodh Kumar,75.0,1250.0
+2003-01-24,CSFB,Patrick Jilek,,
+2003-01-24,Deutsche Bank,Pascal Costantini,,934.0
+2003-01-24,Goldman Sachs,Abby Joseph Cohen,75.0,1150.0
+2003-01-24,JPMorgan,Carlos Asilis,50.0,800.0
+2003-01-24,Lehman,,,
+2003-01-24,Merrill Lynch,Richard Bernstein,45.0,860.0
+2003-01-24,Morgan Stanley,Steve Galbraith,70.0,1050.0
+2003-01-24,Prudential,Ed Yardeni,70.0,
+2003-01-24,Salomon SB,Committee,60.0,1075.0
+2003-01-24,UBS,Ed Kerschner,89.0,1025.0
+2003-01-24,Wachovia,Rod Smyth,75.0,1020.0
+2003-02-07,Bear Stearns,Francois Trahan,65.0,950.0
+2003-02-07,CIBC,Subodh Kumar,75.0,
+2003-02-07,CSFB,Patrick Jilek,,
+2003-02-07,Deutsche Bank,Pascal Costantini,,930.0
+2003-02-07,Goldman Sachs,Abby Joseph Cohen,75.0,1150.0
+2003-02-07,JPMorgan,,50.0,800.0
+2003-02-07,Lehman,,,
+2003-02-07,Merrill Lynch,Richard Bernstein,45.0,
+2003-02-07,Morgan Stanley,Steve Galbraith,70.0,
+2003-02-07,Prudential,Ed Yardeni,,
+2003-02-07,Salomon SB,Committee,60.0,1075.0
+2003-02-07,UBS,Ed Kerschner,89.0,987.0
+2003-02-07,Wachovia,Rod Smyth,75.0,1020.0
+2003-02-21,Bear Stearns,Francois Trahan,65.0,950.0
+2003-02-21,CIBC,Subodh Kumar,75.0,
+2003-02-21,CSFB,Patrick Jilek,,
+2003-02-21,Deutsche Bank,Pascal Costantini,,930.0
+2003-02-21,Goldman Sachs,Abby Joseph Cohen,75.0,1150.0
+2003-02-21,JPMorgan,,50.0,800.0
+2003-02-21,Lehman,,,
+2003-02-21,Merrill Lynch,Richard Bernstein,45.0,
+2003-02-21,Morgan Stanley,Steve Galbraith,70.0,
+2003-02-21,Prudential,Ed Yardeni,,
+2003-02-21,Salomon SB,Committee,60.0,1075.0
+2003-02-21,UBS,Ed Kerschner,89.0,989.0
+2003-02-21,Wachovia,Rod Smyth,75.0,1020.0
+2003-03-07,Bear Stearns,Francois Trahan,65.0,950.0
+2003-03-07,CIBC,Subodh Kumar,75.0,
+2003-03-07,CSFB,Patrick Jilek,,
+2003-03-07,Deutsche Bank,Pascal Costantini,,930.0
+2003-03-07,Goldman Sachs,Abby Joseph Cohen,75.0,1150.0
+2003-03-07,JPMorgan,,50.0,800.0
+2003-03-07,Lehman,,,
+2003-03-07,Merrill Lynch,Richard Bernstein,45.0,
+2003-03-07,Morgan Stanley,Steve Galbraith,70.0,
+2003-03-07,Prudential,Ed Yardeni,,
+2003-03-07,Salomon SB,Committee,60.0,1075.0
+2003-03-07,UBS,Ed Kerschner,90.0,980.0
+2003-03-07,Wachovia,Rod Smyth,75.0,1020.0
+2003-03-21,Bear Stearns,Francois Trahan,65.0,950.0
+2003-03-21,CIBC,Subodh Kumar,75.0,
+2003-03-21,CSFB,Patrick Jilek,,
+2003-03-21,Deutsche Bank,Pascal Costantini,,930.0
+2003-03-21,Goldman Sachs,Abby Joseph Cohen,75.0,1150.0
+2003-03-21,JPMorgan,,50.0,800.0
+2003-03-21,Lehman,,,
+2003-03-21,Merrill Lynch,Richard Bernstein,45.0,
+2003-03-21,Morgan Stanley,Steve Galbraith,70.0,
+2003-03-21,Prudential,Ed Yardeni,,
+2003-03-21,Salomon SB,Committee,60.0,1075.0
+2003-03-21,UBS,Ed Kerschner,89.0,1013.0
+2003-03-21,Wachovia,Rod Smyth,75.0,1020.0
+2003-03-28,Bear Stearns,Francois Trahan,65.0,950.0
+2003-03-28,CIBC,Subodh Kumar,75.0,
+2003-03-28,CSFB,Patrick Jilek,,
+2003-03-28,Deutsche Bank,Pascal Costantini,,830.0
+2003-03-28,Goldman Sachs,Abby Joseph Cohen,75.0,1150.0
+2003-03-28,JPMorgan,,50.0,800.0
+2003-03-28,Lehman,,,
+2003-03-28,Merrill Lynch,Richard Bernstein,45.0,
+2003-03-28,Morgan Stanley,Steve Galbraith,70.0,
+2003-03-28,Prudential,Ed Yardeni,,
+2003-03-28,Salomon SB,Committee,60.0,1075.0
+2003-03-28,UBS,Ed Kerschner,89.0,1010.0
+2003-03-28,Wachovia,Rod Smyth,75.0,1020.0
+2003-04-04,Bear Stearns,Francois Trahan,65.0,950.0
+2003-04-04,CIBC,Subodh Kumar,75.0,
+2003-04-04,CSFB,Patrick Jilek,,
+2003-04-04,Deutsche Bank,Pascal Costantini,,830.0
+2003-04-04,Goldman Sachs,Abby Joseph Cohen,75.0,1150.0
+2003-04-04,JPMorgan,,50.0,800.0
+2003-04-04,Lehman,,,
+2003-04-04,Merrill Lynch,Richard Bernstein,45.0,
+2003-04-04,Morgan Stanley,Steve Galbraith,70.0,1000.0
+2003-04-04,Prudential,Ed Yardeni,,
+2003-04-04,Salomon SB,Committee,60.0,1075.0
+2003-04-04,UBS,Ed Kerschner,89.0,1017.0
+2003-04-04,Wachovia,Rod Smyth,75.0,1020.0
+2003-04-11,Bear Stearns,Francois Trahan,65.0,950.0
+2003-04-11,CIBC,Subodh Kumar,75.0,
+2003-04-11,CSFB,Patrick Jilek,,
+2003-04-11,Deutsche Bank,Pascal Costantini,,830.0
+2003-04-11,Goldman Sachs,Abby Joseph Cohen,75.0,1150.0
+2003-04-11,JPMorgan,,50.0,800.0
+2003-04-11,Lehman,,,
+2003-04-11,Merrill Lynch,Richard Bernstein,45.0,
+2003-04-11,Morgan Stanley,Steve Galbraith,70.0,
+2003-04-11,Prudential,Ed Yardeni,,
+2003-04-11,Smith Barney,Committee,60.0,1075.0
+2003-04-11,UBS,Ed Kerschner,89.0,1013.0
+2003-04-11,Wachovia,Rod Smyth,75.0,1020.0
+2003-04-25,Bear Stearns,Francois Trahan,65.0,950.0
+2003-04-25,CIBC,Subodh Kumar,75.0,
+2003-04-25,CSFB,Patrick Jilek,,
+2003-04-25,Deutsche Bank,Pascal Costantini,,830.0
+2003-04-25,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-04-25,JPMorgan,,50.0,800.0
+2003-04-25,Lehman,,,
+2003-04-25,Merrill Lynch,Richard Bernstein,45.0,
+2003-04-25,Morgan Stanley,Steve Galbraith,70.0,
+2003-04-25,Prudential,Ed Yardeni,,
+2003-04-25,Smith Barney,Committee,60.0,1075.0
+2003-04-25,UBS,Ed Kerschner,89.0,1046.0
+2003-04-25,Wachovia,Rod Smyth,75.0,1020.0
+2003-05-16,Bear Stearns,Francois Trahan,60.0,950.0
+2003-05-16,CIBC,Subodh Kumar,75.0,
+2003-05-16,CSFB,Patrick Jilek,,
+2003-05-16,Deutsche Bank,Pascal Costantini,,830.0
+2003-05-16,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-05-16,JPMorgan,,50.0,800.0
+2003-05-16,Lehman,,,
+2003-05-16,Merrill Lynch,Richard Bernstein,45.0,
+2003-05-16,Morgan Stanley,Steve Galbraith,70.0,
+2003-05-16,Prudential,Ed Yardeni,,
+2003-05-16,Smith Barney,Committee,55.0,1075.0
+2003-05-16,UBS,Ed Kerschner,,
+2003-05-16,Wachovia,Rod Smyth,75.0,1020.0
+2003-05-23,Bear Stearns,Francois Trahan,60.0,
+2003-05-23,CIBC,Subodh Kumar,75.0,
+2003-05-23,CSFB,Patrick Jilek,,
+2003-05-23,Deutsche Bank,Pascal Costantini,,830.0
+2003-05-23,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-05-23,JPMorgan,,50.0,800.0
+2003-05-23,Lehman,,,
+2003-05-23,Merrill Lynch,Richard Bernstein,45.0,
+2003-05-23,Morgan Stanley,Steve Galbraith,70.0,
+2003-05-23,Prudential,Ed Yardeni,,
+2003-05-23,Smith Barney,Committee,55.0,1075.0
+2003-05-23,UBS,Ed Kerschner,89.0,1067.0
+2003-05-23,Wachovia,Rod Smyth,75.0,1020.0
+2003-06-06,Bear Stearns,Francois Trahan,60.0,
+2003-06-06,CIBC,Subodh Kumar,75.0,
+2003-06-06,CSFB,Patrick Jilek,,
+2003-06-06,Deutsche Bank,Pascal Costantini,,830.0
+2003-06-06,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-06-06,JPMorgan,,,1050.0
+2003-06-06,Lehman,,,
+2003-06-06,Merrill Lynch,Richard Bernstein,45.0,
+2003-06-06,Morgan Stanley,Steve Galbraith,70.0,
+2003-06-06,Prudential,Ed Yardeni,,
+2003-06-06,Smith Barney,Committee,55.0,1075.0
+2003-06-06,UBS,Ed Kerschner,89.0,1067.0
+2003-06-06,Wachovia,Rod Smyth,75.0,1020.0
+2003-07-03,Bear Stearns,Francois Trahan,60.0,
+2003-07-03,CIBC,Subodh Kumar,75.0,
+2003-07-03,CSFB,Patrick Jilek,,
+2003-07-03,Deutsche Bank,Pascal Costantini,,830.0
+2003-07-03,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-07-03,JPMorgan,,,1050.0
+2003-07-03,Lehman,Henry Dickson,70.0,
+2003-07-03,Merrill Lynch,Richard Bernstein,45.0,
+2003-07-03,Morgan Stanley,Steve Galbraith,65.0,
+2003-07-03,Prudential,Ed Yardeni,,
+2003-07-03,Smith Barney,Committee,55.0,1075.0
+2003-07-03,UBS,,,
+2003-07-03,Wachovia,Rod Smyth,75.0,1020.0
+2003-07-11,Bear Stearns,Francois Trahan,60.0,
+2003-07-11,CIBC,Subodh Kumar,75.0,
+2003-07-11,CSFB,Patrick Jilek,,
+2003-07-11,Deutsche Bank,Pascal Costantini,,830.0
+2003-07-11,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-07-11,JPMorgan,,,1050.0
+2003-07-11,Lehman,Henry Dickson,70.0,
+2003-07-11,Merrill Lynch,Richard Bernstein,45.0,
+2003-07-11,Morgan Stanley,Steve Galbraith,65.0,
+2003-07-11,Prudential,Ed Yardeni,,
+2003-07-11,Smith Barney,Committee,55.0,1075.0
+2003-07-11,UBS,AG,,
+2003-07-11,Wachovia,Rod Smyth,75.0,1020.0
+2003-07-25,Bear Stearns,Francois Trahan,60.0,
+2003-07-25,CIBC,Subodh Kumar,75.0,
+2003-07-25,CSFB,Patrick Jilek,,
+2003-07-25,Deutsche Bank,Pascal Costantini,,830.0
+2003-07-25,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-07-25,JPMorgan,,,1050.0
+2003-07-25,Lehman,Henry Dickson,70.0,
+2003-07-25,Merrill Lynch,Richard Bernstein,45.0,
+2003-07-25,Morgan Stanley,Steve Galbraith,65.0,
+2003-07-25,Prudential,Ed Yardeni,,
+2003-07-25,Smith Barney,Committee,55.0,1075.0
+2003-07-25,UBS,AG,,
+2003-07-25,Wachovia,Rod Smyth,75.0,1020.0
+2003-08-01,Bear Stearns,Francois Trahan,60.0,
+2003-08-01,CIBC,Subodh Kumar,75.0,
+2003-08-01,CSFB,Patrick Jilek,,
+2003-08-01,Deutsche Bank,Pascal Costantini,,830.0
+2003-08-01,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-08-01,JPMorgan,,,1050.0
+2003-08-01,Lehman,Henry Dickson,70.0,
+2003-08-01,Merrill Lynch,Richard Bernstein,45.0,
+2003-08-01,Morgan Stanley,Steve Galbraith,65.0,
+2003-08-01,Prudential,Ed Yardeni,,
+2003-08-01,Smith Barney,Committee,55.0,1075.0
+2003-08-01,UBS,,,
+2003-08-01,Wachovia,Rod Smyth,75.0,1020.0
+2003-08-22,Bear Stearns,Francois Trahan,60.0,
+2003-08-22,CIBC,Subodh Kumar,75.0,
+2003-08-22,CSFB,Patrick Jilek,,
+2003-08-22,Deutsche Bank,Pascal Costantini,,830.0
+2003-08-22,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-08-22,JPMorgan,,,1050.0
+2003-08-22,Lehman,Henry Dickson,70.0,
+2003-08-22,Merrill Lynch,Richard Bernstein,45.0,
+2003-08-22,Morgan Stanley,Steve Galbraith,65.0,
+2003-08-22,Prudential,Ed Yardeni,,
+2003-08-22,Smith Barney,Committee,55.0,1075.0
+2003-08-22,UBS,,,
+2003-08-22,Wachovia,Rod Smyth,75.0,1020.0
+2003-09-12,Bear Stearns,Francois Trahan,60.0,1050.0
+2003-09-12,CIBC,Subodh Kumar,75.0,
+2003-09-12,CSFB,Patrick Jilek,,
+2003-09-12,Deutsche Bank,Pascal Costantini,,1000.0
+2003-09-12,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-09-12,JPMorgan,,,1070.0
+2003-09-12,Lehman,Henry Dickson,70.0,
+2003-09-12,Merrill Lynch,Richard Bernstein,45.0,
+2003-09-12,Morgan Stanley,Steve Galbraith,65.0,
+2003-09-12,Prudential,Ed Yardeni,80.0,
+2003-09-12,Smith Barney,Committee,55.0,
+2003-09-12,UBS,,,
+2003-09-12,Wachovia,Rod Smyth,75.0,1020.0
+2003-09-19,Bear Stearns,Francois Trahan,60.0,1050.0
+2003-09-19,CIBC,Subodh Kumar,75.0,
+2003-09-19,CSFB,Patrick Jilek,,
+2003-09-19,Deutsche Bank,Pascal Costantini,,1000.0
+2003-09-19,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-09-19,JPMorgan,,,1070.0
+2003-09-19,Lehman,Henry Dickson,70.0,
+2003-09-19,Merrill Lynch,Richard Bernstein,45.0,
+2003-09-19,Morgan Stanley,Steve Galbraith,65.0,
+2003-09-19,Prudential,Ed Yardeni,80.0,
+2003-09-19,Smith Barney,Committee,55.0,
+2003-09-19,UBS,Gary Gordon,70.0,
+2003-09-19,Wachovia,Rod Smyth,75.0,1020.0
+2003-09-26,Bear Stearns,Francois Trahan,60.0,1050.0
+2003-09-26,CIBC,Subodh Kumar,75.0,
+2003-09-26,CSFB,Patrick Jilek,,
+2003-09-26,Deutsche Bank,Pascal Costantini,,1000.0
+2003-09-26,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-09-26,JPMorgan,,,1070.0
+2003-09-26,Lehman,Henry Dickson,70.0,
+2003-09-26,Merrill Lynch,Richard Bernstein,45.0,
+2003-09-26,Morgan Stanley,Steve Galbraith,65.0,1025.0
+2003-09-26,Prudential,Ed Yardeni,80.0,
+2003-09-26,Smith Barney,Committee,55.0,
+2003-09-26,UBS,Gary Gordon,70.0,
+2003-09-26,Wachovia,Rod Smyth,75.0,
+2003-10-03,Bear Stearns,Francois Trahan,60.0,1050.0
+2003-10-03,CIBC,Subodh Kumar,75.0,
+2003-10-03,CSFB,Patrick Jilek,,
+2003-10-03,Deutsche Bank,Pascal Costantini,,1000.0
+2003-10-03,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-10-03,JPMorgan,,,1070.0
+2003-10-03,Lehman,Henry Dickson,70.0,
+2003-10-03,Merrill Lynch,Richard Bernstein,45.0,
+2003-10-03,Morgan Stanley,Steve Galbraith,65.0,1025.0
+2003-10-03,Prudential,Ed Yardeni,80.0,
+2003-10-03,Smith Barney,Committee,55.0,
+2003-10-03,UBS,Gary Gordon,70.0,
+2003-10-03,Wachovia,Rod Smyth,75.0,
+2003-10-14,Bank of America,Thomas McManus,75.0,1100.0
+2003-10-14,Bear Stearns,Francois Trahan,60.0,1050.0
+2003-10-14,CIBC,Subodh Kumar,75.0,
+2003-10-14,CSFB,Patrick Jilek,,
+2003-10-14,Deutsche Bank,Pascal Costantini,,1000.0
+2003-10-14,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-10-14,JPMorgan,,,1070.0
+2003-10-14,Lehman,Henry Dickson,70.0,
+2003-10-14,Merrill Lynch,Richard Bernstein,45.0,
+2003-10-14,Morgan Stanley,Steve Galbraith,65.0,1025.0
+2003-10-14,Prudential,Ed Yardeni,80.0,
+2003-10-14,Smith Barney,Committee,55.0,
+2003-10-14,UBS,Gary Gordon,70.0,
+2003-10-14,Wachovia,Rod Smyth,77.0,
+2003-10-27,Bank of America,Thomas McManus,75.0,1100.0
+2003-10-27,Bear Stearns,Francois Trahan,60.0,1050.0
+2003-10-27,CIBC,Subodh Kumar,75.0,
+2003-10-27,CSFB,Patrick Jilek,,
+2003-10-27,Deutsche Bank,Pascal Costantini,,1000.0
+2003-10-27,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-10-27,JPMorgan,,,1070.0
+2003-10-27,Lehman,Henry Dickson,70.0,
+2003-10-27,Merrill Lynch,Richard Bernstein,45.0,
+2003-10-27,Morgan Stanley,Steve Galbraith,65.0,1025.0
+2003-10-27,Prudential,Ed Yardeni,80.0,
+2003-10-27,Smith Barney,Committee,55.0,
+2003-10-27,UBS,Gary Gordon,70.0,
+2003-10-27,Wachovia,Rod Smyth,77.0,
+2003-10-31,Bank of America,Thomas McManus,75.0,
+2003-10-31,Bear Stearns,Francois Trahan,60.0,1050.0
+2003-10-31,CIBC,Subodh Kumar,75.0,
+2003-10-31,CSFB,Patrick Jilek,,
+2003-10-31,Deutsche Bank,Pascal Costantini,,1000.0
+2003-10-31,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-10-31,JPMorgan,,,1070.0
+2003-10-31,Lehman,Henry Dickson,70.0,
+2003-10-31,Merrill Lynch,Richard Bernstein,45.0,
+2003-10-31,Morgan Stanley,Steve Galbraith,65.0,1025.0
+2003-10-31,Prudential,Ed Yardeni,80.0,
+2003-10-31,Smith Barney,Committee,55.0,
+2003-10-31,UBS,Gary Gordon,70.0,
+2003-10-31,Wachovia,Rod Smyth,77.0,
+2003-11-07,Bank of America,Thomas McManus,75.0,
+2003-11-07,Bear Stearns,Francois Trahan,60.0,1050.0
+2003-11-07,CIBC,Subodh Kumar,70.0,
+2003-11-07,CSFB,Patrick Jilek,,
+2003-11-07,Deutsche Bank,Pascal Costantini,,1000.0
+2003-11-07,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-11-07,JPMorgan,,,1070.0
+2003-11-07,Lehman,Henry Dickson,70.0,
+2003-11-07,Merrill Lynch,Richard Bernstein,45.0,
+2003-11-07,Morgan Stanley,Steve Galbraith,65.0,1025.0
+2003-11-07,Prudential,Ed Yardeni,80.0,
+2003-11-07,Smith Barney,Committee,55.0,
+2003-11-07,UBS,Gary Gordon,70.0,
+2003-11-07,Wachovia,Rod Smyth,77.0,
+2003-12-01,Bank of America,Thomas McManus,75.0,
+2003-12-01,Bear Stearns,Francois Trahan,60.0,1050.0
+2003-12-01,CIBC,Subodh Kumar,70.0,
+2003-12-01,CSFB,Patrick Jilek,,
+2003-12-01,Deutsche Bank,Pascal Costantini,,
+2003-12-01,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-12-01,JPMorgan,,,1070.0
+2003-12-01,Lehman,Henry Dickson,70.0,
+2003-12-01,Merrill Lynch,Richard Bernstein,45.0,
+2003-12-01,Morgan Stanley,Steve Galbraith,65.0,1025.0
+2003-12-01,Prudential,Ed Yardeni,80.0,
+2003-12-01,Smith Barney,Committee,55.0,
+2003-12-01,UBS,Gary Gordon,70.0,
+2003-12-01,Wachovia,Rod Smyth,77.0,
+2003-12-08,Bank of America,Thomas McManus,70.0,
+2003-12-08,Bear Stearns,Francois Trahan,60.0,1050.0
+2003-12-08,CIBC,Subodh Kumar,70.0,
+2003-12-08,CSFB,Patrick Jilek,,
+2003-12-08,Deutsche Bank,Pascal Costantini,,
+2003-12-08,Goldman Sachs,Abby Joseph Cohen,75.0,
+2003-12-08,JPMorgan,,,1070.0
+2003-12-08,Lehman,Henry Dickson,70.0,
+2003-12-08,Merrill Lynch,Richard Bernstein,45.0,
+2003-12-08,Morgan Stanley,Steve Galbraith,65.0,1025.0
+2003-12-08,Prudential,Ed Yardeni,80.0,
+2003-12-08,Smith Barney,Committee,55.0,
+2003-12-08,UBS,Gary Gordon,70.0,
+2003-12-08,Wachovia,Rod Smyth,77.0,
+2003-12-29,Bank of America,Thomas McManus,70.0,1160.0
+2003-12-29,Bear Stearns,Francois Trahan,60.0,1100.0
+2003-12-29,CIBC,Subodh Kumar,70.0,1250.0
+2003-12-29,CSFB,Patrick Jilek,,
+2003-12-29,Citigroup,Committee,55.0,1025.0
+2003-12-29,Deutsche Bank,Pascal Costantini,,1100.0
+2003-12-29,Goldman Sachs,Abby Joseph Cohen,75.0,1250.0
+2003-12-29,JPMorgan,,,1120.0
+2003-12-29,Lehman,Henry Dickson,70.0,1150.0
+2003-12-29,Merrill Lynch,Richard Bernstein,45.0,900.0
+2003-12-29,Morgan Stanley,Steve Galbraith,65.0,1125.0
+2003-12-29,Prudential,Ed Yardeni,80.0,1300.0
+2003-12-29,UBS,Gary Gordon,70.0,1150.0
+2003-12-29,Wachovia,Rod Smyth,78.0,

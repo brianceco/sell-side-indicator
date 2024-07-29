@@ -1,0 +1,500 @@
+Date,Firm,Strategist,Stock Allocation %,1999 Close
+1999-01-15,Bear Stearns,Liz Mackay,60.0,
+1999-01-15,Credit Suisse,Christine Callies,60.0,
+1999-01-15,DLJ,Thomas Galvin,80.0,
+1999-01-15,Goldman Sachs,Abby Joseph Cohen,70.0,
+1999-01-15,JPMorgan,Douglas Cliggott,60.0,
+1999-01-15,Lehman,Jeffrey Applegate,80.0,
+1999-01-15,Merrill Lynch,Charles Clough,40.0,
+1999-01-15,Morgan Stanley,Peter Canelo,65.0,
+1999-01-15,PaineWebber,Ed Kerschner,64.0,
+1999-01-15,Prudential,Greg Smith,70.0,
+1999-01-15,Salomon SB,Committee,55.0,
+1999-01-15,UBS,Gail Dudack,45.0,
+1999-01-15,Wheat First,Don Hays,70.0,
+1999-01-22,Bear Stearns,Liz Mackay,60.0,
+1999-01-22,Credit Suisse,Christine Callies,60.0,
+1999-01-22,DLJ,Thomas Galvin,80.0,
+1999-01-22,Goldman Sachs,Abby Joseph Cohen,70.0,
+1999-01-22,JPMorgan,Douglas Cliggott,60.0,
+1999-01-22,Lehman,Jeffrey Applegate,80.0,
+1999-01-22,Merrill Lynch,Charles Clough,40.0,
+1999-01-22,Morgan Stanley,Peter Canelo,65.0,
+1999-01-22,PaineWebber,Ed Kerschner,64.0,
+1999-01-22,Prudential,Greg Smith,70.0,
+1999-01-22,Salomon SB,,,
+1999-01-22,Smith Barney,Committee,55.0,
+1999-01-22,UBS,Gail Dudack,45.0,
+1999-01-22,Wheat First,Don Hays,70.0,
+1999-01-29,Bear Stearns,Liz Mackay,60.0,
+1999-01-29,Credit Suisse,Christine Callies,60.0,
+1999-01-29,DLJ,Thomas Galvin,80.0,
+1999-01-29,Goldman Sachs,Abby Joseph Cohen,70.0,
+1999-01-29,JPMorgan,Douglas Cliggott,60.0,
+1999-01-29,Lehman,Jeffrey Applegate,80.0,
+1999-01-29,Merrill Lynch,Charles Clough,40.0,
+1999-01-29,Morgan Stanley,Peter Canelo,65.0,
+1999-01-29,PaineWebber,Ed Kerschner,63.0,
+1999-01-29,Prudential,Greg Smith,70.0,
+1999-01-29,Salomon SB,Committee,55.0,
+1999-01-29,UBS,Gail Dudack,45.0,
+1999-01-29,Wheat First,Don Hays,70.0,
+1999-02-04,Bear Stearns,Liz Mackay,60.0,
+1999-02-04,Credit Suisse,Christine Callies,60.0,
+1999-02-04,DLJ,Thomas Galvin,80.0,
+1999-02-04,Goldman Sachs,Abby Joseph Cohen,70.0,
+1999-02-04,JPMorgan,Douglas Cliggott,50.0,
+1999-02-04,Lehman,Jeffrey Applegate,80.0,
+1999-02-04,Merrill Lynch,Charles Clough,40.0,
+1999-02-04,Morgan Stanley,Peter Canelo,65.0,
+1999-02-04,PaineWebber,Ed Kerschner,63.0,
+1999-02-04,Prudential,Greg Smith,70.0,
+1999-02-04,Salomon SB,Committee,55.0,
+1999-02-04,UBS,Gail Dudack,45.0,
+1999-02-04,Wheat First,Don Hays,70.0,
+1999-02-05,Bear Stearns,Liz Mackay,60.0,
+1999-02-05,Credit Suisse,Christine Callies,60.0,
+1999-02-05,DLJ,Thomas Galvin,80.0,
+1999-02-05,Goldman Sachs,Abby Joseph Cohen,70.0,
+1999-02-05,JPMorgan,Douglas Cliggott,50.0,
+1999-02-05,Lehman,Jeffrey Applegate,80.0,
+1999-02-05,Merrill Lynch,Charles Clough,40.0,
+1999-02-05,Morgan Stanley,Peter Canelo,65.0,
+1999-02-05,NationsBank,Thomas McManus,70.0,
+1999-02-05,PaineWebber,Ed Kerschner,62.0,
+1999-02-05,Salomon SB,Committee,55.0,
+1999-02-05,UBS,Gail Dudack,45.0,
+1999-02-05,Wheat First,Don Hays,70.0,
+1999-02-12,Bear Stearns,Liz Mackay,60.0,
+1999-02-12,Credit Suisse,Christine Callies,60.0,
+1999-02-12,DLJ,Thomas Galvin,80.0,
+1999-02-12,Goldman Sachs,Abby Joseph Cohen,70.0,
+1999-02-12,JPMorgan,Douglas Cliggott,50.0,
+1999-02-12,Lehman,Jeffrey Applegate,80.0,
+1999-02-12,Merrill Lynch,Charles Clough,40.0,
+1999-02-12,Morgan Stanley,Peter Canelo,65.0,
+1999-02-12,NationsBank,Thomas McManus,70.0,
+1999-02-12,PaineWebber,Ed Kerschner,62.0,
+1999-02-12,Prudential,Greg Smith,70.0,
+1999-02-12,Salomon SB,Committee,55.0,
+1999-02-12,UBS,Gail Dudack,45.0,
+1999-02-12,Wheat First,Don Hays,70.0,
+1999-02-22,Bear Stearns,Liz Mackay,60.0,
+1999-02-22,Credit Suisse,Christine Callies,60.0,
+1999-02-22,DLJ,Thomas Galvin,80.0,
+1999-02-22,Goldman Sachs,Abby Joseph Cohen,70.0,
+1999-02-22,JPMorgan,Douglas Cliggott,50.0,
+1999-02-22,Lehman,Jeffrey Applegate,80.0,
+1999-02-22,Merrill Lynch,Charles Clough,40.0,
+1999-02-22,Morgan Stanley,Peter Canelo,65.0,
+1999-02-22,NationsBank,Thomas McManus,70.0,
+1999-02-22,PaineWebber,Ed Kerschner,61.0,
+1999-02-22,Prudential,Greg Smith,75.0,
+1999-02-22,Salomon SB,Committee,55.0,
+1999-02-22,UBS,Gail Dudack,45.0,
+1999-02-22,Wheat First,Don Hays,51.5,
+1999-02-26,Bear Stearns,Liz Mackay,60.0,
+1999-02-26,Credit Suisse,Christine Callies,60.0,
+1999-02-26,DLJ,Thomas Galvin,80.0,
+1999-02-26,Goldman Sachs,Abby Joseph Cohen,70.0,
+1999-02-26,JPMorgan,Douglas Cliggott,50.0,
+1999-02-26,Lehman,Jeffrey Applegate,80.0,
+1999-02-26,Merrill Lynch,Charles Clough,40.0,
+1999-02-26,Morgan Stanley,Peter Canelo,65.0,
+1999-02-26,NationsBank,Thomas McManus,70.0,
+1999-02-26,PaineWebber,Ed Kerschner,58.0,
+1999-02-26,Prudential,Greg Smith,75.0,
+1999-02-26,Salomon SB,Committee,55.0,
+1999-02-26,UBS,Gail Dudack,45.0,
+1999-02-26,Wheat First,Don Hays,51.5,
+1999-03-05,Bear Stearns,Liz Mackay,60.0,
+1999-03-05,Credit Suisse,Christine Callies,60.0,
+1999-03-05,DLJ,Thomas Galvin,80.0,
+1999-03-05,Goldman Sachs,Abby Joseph Cohen,70.0,
+1999-03-05,JPMorgan,Douglas Cliggott,50.0,
+1999-03-05,Lehman,Jeffrey Applegate,80.0,
+1999-03-05,Merrill Lynch,Charles Clough,40.0,
+1999-03-05,Morgan Stanley,Peter Canelo,65.0,
+1999-03-05,Morgan Stanley,Peter Canelo,70.0,
+1999-03-05,NationsBank,Thomas McManus,70.0,
+1999-03-05,PaineWebber,Ed Kerschner,57.0,
+1999-03-05,Prudential,Greg Smith,75.0,
+1999-03-05,Salomon SB,Committee,55.0,
+1999-03-05,UBS,Gail Dudack,45.0,
+1999-03-05,Wheat First,Don Hays,47.0,
+1999-03-12,Bear Stearns,Liz Mackay,60.0,
+1999-03-12,CIBC,Subodh Kumar,50.0,
+1999-03-12,Credit Suisse,Christine Callies,60.0,
+1999-03-12,DLJ,Thomas Galvin,80.0,
+1999-03-12,Goldman Sachs,Abby Joseph Cohen,70.0,
+1999-03-12,JPMorgan,Douglas Cliggott,50.0,
+1999-03-12,Lehman,Jeffrey Applegate,80.0,
+1999-03-12,Merrill Lynch,Charles Clough,40.0,
+1999-03-12,Morgan Stanley,Peter Canelo,70.0,
+1999-03-12,NationsBank,Thomas McManus,70.0,
+1999-03-12,PaineWebber,Ed Kerschner,59.0,
+1999-03-12,Prudential,Greg Smith,75.0,
+1999-03-12,Salomon SB,,,
+1999-03-12,Smith Barney,Committee,55.0,
+1999-03-12,UBS,Gail Dudack,45.0,
+1999-03-12,Wheat First,Don Hays,35.0,
+1999-03-19,Bear Stearns,Liz Mackay,60.0,
+1999-03-19,CIBC,Subodh Kumar,50.0,
+1999-03-19,Credit Suisse,Christine Callies,60.0,
+1999-03-19,DLJ,Thomas Galvin,80.0,
+1999-03-19,Goldman Sachs,Abby Joseph Cohen,70.0,
+1999-03-19,JPMorgan,Douglas Cliggott,50.0,
+1999-03-19,Lehman,Jeffrey Applegate,80.0,
+1999-03-19,Merrill Lynch,Charles Clough,40.0,
+1999-03-19,Morgan Stanley,Peter Canelo,70.0,
+1999-03-19,NationsBank,Thomas McManus,70.0,
+1999-03-19,PaineWebber,Ed Kerschner,59.0,
+1999-03-19,Prudential,Greg Smith,75.0,
+1999-03-19,Salomon SB,Committee,55.0,
+1999-03-19,UBS,Gail Dudack,45.0,
+1999-03-19,Wheat First,Don Hays,35.0,
+1999-03-26,Bear Stearns,Liz Mackay,60.0,1325.0
+1999-03-26,CIBC,Subodh Kumar,50.0,1325.0
+1999-03-26,CSFB,Christine Callies,60.0,1320.0
+1999-03-26,DLJ,Thomas Galvin,80.0,1500.0
+1999-03-26,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-03-26,JPMorgan,Douglas Cliggott,50.0,
+1999-03-26,Lehman,Jeffrey Applegate,80.0,
+1999-03-26,Merrill Lynch,Charles Clough,40.0,
+1999-03-26,Morgan Stanley,Peter Canelo,70.0,1350.0
+1999-03-26,NationsBank,Thomas McManus,70.0,
+1999-03-26,PaineWebber,Ed Kerschner,58.0,
+1999-03-26,Prudential,Greg Smith,75.0,
+1999-03-26,Salomon SB,Committee,55.0,
+1999-03-26,UBS,Gail Dudack,45.0,
+1999-03-26,Wheat First,Don Hays,35.0,
+1999-04-01,Bear Stearns,Liz Mackay,60.0,1330.0
+1999-04-01,CIBC,Subodh Kumar,50.0,1325.0
+1999-04-01,CSFB,Christine Callies,60.0,1320.0
+1999-04-01,DLJ,Thomas Galvin,80.0,1500.0
+1999-04-01,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-04-01,JPMorgan,Douglas Cliggott,50.0,
+1999-04-01,Lehman,Jeffrey Applegate,80.0,1350.0
+1999-04-01,Merrill Lynch,Charles Clough,40.0,
+1999-04-01,Morgan Stanley,Peter Canelo,70.0,1350.0
+1999-04-01,NationsBank,Thomas McManus,70.0,1400.0
+1999-04-01,PaineWebber,Ed Kerschner,59.0,1250.0
+1999-04-01,Prudential,Greg Smith,75.0,
+1999-04-01,Salomon SB,Committee,55.0,1335.0
+1999-04-01,UBS,Gail Dudack,45.0,
+1999-04-01,Wheat First,Don Hays,35.0,
+1999-04-09,Bear Stearns,Liz Mackay,55.0,1330.0
+1999-04-09,CIBC,Subodh Kumar,50.0,1325.0
+1999-04-09,CSFB,Christine Callies,60.0,1320.0
+1999-04-09,DLJ,Thomas Galvin,80.0,1500.0
+1999-04-09,SG Warburg,Gail Dudack,45.0,1200.0
+1999-04-09,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-04-09,JPMorgan,Douglas Cliggott,50.0,
+1999-04-09,Lehman,Jeffrey Applegate,80.0,1350.0
+1999-04-09,Merrill Lynch,Charles Clough,40.0,
+1999-04-09,Morgan Stanley,Peter Canelo,70.0,1350.0
+1999-04-09,NationsBank,Thomas McManus,70.0,1400.0
+1999-04-09,PaineWebber,Ed Kerschner,60.0,1250.0
+1999-04-09,Prudential,Greg Smith,75.0,
+1999-04-09,Salomon SB,Committee,55.0,1335.0
+1999-04-09,Wheat First,Don Hays,35.0,970.0
+1999-04-30,Bear Stearns,Liz Mackay,55.0,1330.0
+1999-04-30,CIBC,Subodh Kumar,48.0,1325.0
+1999-04-30,CSFB,Christine Callies,60.0,1320.0
+1999-04-30,DLJ,Thomas Galvin,80.0,1500.0
+1999-04-30,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-04-30,JPMorgan,Douglas Cliggott,50.0,
+1999-04-30,Lehman,Jeffrey Applegate,80.0,1450.0
+1999-04-30,Merrill Lynch,Charles Clough,40.0,
+1999-04-30,Morgan Stanley,Peter Canelo,70.0,1400.0
+1999-04-30,NationsBank,Thomas McManus,70.0,1400.0
+1999-04-30,PaineWebber,Ed Kerschner,60.0,1250.0
+1999-04-30,Prudential,Greg Smith,75.0,
+1999-04-30,Salomon SB,Committee,55.0,1375.0
+1999-04-30,UBS,Gail Dudack,45.0,1200.0
+1999-04-30,Wheat First,Don Hays,35.0,1058.0
+1999-05-14,Bear Stearns,Liz Mackay,55.0,1350.0
+1999-05-14,CIBC,Subodh Kumar,48.0,1375.0
+1999-05-14,CSFB,Christine Callies,60.0,1320.0
+1999-05-14,DLJ,Thomas Galvin,80.0,1500.0
+1999-05-14,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-05-14,JPMorgan,Douglas Cliggott,50.0,
+1999-05-14,Lehman,Jeffrey Applegate,80.0,1450.0
+1999-05-14,Merrill Lynch,Charles Clough,40.0,
+1999-05-14,Morgan Stanley,Peter Canelo,70.0,1400.0
+1999-05-14,NationsBank,Thomas McManus,75.0,
+1999-05-14,PaineWebber,Ed Kerschner,57.0,1250.0
+1999-05-14,Prudential,Greg Smith,75.0,
+1999-05-14,Salomon SB,Committee,55.0,1375.0
+1999-05-14,UBS,Gail Dudack,45.0,1200.0
+1999-05-14,Wheat First,Don Hays,35.0,937.0
+1999-05-21,Bank of America,Thomas McManus,75.0,
+1999-05-21,Bear Stearns,Liz Mackay,55.0,1350.0
+1999-05-21,CIBC,Subodh Kumar,48.0,1375.0
+1999-05-21,CSFB,Christine Callies,60.0,1320.0
+1999-05-21,DLJ,Thomas Galvin,80.0,1500.0
+1999-05-21,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-05-21,JPMorgan,Douglas Cliggott,50.0,
+1999-05-21,Lehman,Jeffrey Applegate,80.0,1450.0
+1999-05-21,Merrill Lynch,Charles Clough,40.0,
+1999-05-21,Morgan Stanley,Peter Canelo,70.0,1400.0
+1999-05-21,PaineWebber,Ed Kerschner,55.0,
+1999-05-21,Prudential,Greg Smith,75.0,
+1999-05-21,Salomon SB,Committee,55.0,1375.0
+1999-05-21,UBS,Gail Dudack,45.0,1200.0
+1999-05-21,Wheat First,Don Hays,35.0,885.0
+1999-05-28,Bank of America,Thomas McManus,80.0,1450.0
+1999-05-28,Bear Stearns,Liz Mackay,55.0,1350.0
+1999-05-28,CIBC,Subodh Kumar,48.0,1375.0
+1999-05-28,CSFB,Christine Callies,55.0,1320.0
+1999-05-28,DLJ,Thomas Galvin,80.0,1500.0
+1999-05-28,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-05-28,JPMorgan,Douglas Cliggott,50.0,
+1999-05-28,Lehman,Jeffrey Applegate,80.0,1450.0
+1999-05-28,Merrill Lynch,Charles Clough,40.0,
+1999-05-28,Morgan Stanley,Peter Canelo,70.0,1400.0
+1999-05-28,PaineWebber,Ed Kerschner,55.0,
+1999-05-28,Prudential,Greg Smith,75.0,
+1999-05-28,Salomon SB,Committee,55.0,1375.0
+1999-05-28,UBS,Gail Dudack,45.0,1200.0
+1999-05-28,Wheat First,Don Hays,35.0,885.0
+1999-06-18,Bank of America,Thomas McManus,80.0,
+1999-06-18,Bear Stearns,Liz Mackay,55.0,1350.0
+1999-06-18,CIBC,Subodh Kumar,48.0,1375.0
+1999-06-18,CSFB,Christine Callies,55.0,1320.0
+1999-06-18,DLJ,Thomas Galvin,80.0,1500.0
+1999-06-18,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-06-18,JPMorgan,Douglas Cliggott,50.0,
+1999-06-18,Lehman,Jeffrey Applegate,80.0,1450.0
+1999-06-18,Merrill Lynch,Charles Clough,40.0,
+1999-06-18,Morgan Stanley,Peter Canelo,70.0,1400.0
+1999-06-18,PaineWebber,Ed Kerschner,52.0,
+1999-06-18,Prudential,Greg Smith,75.0,
+1999-06-18,Salomon SB,Committee,55.0,1375.0
+1999-06-18,UBS,Gail Dudack,45.0,1200.0
+1999-06-18,Wheat First,Don Hays,35.0,885.0
+1999-06-25,Bank of America,Thomas McManus,80.0,
+1999-06-25,Bear Stearns,Liz Mackay,55.0,1350.0
+1999-06-25,CIBC,Subodh Kumar,48.0,1375.0
+1999-06-25,CSFB,Christine Callies,55.0,1320.0
+1999-06-25,DLJ,Thomas Galvin,80.0,1500.0
+1999-06-25,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-06-25,JPMorgan,Douglas Cliggott,50.0,
+1999-06-25,Lehman,Jeffrey Applegate,80.0,1450.0
+1999-06-25,Merrill Lynch,Charles Clough,40.0,
+1999-06-25,Morgan Stanley,Peter Canelo,70.0,1400.0
+1999-06-25,PaineWebber,Ed Kerschner,51.0,
+1999-06-25,Prudential,Greg Smith,75.0,
+1999-06-25,Salomon SB,Committee,55.0,1375.0
+1999-06-25,UBS,Gail Dudack,45.0,1200.0
+1999-06-25,Wheat First,Don Hays,35.0,1060.0
+1999-07-09,Bank of America,Thomas McManus,80.0,
+1999-07-09,Bear Stearns,Liz Mackay,55.0,
+1999-07-09,CIBC,Subodh Kumar,48.0,1375.0
+1999-07-09,CSFB,Christine Callies,55.0,1320.0
+1999-07-09,DLJ,Thomas Galvin,80.0,1500.0
+1999-07-09,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-07-09,JPMorgan,Douglas Cliggott,50.0,
+1999-07-09,Lehman,Jeffrey Applegate,80.0,1450.0
+1999-07-09,Merrill Lynch,Charles Clough,40.0,
+1999-07-09,Morgan Stanley,Peter Canelo,70.0,1425.0
+1999-07-09,PaineWebber,Ed Kerschner,52.0,
+1999-07-09,Prudential,Greg Smith,75.0,
+1999-07-09,Salomon SB,Committee,55.0,1375.0
+1999-07-09,UBS,Gail Dudack,45.0,1200.0
+1999-07-09,Wheat First,Don Hays,35.0,1060.0
+1999-07-16,Bank of America,Thomas McManus,80.0,
+1999-07-16,Bear Stearns,Liz Mackay,55.0,
+1999-07-16,CIBC,Subodh Kumar,48.0,1375.0
+1999-07-16,CSFB,Christine Callies,55.0,1320.0
+1999-07-16,DLJ,Thomas Galvin,80.0,1500.0
+1999-07-16,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-07-16,JPMorgan,Douglas Cliggott,50.0,
+1999-07-16,Lehman,Jeffrey Applegate,80.0,1450.0
+1999-07-16,Merrill Lynch,Charles Clough,40.0,
+1999-07-16,Morgan Stanley,Peter Canelo,70.0,1425.0
+1999-07-16,PaineWebber,Ed Kerschner,53.0,
+1999-07-16,Prudential,Greg Smith,75.0,
+1999-07-16,Salomon SB,Committee,60.0,1375.0
+1999-07-16,UBS,Gail Dudack,45.0,1200.0
+1999-07-16,Wheat First,Don Hays,35.0,1058.0
+1999-07-23,Bank of America,Thomas McManus,80.0,
+1999-07-23,Bear Stearns,Liz Mackay,55.0,
+1999-07-23,CIBC,Subodh Kumar,48.0,1375.0
+1999-07-23,CSFB,Christine Callies,55.0,1320.0
+1999-07-23,DLJ,Thomas Galvin,80.0,1500.0
+1999-07-23,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-07-23,JPMorgan,Douglas Cliggott,50.0,
+1999-07-23,Lehman,Jeffrey Applegate,80.0,1500.0
+1999-07-23,Merrill Lynch,Charles Clough,40.0,
+1999-07-23,Morgan Stanley,Peter Canelo,70.0,1425.0
+1999-07-23,PaineWebber,Ed Kerschner,53.0,
+1999-07-23,Prudential,Greg Smith,75.0,
+1999-07-23,Salomon SB,Committee,60.0,1375.0
+1999-07-23,UBS,Gail Dudack,45.0,1200.0
+1999-07-23,Wheat First,Don Hays,35.0,1058.0
+1999-07-30,Bank of America,Thomas McManus,80.0,
+1999-07-30,Bear Stearns,Liz Mackay,55.0,
+1999-07-30,CIBC,Subodh Kumar,48.0,1375.0
+1999-07-30,CSFB,Christine Callies,55.0,1320.0
+1999-07-30,DLJ,Thomas Galvin,80.0,1500.0
+1999-07-30,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-07-30,JPMorgan,Douglas Cliggott,50.0,
+1999-07-30,Lehman,Jeffrey Applegate,80.0,1500.0
+1999-07-30,Merrill Lynch,Charles Clough,40.0,
+1999-07-30,Morgan Stanley,Peter Canelo,70.0,1425.0
+1999-07-30,PaineWebber,Ed Kerschner,53.0,
+1999-07-30,Prudential,Greg Smith,75.0,
+1999-07-30,Salomon SB,Committee,60.0,1375.0
+1999-07-30,UBS,Gail Dudack,45.0,1200.0
+1999-07-30,Wheat First,Don Hays,35.0,1058.0
+1999-08-06,Bank of America,Thomas McManus,80.0,
+1999-08-06,Bear Stearns,Liz Mackay,55.0,
+1999-08-06,CIBC,Subodh Kumar,48.0,1375.0
+1999-08-06,CSFB,Christine Callies,55.0,1320.0
+1999-08-06,DLJ,Thomas Galvin,80.0,1500.0
+1999-08-06,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-08-06,JPMorgan,Douglas Cliggott,50.0,
+1999-08-06,Lehman,Jeffrey Applegate,80.0,1500.0
+1999-08-06,Merrill Lynch,Charles Clough,40.0,
+1999-08-06,Morgan Stanley,Peter Canelo,65.0,1425.0
+1999-08-06,PaineWebber,Ed Kerschner,53.0,
+1999-08-06,Prudential,Greg Smith,75.0,
+1999-08-06,Salomon SB,Committee,60.0,1375.0
+1999-08-06,UBS,Gail Dudack,45.0,1200.0
+1999-08-06,Wheat First,Don Hays,35.0,1058.0
+1999-08-13,Bank of America,Thomas McManus,80.0,
+1999-08-13,Bear Stearns,Liz Mackay,55.0,
+1999-08-13,CIBC,Subodh Kumar,52.0,1375.0
+1999-08-13,CSFB,Christine Callies,55.0,1320.0
+1999-08-13,DLJ,Thomas Galvin,80.0,1500.0
+1999-08-13,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-08-13,JPMorgan,Douglas Cliggott,50.0,
+1999-08-13,Lehman,Jeffrey Applegate,80.0,1500.0
+1999-08-13,Merrill Lynch,Charles Clough,40.0,
+1999-08-13,Morgan Stanley,Peter Canelo,65.0,1425.0
+1999-08-13,PaineWebber,Ed Kerschner,51.0,
+1999-08-13,Prudential,Greg Smith,75.0,
+1999-08-13,Salomon SB,Committee,60.0,1375.0
+1999-08-13,UBS,Gail Dudack,45.0,1200.0
+1999-08-13,Wheat First,Don Hays,35.0,1058.0
+1999-09-03,Bank of America,Thomas McManus,80.0,
+1999-09-03,Bear Stearns,Liz Mackay,55.0,
+1999-09-03,CIBC,Subodh Kumar,52.0,1375.0
+1999-09-03,CSFB,Christine Callies,55.0,1320.0
+1999-09-03,DLJ,Thomas Galvin,80.0,1500.0
+1999-09-03,Goldman Sachs,Abby Joseph Cohen,70.0,1325.0
+1999-09-03,JPMorgan,Douglas Cliggott,50.0,
+1999-09-03,Lehman,Jeffrey Applegate,80.0,1500.0
+1999-09-03,Merrill Lynch,Charles Clough,40.0,
+1999-09-03,Morgan Stanley,Peter Canelo,65.0,1425.0
+1999-09-03,PaineWebber,Ed Kerschner,51.0,
+1999-09-03,Prudential,Greg Smith,75.0,
+1999-09-03,Salomon SB,Committee,60.0,1375.0
+1999-09-03,UBS,Gail Dudack,45.0,1200.0
+1999-09-03,Wheat First,Don Hays,35.0,1058.0
+1999-09-10,Bank of America,Thomas McManus,80.0,1500.0
+1999-09-10,Bear Stearns,Liz Mackay,55.0,
+1999-09-10,CIBC,Subodh Kumar,52.0,1375.0
+1999-09-10,CSFB,Christine Callies,55.0,1320.0
+1999-09-10,DLJ,Thomas Galvin,80.0,1500.0
+1999-09-10,Goldman Sachs,Abby Joseph Cohen,70.0,1385.0
+1999-09-10,JPMorgan,Douglas Cliggott,50.0,
+1999-09-10,Lehman,Jeffrey Applegate,80.0,1500.0
+1999-09-10,Merrill Lynch,Charles Clough,40.0,
+1999-09-10,Morgan Stanley,Peter Canelo,65.0,1425.0
+1999-09-10,PaineWebber,Ed Kerschner,52.0,
+1999-09-10,Prudential,Greg Smith,75.0,
+1999-09-10,Salomon SB,Committee,60.0,1450.0
+1999-09-10,UBS,Gail Dudack,45.0,1200.0
+1999-09-10,Wheat First,Don Hays,35.0,1058.0
+1999-10-14,Bank of America,Thomas McManus,80.0,
+1999-10-14,Bear Stearns,Liz Mackay,55.0,
+1999-10-14,CIBC,Subodh Kumar,52.0,1375.0
+1999-10-14,CSFB,Christine Callies,55.0,1320.0
+1999-10-14,DLJ,Thomas Galvin,80.0,1500.0
+1999-10-14,First Union,Rao Chalasani,35.0,1058.0
+1999-10-14,Goldman Sachs,Abby Joseph Cohen,70.0,1385.0
+1999-10-14,JPMorgan,Douglas Cliggott,50.0,
+1999-10-14,Lehman,Jeffrey Applegate,80.0,1500.0
+1999-10-14,Merrill Lynch,Charles Clough,40.0,
+1999-10-14,Morgan Stanley,Peter Canelo,65.0,1425.0
+1999-10-14,PaineWebber,Ed Kerschner,51.0,1400.0
+1999-10-14,Prudential,Greg Smith,75.0,
+1999-10-14,Salomon SB,Committee,60.0,1450.0
+1999-10-14,UBS,Gail Dudack,45.0,1200.0
+1999-10-22,Bank of America,Thomas McManus,80.0,
+1999-10-22,Bear Stearns,Liz Mackay,55.0,
+1999-10-22,CIBC,Subodh Kumar,52.0,1375.0
+1999-10-22,CSFB,Christine Callies,55.0,1320.0
+1999-10-22,DLJ,Thomas Galvin,80.0,1500.0
+1999-10-22,First Union,Rao Chalasani,35.0,1058.0
+1999-10-22,Goldman Sachs,Abby Joseph Cohen,70.0,1385.0
+1999-10-22,JPMorgan,Douglas Cliggott,50.0,
+1999-10-22,Lehman,Jeffrey Applegate,80.0,1400.0
+1999-10-22,Merrill Lynch,Charles Clough,40.0,
+1999-10-22,Morgan Stanley,Peter Canelo,65.0,1425.0
+1999-10-22,PaineWebber,Ed Kerschner,51.0,1400.0
+1999-10-22,Prudential,Greg Smith,75.0,
+1999-10-22,Salomon SB,Committee,60.0,1450.0
+1999-10-22,UBS,Gail Dudack,45.0,1100.0
+1999-10-29,Bank of America,Thomas McManus,80.0,
+1999-10-29,Bear Stearns,Liz,55.0,
+1999-10-29,CIBC,Subodh Kumar,52.0,1375.0
+1999-10-29,CSFB,Christine Callies,55.0,1320.0
+1999-10-29,DLJ,Thomas Galvin,80.0,1500.0
+1999-10-29,First Union,Rao Chalasani,35.0,1058.0
+1999-10-29,Goldman Sachs,Abby Joseph Cohen,70.0,1385.0
+1999-10-29,JPMorgan,Douglas Cliggott,50.0,
+1999-10-29,Lehman,Jeffrey Applegate,80.0,1400.0
+1999-10-29,Merrill Lynch,Charles Clough,40.0,
+1999-10-29,Morgan Stanley,Peter Canelo,65.0,1425.0
+1999-10-29,PaineWebber,Ed Kerschner,51.0,1400.0
+1999-10-29,Prudential,Greg Smith,75.0,
+1999-10-29,Salomon SB,Committee,60.0,1350.0
+1999-10-29,UBS,Gail Dudack,45.0,1100.0
+1999-11-05,Bank of America,Thomas McManus,80.0,
+1999-11-05,Bear Stearns,Liz Mackay,55.0,
+1999-11-05,CIBC,Subodh Kumar,52.0,1375.0
+1999-11-05,CSFB,Christine Callies,55.0,1320.0
+1999-11-05,DLJ,Thomas Galvin,80.0,1500.0
+1999-11-05,First Union,Rao Chalasani,35.0,1058.0
+1999-11-05,Goldman Sachs,Abby Joseph Cohen,70.0,1385.0
+1999-11-05,JPMorgan,Douglas Cliggott,50.0,
+1999-11-05,Lehman,Jeffrey Applegate,80.0,1400.0
+1999-11-05,Merrill Lynch,Charles Clough,40.0,
+1999-11-05,Morgan Stanley,Peter Canelo,65.0,1425.0
+1999-11-05,PaineWebber,Ed Kerschner,51.0,
+1999-11-05,Prudential,Greg Smith,75.0,
+1999-11-05,Salomon SB,Committee,60.0,1350.0
+1999-11-05,UBS,Gail Dudack,45.0,1100.0
+1999-11-12,Bank of America,Thomas McManus,80.0,
+1999-11-12,Bear Stearns,Liz Mackay,55.0,
+1999-11-12,CIBC,Subodh Kumar,52.0,1375.0
+1999-11-12,CSFB,Christine Callies,55.0,1320.0
+1999-11-12,DLJ,Thomas Galvin,80.0,1500.0
+1999-11-12,First Union,Rao Chalasani,65.0,
+1999-11-12,Goldman Sachs,Abby Joseph Cohen,70.0,1385.0
+1999-11-12,JPMorgan,Douglas Cliggott,50.0,
+1999-11-12,Lehman,Jeffrey Applegate,80.0,1400.0
+1999-11-12,Merrill Lynch,Charles Clough,40.0,
+1999-11-12,Morgan Stanley,Peter Canelo,65.0,1425.0
+1999-11-12,PaineWebber,Ed Kerschner,52.0,
+1999-11-12,Prudential,Greg Smith,75.0,
+1999-11-12,Salomon SB,Committee,60.0,1350.0
+1999-11-12,UBS,Gail Dudack,45.0,1100.0
+1999-11-19,Bank of America,Thomas McManus,80.0,
+1999-11-19,Bear Stearns,Liz Mackay,55.0,
+1999-11-19,CIBC,Subodh Kumar,52.0,1375.0
+1999-11-19,CSFB,Christine Callies,55.0,1320.0
+1999-11-19,DLJ,Thomas Galvin,80.0,1500.0
+1999-11-19,First Union,Rao Chalasani,65.0,
+1999-11-19,Goldman Sachs,Abby Joseph Cohen,70.0,1385.0
+1999-11-19,JPMorgan,Douglas Cliggott,50.0,
+1999-11-19,Lehman,Jeffrey Applegate,80.0,1400.0
+1999-11-19,Merrill Lynch,Charles Clough,40.0,
+1999-11-19,Morgan Stanley,Peter Canelo,65.0,1425.0
+1999-11-19,PaineWebber,Ed Kerschner,52.0,
+1999-11-19,Prudential,Greg Smith,75.0,
+1999-11-19,Salomon SB,Committee,60.0,1350.0
+1999-11-19,UBS,Gail Dudack,45.0,1100.0
